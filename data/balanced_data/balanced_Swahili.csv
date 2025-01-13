@@ -1,0 +1,809 @@
+id,premise,hypothesis,lang_abv,language,label
+6d63ae6397,Watoto wangegonga milango ya majirani zao na,Watoto wangeweza kwenda kwa majirani zao nyumba.,sw,Swahili,0
+ca2570d90c,Mashua kama hayo yalitengenezwa kuruhusu fursa ya kufiki kwa meli zinazowasili.,Boti zilianzishwa ili iwe rahisi kupata  meli zinazokuja.,sw,Swahili,0
+fc9b9e81ec,"Sijawahi kuelewa kwanini uandishi wa kimataifa wa simu ya kitaifa haitumiwi katika kamusi ya kiingereza ya kila aina, lakini hii ni zaidi ya upeo wa maneno yetu katika ukaguzi huu.",Mapitio haya ni madogo kwa upeo kwa hiyo hayajadili kwa nini Uandishi wa Waandishi wa Kimataifa wa Simutiki hautumiwi katika kamusi za Kiingereza.,sw,Swahili,0
+61f15fd66d,"Mnamo Mei 1, tunapaswa kuhitimisha chaguzi za upya wa uanachama kwa wachangiaji wa 1991.",Kuna nafasi kwa wanachama 1500 kutengeza upya uanachama wao.,sw,Swahili,1
+6211b5072d,Alikuwa mahuttuti katika mchafuko wa Cuban na Kaiser alizipata picha na akaelekea Andrews Air Force mjini Washington.,Ni mtu mmoja tu ndiye aliyeuawa katika ajali ya mgogoro wa Cuba,sw,Swahili,1
+ba01e23d88,"Kama mimi Msikoti wa majivuno, ninahisi kuwa sababu kubwa ya hii maanzilishi ya ukosefu wa tamaa ya kilugha inapatikana kwa majimbo ya kinyumbani.",Lugha ya kikanda inawezekana kutokana na ukosefu wa tamaa ya lugha.,sw,Swahili,0
+5bb743d827,Makumbusho hayakuwa imara kwenye orodha au lebo,Makavazi hayo hayapendi kuandikwa.,sw,Swahili,1
+3129b1ebce,Aligeuka kumuomba mungu Julian.,Lord Julian hakuwa anaonekana popote.,sw,Swahili,2
+76cf5310b1,Bado alikuwa mle ndani.,Alikuwa amekwenda bila ishara.,sw,Swahili,2
+ada6630bdf,Elimu ya kisheria ya kijamii ni huduma muhimu inayotolewa na watoleaji wa LSC.,Misaada ya LSC inaelimisha jamii.,sw,Swahili,0
+c9564000f9,"um, nina mtoto mmoja msichana mdogo ambaye ana umri wa miezi kumi na nane","nina mtoto mmoja, binti wa miezi kumi na nane",sw,Swahili,0
+46ceab3ce3,"Kuchukua marupurupu na kinga ya wananchi kama thamani muhimu ya utaratibu mpya, kama vile Black inavyofanya, hujenga matatizo yake ya usawa chini ya sheria.",Wananchi wanaweza kuwa na marupurupu yao.,sw,Swahili,0
+2c7e7cbdff,"Sisi kwa kweli twaiunda dunia yetu pamoja, sisi wakosoaji",Kilakiumbe hai huathiri dunia tunayoishi.,sw,Swahili,0
+8c7f490686,Baadhi ya rekodi za lexical za kitabu zina tia shaka.,Uchaguzi wa kitabu hiki unaochanganya hufanya maudhui haya kuchanganya.,sw,Swahili,1
+7e156d04f7,"Kuchukua marupurupu na kinga ya wananchi kama thamani muhimu ya utaratibu mpya, kama vile Black inavyofanya, hujenga matatizo yake ya usawa chini ya sheria.",Wananchi hawawezi kamwe kupoteza haki zao.,sw,Swahili,2
+0f9350fb6a,"Kwa hivyo sasa, ni hivi, anaitaka leo.",Anasema angependa kuipata leo.,sw,Swahili,0
+c919dcfc31,Washington inazidi kuendelea vizuri sana kwa sababu hawajashindwa. Pia Buffalo New Orleans na Chicago kwa sababu Chicago wamepoteza mara mbili tu na mojawapo ilikuwa dhidi ya Buffalo.,Washington imepoteza kila mchezo.,sw,Swahili,2
+087a2f1635,Sababu iliyotajwa mara chache sana ni kuzingatia ubora wa ndani.,Programu ya 'Inhouse core' haina umuhimu mkubwa.,sw,Swahili,1
+e830105d5f,"Alisema, Mpenzi, huyaelewi maisha jinsi ninavyoyaelewa.",Alisema kuwa hakuwa na ufahamu wowote.,sw,Swahili,2
+32cacb4eaf,"Hatimaye aliongeza ukanda, nyumba ya sanaa, na mnara.",Aliongeza vitu vitatu.,sw,Swahili,0
+b1e534ea50,Uzalishaji wa Mercury huchangia uhifadhi wa zebaki katika maji.,utoaji wa zebaki umeleta shida kwa samaki majini.,sw,Swahili,1
+cd1f2cb2c7,walipingana kuhusa ni akina nani walikuwa vijana wa mikono na ni akina nani walikuwa vijana wa kushinda nyumbani. Ilikuwa...,Walikubaliana wote watafanya kazi kwenye viwanja,sw,Swahili,2
+e06d935bd7,"Kwa hakika, moja ya vipengele vya kuvutia vya grafu za teknolojia ni kwamba hufanya mfumo sahihi wa kufikiria mchakato na kubuni wakati huo huo.",Grafu hukuonyesha mfumo wa haki wa utafutaji wa nafasi.,sw,Swahili,1
+4ccf1a1df4,Nadhani ndiyo maana ninakumbuka hilo.,Hiyo labda ndio sababu nilikumbuka hilo.,sw,Swahili,0
+d0d87f5b0a,Kituo chako iko kwenye staha ya bunduki.,Umewekwa kwenye staha ya bunduki.,sw,Swahili,0
+24add1b738,"Hata hivyo, alimalizia kwa kuja huko na akauliza, Inakuja vipi?",Hakuzungumza nasi kabisa,sw,Swahili,2
+5c9d72aeed,"Kwa maelezo zaidi, angalia //www.healtheffects.org/Pubs/NMMAPSletter.pdf.",Kuna maelezo kwa www.healtheffects.org/Pubs/NMMAPSletter.pdf.,sw,Swahili,0
+4936c3c62e,"Regional Haze RIA na NOX SIP Call RIA), makadirio ya chini ya mwisho ya faida yalikuwa ya kizingiti katika madhara ya afya ya PM katika 15: g / m3.",Walikadiria faida.,sw,Swahili,0
+c86b232326,"Hata kama wakati nilikuwa kijana niliishi upeo wa shamba la Kimeksiko,nakumbuka nikifuga majina ziwe nyimbo za magharibi kutoka kaskazini mwa US,Cayuse kwa mfano.",Sikustajabishwa kwa maneno ya mashamba makubwa,sw,Swahili,2
+661f66a1a7,"Na, kwa kweli, Androv Gromikov hakujibu kitu chochote, lakini tulikuwa na habari zote kutoka kwa filamu za U2 zilizochukuliwa.",U2 ilichukua filamu nyingi.,sw,Swahili,0
+f1e7179245,"Meya wa Letohrad, mji ambao Josef Korbel alikua, anasema alimtumia Albright barua tatu miaka ya karibuni.",Korbel hajawahi kuwa na mayo.,sw,Swahili,2
+f663f2ab12,"Louisa May Alcott na Nathaniel Hawthrone waliishi Pinckney Street, huku Barabara ya Beacon ambayo Oliver Wendell Holmes alitaja barabara angavu iliyoshikilia mwanahistoria aliyejisifu William Prescott.",Hawthorne aliishi katika mtaa mkuu.,sw,Swahili,2
+a1a11d4e8e,Na mara moja angekumbuka maneno angekuwa ameweza.,Angekumbuka yale maneno kama angeweza kukumbuka.,sw,Swahili,0
+c768bd1632,"Pia katika Australia, Centrelink imeamua kwamba asilimia 65 ya malipo yake yasiyozuilika yanayotuhusiwa 13  utangazaji usio sahihi wa mapato kwa mteja au mfadhilika.",Centelink haijawahi kuwa na malipo yasiyo sahihi yanayosababishwa na tangazo la mapato lisilo sahihi la wateja.,sw,Swahili,2
+de291ab534,Watu wadogo wana umri gani?,Watu wadogo ni kikundi ambacho watu wengine wana shida kuainisha kwa umri.,sw,Swahili,0
+5a8a815ca4,Anglers wa maji safi lazima wawe na ruhusa kutoka ofisi ya utalii iliyo karibu na habari kuhusu jinsi ya kupata moja.,"Unaweza kukamata chochote unachotaka, wakati wowote utataka.",sw,Swahili,2
+1c9564ca34,Makumbusho ya Baharini huonyesha historia ya Bandari ya Pasifiki.,Jumba la makumbusho la Maritime ni la kuhifadhi historia.,sw,Swahili,0
+7f4974f17c,"Kipindi hiki kinaonyeshwa katika Mfano A-3 katika Kiambatisho A. Hata hivyo, kulingana na maalum ya mradi huo, muda unahitajika unaweza kutofautiana kwa miezi michache",kiambatisho cha A kinaonyesha wakati,sw,Swahili,0
+bbc569de8f,"Ununuzi wa ziada unaweza kupunguza hatari kwa kutambua matatizo mapema, ambayo inaruhusu mabadiliko rahisi au marekebisho.",Ununuzi wa ziada utaongeza hatari.,sw,Swahili,2
+a30a5263bc,"Mbilikimo ambao Anthony John Campos anawaita watu wadogo, pichilingis ni viumbe wanaofanya mzaha wa kiutundu.",Anthony John Campo watu wadogo huwa wasumbufu sana.,sw,Swahili,0
+8ea967ee63,"Uh,nilikuwa wa kwanza katika tisa kueka sindano kwa mdhibiti.",Niliweka sindano Jumanne.,sw,Swahili,1
+36e1460380,".., lakini mara ya pili wa tukio, anapatikana kati ya marafiki wawili.","Ana mkutano mmoja tu, inayoshirikisha rafiki yake.",sw,Swahili,2
+febb74a5f6,Aliashiria kwenye kiraka cha usawa inatia hofu lakini kuna nafasi.,Alijitokeza kuelekea kichaka ambacho kilikuwa kinahuzunisha.,sw,Swahili,1
+bd45b6d2ac,"Ukweli ni kwamba majadiliano ya msalaba yanaweza wakati mwingine kufanana na mambo yote matatu, kulingana na madhumuni, wasikilizaji, na athari.",Majadiliano huwa hayapo.,sw,Swahili,2
+c7c1aaf9c6,"Wakati huo huo, jeshi la hewa lilinunua ndege SR71, ambayo sasa ni A-12, ambayo ilikuwa yafanya kazi na shirika la akili la kati",Jeshi la Angani lilibadilisha ndege.,sw,Swahili,0
+92ccacf542,Mamia ya wanajeshi shujaa wachache chini ya Leonidas wa Sparta yalichelewesha jeshi kubwa la Uajemi katika njia ya Thermopylae kwa muda wa kutosha kuwaondoa Waathene kuwapeleka kisiwa cha Salamis,Waparteni walishinda Waajemi katika Thermopylae.,sw,Swahili,2
+cae72ed01b,Kubadilika huko kwa hisia kulikuwa kwa ajabu.,Hisia ilibadilika sana.,sw,Swahili,0
+a42e093494,"Sipati kitu kinachovutia, cha burudani, au kinachofaa kuhusu yoyote yafuatayo, ambayo ni ya kawaida ya",Ninaona baadhi ya mambo yakiwa na thamani kwangu,sw,Swahili,2
+002e1d0c9d,"OH, kumbe yako ni ya milango minne.","Gari lako na kubwa kuliko langu, na lina milango minne.",sw,Swahili,1
+69458998b4,"McCoy inakaribisha msaada wa __ Company Foundation kwa kiasi cha $ 10,000.","McCoy anaitisha $250,000.",sw,Swahili,2
+27df997f77,Wakala wanahitaji kua na uwezo wa kupima mafanikio.,Wakala wanaweza kujua kama wamefanikiwa kwa kiasi cha fedha wanachokuza.,sw,Swahili,1
+63e20bcc02,Ingeweza kuchukua angalau mara nyingi maisha ya sasa ya ulimwengu kwa ulimwengu wa kusimamia kufanya kila protini iwezekanavyo wa urefu angalau mara moja.,Itachukua miaka michache tu kutengeneza protini zote.,sw,Swahili,2
+3dcc6ea50f,"Vile haya yalitendeka Disemba iliyopita,alipata kura mia moja.",Ilipita na kiwango cha asilimia 99.,sw,Swahili,2
+17e657c65e,"Pieata imefungiliwa mtini, na kamba ndefu inayotumiwa na mtu mzima, ambaye anaweza kuhamisha pieata juu na chini, hivyo haitapasuka haraka sana.",Mmemetuko unarangi nyingi.,sw,Swahili,1
+9bfd4dfd39,"Ina maana kila kitu kwa Becky, Stephanie, Marcus na Emily, na wanafunzi kama wao.",Becky ni mwanafunzi,sw,Swahili,0
+32c4e38b48,Tutaenda huko ndani.,Hatutawahi ingia ndani.,sw,Swahili,2
+53e11f463b,"Brendan Gill, aliyekuwa mkurugenzi mtendaji wa kundi la Kata ya Bexar, alisema kuwa amekuja kuona ushirikiano kama hatua nzuri kwa Texas Kusini.",Brendan Gill alipata pesa baada ya kuunganishwa kwa kampuni.,sw,Swahili,1
+81aa1d39cc,"OH, kumbe yako ni ya milango minne.",Una mlango mmoja tu.,sw,Swahili,2
+3b4ac89614,Lamar Alexander aliangusha jitihada yake ya urais.,Angalau mtu mmoja alikata tamaa kwa lengo lake la kuwa rais.,sw,Swahili,0
+8ae6eb46bf,KSM anaweza kuwa ameagiza Binalishibh atume pesa kwa Moussaoui ili asaidie kutayarisha Moussaoui kama rubani mbadala  mwenye uwezo wa Jarrah.,KSM aliiambia Binalshibh cha kufanya kwa sababu alikuwa mkuu wa shirika zima.,sw,Swahili,1
+7812d86604,"Ukumbi wa raia na jumba la tafrija,namba ya simu ni 01-7282333 linalkojulikana kama Megaron katika Vas.",Megaron ni ukumbi mkubwa zaidi wa tamasha nchini.,sw,Swahili,1
+55e5081770,Walinieleza ya kwamba mwishowe ningeitiwa jamaa fulani ambaye tungepatana naye.,Sikuambiwa chochote kuhusu kukutana na mtu yeyote.,sw,Swahili,2
+73e2b04d82,"Katika kitabu kinachohusiana na suala la aina hii mtu lazima awe mwangalifu sana kuunganisha na ufafanuzi thabiti wa maneno muhimu (euphemism, dysphemism,  mwiko nk) na usiondoke kutoka kwaoke.",Kitabu kinaongea jinsi maneno yanavyo tumika katika tiba.,sw,Swahili,1
+abfd894f53,"Mifano ya vyombo vyote vinavyoundwa  nchini zinaweza kupatikana kwa wingi hapa, na utaweza kununua bei nafuu zaidi kuliko vituo vya matembezi, hasa ikiwa unafanya ujuzi wako wa kuuza kabla.",Ni rahisi kununua vitu hapa kwa sababu hakuna kodi.,sw,Swahili,1
+8eff511cba,Na alikuwa pale daima kwa ajili yetu.,Alikuwa tegemeo nzuri.,sw,Swahili,0
+e5ef8de7ee,"Mavazi na Brigitte Doth, Jade Stice, na Penny Laimana.",Watu watatu walichangia kutengeneza nguo.,sw,Swahili,0
+e593fb6d91,Ofisi ya jumla ya uhasibu ilichunguza habari za hio bunduki na haikuweza kuafikiana nazo.,Ofisi ya Uhasibu Mkuu haikuweza kuthibitisha hadithi ya bunduki,sw,Swahili,0
+f57d5bb50f,"Katika njia hii, YMCA inatazamia kutimiza kanuni za kikristo kwa kuwiweka katika mazoezi kupitia programu inayohimiza ukuaji wa kibinafsi na kujenga afya ya roho, akili na mwili kwa wote.",YMCA ina mipango zaidi ya 100 ambayo inaunga mkono kanuni za Kikristo.,sw,Swahili,1
+a8d9337bba,Hata sasa Blood hana na macho kwa hiyo.,"Kutoka September, Blood amekuwa na nia sana.",sw,Swahili,2
+3511f97057,Kwa kuangalia nyuma ya jicho lake alitazama umbo dhaifu la kijivu likipanda mwenzake.,Ana macho matatu.,sw,Swahili,2
+b54a83f317,Sioni vile alitarajia mimi niifanye.,Najua alijua sitaweza maliza hii leo usiku.,sw,Swahili,2
+ac40a66920,Angalia Wallis na Varjabedian kwa picha za kisasa za moradas ya kale zilipatikana kaskazini mwa New Mexico.,Hakuna picha zilizopo zinazojulikana za zamani za moradas huko New Mexico.,sw,Swahili,2
+67af221283,Rejeo pekee niliyo nayol inayoelezea mstari huo(Kitabu cha The Penguin Book of Comics) inamaelezo machache dhaifu.,Kumbukumbu niliyo nayo ina utatanishi.,sw,Swahili,0
+c05877f106,"Kwa kuchukua fursa kwao wote, hatuhitaji kutegemea upande mmoja ule kwa mfumo ili kufanya kazi.",Tunawezapata shida kupata makali katika mambo fulani lakini haipaswi kuwa ngumu vile kwa jumla.,sw,Swahili,1
+41ce3f8a0b,49 Bima ya mshahara inawezesha viparara wa siagi kupata ufanisi/faida ya gharama tu kwa kulipa mshahara uliopo.,wadanganyifu hufanya mambo yasiyokubalika na hawashikwi,sw,Swahili,1
+ec9fabfd64,"Kanda ya kusini-magharibi iliyokuwa na uchunguzi na kumbukumbu zaidi ya kuhusiana na taratibu za harusi huko New Mexico, kwa sababu wazazi wa Hispania ya awali wamekuwa na ufahamu wa kuelezea na kuandika mila zao.",Kuna ushahidi kwamba wazao wa Hispania wa kwanza wangeweza kuandika.,sw,Swahili,0
+45280f46e8,"Bila shaka, azimio lako lilikuwa la thamani, Shukrani kwake kwa kukuokoa kutoka kwa wa Spaniards",Waspania walipanga kukutupa majini wakati wa usiku.,sw,Swahili,1
+dcc4b13243,"Wao walijadili malengo katika lugha ya msimbo, wakijifanya kuwa wanafunzi wakizungumzia maeneo mbalimbali ya usanifu majengo unaojulikana kwenye Kituo cha Biashara cha Ulimwengu, sanaa ya Pentagon, sheria ya Capitol, na siasa ya White House.",Waliongea kuhusu ujenzi wa alama za njia na kuzitumia kama maneno ya siri.,sw,Swahili,0
+6cd210d6f3,TVA walieka ujenzi kutumia gesi  kuelekea FGD ilhali ESP iliharibiwa na SCR ikaekwa kule.,Barabara ya kando itatuma gesi kwa FGD.,sw,Swahili,0
+8a406720ce,"Hizo ni meli za kikundi cha meli  cha Jamaica, bwana matawala akamjibu.",Ufalme wake ulimwambia kwamba meli zilikuja kutoka kwa meli za Jamaica.,sw,Swahili,0
+743f356c53,"Mnamo mwaka wa 1868 na kupitishwa kwa Marekebisho ya Kumi na nne, tulikuwa tumezingatia kizingiti cha mapinduzi ya kikatiba.",Marekebisho ya kumi na nne yalianzishwa mwaka wa 1868.,sw,Swahili,0
+e31bbef1fa,"Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.",SS ya tatu ndio kikosi kibaya zaidi cha polisi wapanda farasi.,sw,Swahili,1
+0f211541d4,Nilikwenda na nikachukua mizigo mbeleni na nilitazama anwani niliyopaswa,Nilichukua mfuko huo hadi ulipofaa.,sw,Swahili,0
+409cc584c5,"Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.",Mimi sitaki kuwa sehemu ya tatu SS.,sw,Swahili,0
+6b62348257,Utungaji huo bila shaka ungeacha hisia kwamba sehemu ya kamba ilikuwa imepata moto.,Muono uliotolewa ni kwamba moto ulianza katika upande wa uzi.,sw,Swahili,0
+6bbee8b4a5,Mfanyakazi wa jimbo atakuwa karibu kusaidia wasaidizi na utafiti wao pia.,Hakuna atakayekuwa hapo kukusaidia na utafiti.,sw,Swahili,2
+098c5ed731,"Pia tunasisitiza michezo inayohusiana na historia, fasihi na mada ya kujifunza kijamii.",Tunajaribu kufanya michezo isiyoangalia historia au fasihi.,sw,Swahili,2
+3982e87714,"Sehemu moja ya majeshi ni kikosi cha ujenzi, ambacho kilikuwa kimefupishwa mpaka  C.B.",Maelezo ya Batallion ya Ujenzi wa majeshi ni C.B.,sw,Swahili,0
+b8d1e8e3ee,Tafadhali toa sasa ili tuweze kurudi kukupa wewe na marafiki zako na majirani.,Hatuhitaji misaada yoyote zaidi.,sw,Swahili,2
+1d852331b9,Michezo sio tu matukio ya kamari katika maeneo haya.,Maeneo haya huchukua bora zaidi kwenye shughuli kadhaa.,sw,Swahili,0
+d1f959b554,na hivyo ni mimea kubwa ya plastiki nadhani una sabini ama asilimia sabini na tano y  soko au kitu kama hicho,Nafikiri wanadhibiti zaidi ya soko.,sw,Swahili,0
+7449ec003c,"Utaratibu wa ulimwengu wa ufuatiliaji wa asili ya furaha, uliofanyika katika Azimio, hutoa njia ya kiumbe ya ufafanuzi wa taratibu za sheria.",Tamko linasema kuwa unafaa kutafuta utajiri.,sw,Swahili,2
+93ba2a3601,Fedha zinahitajika hapa kwa ajili ya matumizi kama fedha za mbegu tunapojitahidi kuanzisha miradi ambazo zinapaswa kuifanya shule ijitegemee.,"Hatuhitaji pesa zaidi, wakati wenu tu.",sw,Swahili,2
+919c615618,Mawakili wanaopokea malipo kutoka kwa shirika la sheria wanatakikana kufwatilia maisha ya wateja wao na kujiondoa katika kesi iwapo wateja wao wageni wanaondoka Marekani,Wanasheria hulipwa na LSC kama wanafanya kazi katika ugaidi.,sw,Swahili,1
+016f65a89c,"Kwa hiyo, wakati kuna protini nyingi tofauti, idadi ya maumbo ya ufanisi yanaweza kuwa tu kwa utaratibu wa milioni mia moja.",Kuna zaidi ya proteni milioni moja tofauti ambazo zina maumbile tofauti.,sw,Swahili,0
+dfb3bd1687,"Na kuna, nadhani, kidokezo cha molekuli ambacho hifadhi cha maumbile kinaendelea kujishughulisha na utawala unaoweza kuendeleza kwa seti inayoenea ya mstari.",Bayongahewa yenyewe hubadilika sana.,sw,Swahili,0
+10dd1e1008,"Kuanzia Mei hadi katikati ya Oktoba, Boston Harbor Cruise Company (Nambari ya Simu.",Kuna safari za babdarini katika bandari ya Boston.,sw,Swahili,0
+f88f913326,Kuona wachungaji wowote kule Broadway hivi karibuni au hata kutajwa katika The New York Times?,Kuna wachungaji wachache sana Broadway.,sw,Swahili,0
+edab59a3cb,"Cete de Charlevoix ni sehemu ya urefu wa Laurentian, kufikia Mto Saguenay ambapo coureurs de bois hugeuka kutafuta furs.",Mto Saguenay ulikuwa sehemu ya soko la makaa.,sw,Swahili,2
+0bdfcdef10,Jambo moja ambalo najivunia sana ni kuwa IRT ni kiongozi nchini kote katika kutoa uzoefu wa sinema kwa wanafunzi.,IRT inahusika katika soka,sw,Swahili,2
+7be5303fe8,"Katika krusedi la Sita (1228- 1229), Mfalme Mtakatifu wa Roma Frederick II aliweza kusitawisha Yerusalemu kwa ajili ya wakristo kwa mazungumzo.",Kaisari alifanya biashara na Uajemi.,sw,Swahili,2
+11edfd2462,Kushughulikiwa hivi kwa wale wanaotoa mchango kubwa ni kawaida.,Hakuna kitu kipya katika aina hii ya matibabu kwa washiriki wakubwa.,sw,Swahili,0
+22daade5c5,"Zaidi ya sifa ya Las Vegas ya kuwakaribisha watalii, hatujaona ushahidi wowote wa kuaminika unaoelezea kwa nini, katika tukio hili na mengine, washirika walikwenda au kukutana huko Las Vegas.",Hao wapelelezi walienda Las Vegas mara nyingi kwa muds mfupi.,sw,Swahili,1
+695990d33a,"Katika utaratibu wa kisheria wa postbellum, matokeo sawa yanatokana na kanuni za shirikisho za taifa.",Uamuzi wa kisheria wa Postbellum uliisha na majibu yale yale kwa sababu ya shirirkisho la katiba ya Barbados.,sw,Swahili,1
+d29cd6a717,Chini ya daraja ndani mwa bandari ni kisiwa kidogo kinachoitwa Kisiwa cha Potter.,potter cay ni maili tatu tu,sw,Swahili,1
+13b508cfee,"Mara nyingi, mazungumzo haya ya mapema yalijulikana kama sanaa ya watu.",Sanaa za kale zilikuwa zinajulikana kama sanaa ya miungu.,sw,Swahili,2
+1f59a7dbea,buscarle la quinta pata al gato 'kutafuta mguu wa tano wa paka' ni kawaida sana na maana 'ya kutafuta taabu',Msemo ni kuhusu paka aliye na miguu mitatu.,sw,Swahili,2
+a9ba016364,"Kwa mfano, katika GGD, utafiti wa kubuni ulifanywa kama kazi tofauti, mwisho",masomo yalifanyika katika kutengwa,sw,Swahili,0
+3a212457b3,"Deborah Cameron na Deborah Hills ( ' Nikiskiza': kushauriana mahusiano kati ya wasikilizaji na watangazaji katika programu za redio na simu ) wamefanya utafiti wa wa utoaji wa redio ya LBC, kituo cha majadiliano yote cha London, ambacho nmesikiliza kwa hamu.",Sinao redio na sina nia ya kusikiliza programu za redio.,sw,Swahili,2
+b20c96d26b,Wanaweza pia kuwa wazuri baada ya kufunzwa.,Wanapopata mafunzo wanaweza kuwa wazuri kabisa,sw,Swahili,0
+6de173f79e,Na leo tunapaswa pia kuwa na misingi ya kuzingatia usawa wa mwanadamu kama haki ya msingi ya haki ya kijamii na kisiasa.,Hatupaswi kufikiria usawa wa binadamu wakati tunapozingatia haki ya kijamii na kisiasa.,sw,Swahili,2
+a3df3672a2,Kugandishwa kwa mali kwote duniani hakujatekelezwa kikamilivu na imekuwa rahisi kuzunguka sana sana ndani ya wiki kadhaa kwa njia rahisi.,Wakati mwingine watu wanaweza kuepuka kufungia mali kama wanalipa fedha nyingi kwa msaada.,sw,Swahili,1
+edf1e74cc3,Hauna heshima bwana kama vile nishaona.,Mtu huyo ni mtulivu na mwenye busara,sw,Swahili,2
+e02d2aaf45,"Utukufu wa juu huenda kwenye Riven - au kuboreshwa kwa mchezo bora wa kompyuta wakati wote, Myst - kuhusu mtu aliyepigwa kisiwa","Chakusikitisha, mchezo wa kompyuta unaoitwa Myst haukutolewa kwa umati.",sw,Swahili,2
+69de640a88,"Ni kama faili moja yenye tab nzima, tofauti, unajua, kila tab ina kama lahajedwali tofauti juu yake.",Ukurasa huo ni orodha moja tu ya nambari.,sw,Swahili,2
+5a7e210f5a,"Lawrence Singleton,mwenye sifa mbaya ya ubakaji alivamia mwathiriwa mikono na alizuia miaka nane zelani,alizuiliwa tena kwa kumuuua mwanamke mwingine Florida.",Ilikuwa dhahiri kwa kila mtu kuwa wakati wake gerezani ulikuwa umemrekebisha kabisa.,sw,Swahili,2
+167a1ec5d6,si...si..sikuota.,Sikuota ijumaa iliyopita.,sw,Swahili,1
+af86cb50c0,Kulaani na kuapa kwa Kihispania ni uvumbuzi-- echar sapos y culebras maana halisi 'kutupa nje vyura na nyoka.,Uchukizo wa Hispania ni wa kufikiri; Echar sapos y culebras ina maana ya kutupa nje vyura na nyoka.,sw,Swahili,0
+eb00024487,Kutazama msichana aliyevaa koti nyeupe la manyoya na buti.,Msichana amevaa kwa kuteleza.,sw,Swahili,1
+6406cb8e01,Hivi ndivyo jinsi julivyo tu. Angalia sasa yu matatani.,Uko katika hatari.,sw,Swahili,0
+3289458157,"Na maandiko ya fahari, vitambaa hivyo vilivyopewa majina yadhihaka katika elimu ya kienyeji hutumia majina ya kubandikwa katika maazungumzo yao kibinafsi , maongezi ya saluni na mtaala usio rasmi",Gazeti hizo hazina sifa nzuri.,sw,Swahili,0
+0e886f2c2c,Bahari ya joto hutofautiana kati ya 18e na 24e C (64-75e F).,"Angalia temprecha ni kubwa wakati wa mchana, wakati ni joto.",sw,Swahili,1
+5c1b056362,"Kama watu 100,000 kwa siku huja kushangaa kwa usanifu na kuchunguza vivutio kwa mji huu unao zidi kubadilika.",Karibu watu elfu 100 huja kuangalia jiji kila siku.,sw,Swahili,0
+3337dbdc23,Kwa hivyo ilikuwa ya kuvutia sana,Sikukuwa nia yoyote.,sw,Swahili,2
+14404f231e,"Mchezo unapofanyika kwa hoteli na malipo mengine, uthibitishaji wa tripu halisi utafanywa.",Hakuna njia ya kuthibitisha ikiwa safari ya kweli ilitokea au la.,sw,Swahili,2
+98a7a7dca7,"Meya wa Letohrad, mji ambao Josef Korbel alikua, anasema alimtumia Albright barua tatu miaka ya karibuni.","Korbel iliongoza wakazi 5,000 wa Letohrad.",sw,Swahili,1
+9508d50f92,Vyombo vya habari vya chuo kikuu kongwe na kubwa zaidi duniani - Oxford - imetangaza tu kuwa inafuta orodha yake ya mashairi.,chuo hicho cha kifahari hakina fedha za kuendeleza orodha ya kishairi,sw,Swahili,1
+33e4fe7416,"Wasemaji ambao wanataka kuwavutia wasikilizaji wao wanahitaji kuwa na pointi muhimu za telegraph na ukweli, kisha wawatangaze, kisha kurudia, kuigiza, kuelezea, na kupamba.",Kurudia ni sehemu moja ya mbinu za kuvutia za hotuba.,sw,Swahili,0
+0010d02d52,"Malum kamili, ukumbi kamili uliotengenezwa umefanya tofauti kwa watoto kama Becky, Stephanie, Marcus, Emily, na wanafunzi wenzao katika Indiana.",Ukumbi wetu wa matoleo umewasaidia watoto wa shule ya msingi kujifunza jinsi ya kupa rangi.,sw,Swahili,1
+d0d6d69ebd,"11 Hata hivyo, katika uongezaji mgumu zaidi, muda unaopotezwa unaweza kuathiriwa kwa njia kubwa.",Vifaa vilivyo karabatiwa havina athari halisi wakati wa chini.,sw,Swahili,2
+67dc7991cc,Huyu msichana anaweza kukusaidia kuenda popote utakapo mjini.,Msichana ninayehitaji msaada kutoka kwake anaishi mbali.,sw,Swahili,0
+26b05fe508,Nathamini fikira zako na natumai ya kwamba utashiriki katika kampeni ya mwaka huu wa kila mwaka.,Sitaki pesa zako!,sw,Swahili,2
+56b7f0867e,Mtoe na uwatolee ishara watume mashua. Kimya cha mshangao kilijaa kwa meli na tuhuma ya kujisalimisha kwa ghafla.,Wafanyakazi wote katika meli badala yake walishtuka kwa yale mavuno.,sw,Swahili,0
+b7ff13fb47,"Na, ni tofauti, kama kwa kila mteja, ni faili zao zote.",Huwa wanaweka faili zote.,sw,Swahili,0
+3261a3f6ab,"Vyakula vilivyonururishwa sana ninakaa salama, vya manufaa na vya bei nafuu.",Kila mtu anapaswa kupsha moto chakula chake maanake ni hatari kukula chakula bila kufanya hivyo.,sw,Swahili,1
+25f743dd41,Tena nyanyangu akaamka na akaanza kutembea chini ya ngazi za ukumbi akielekea barabarani. Alafu akasimama hapo bila kutembea.,Nyanya alikaa kwenye ukumbi.,sw,Swahili,2
+031ca7a552,Ni wajibu wa 'CIO' kusimamia matarajio na kusaidia kuhakikisha kuwa wanachama wote wa shirika la 'CIO' wana ufahamu wazi wa majukumu yao.,"CIO ana kazi mingi, ikiwemo kuchunga matarajio na kuhakikisha wanachama wanaelewa wajibu wao.",sw,Swahili,0
+1be231f93b,Unaona mbegu ya ndani ya Dominant Mendelian ilichaguliwa kwa urahisi wakati hali ya mazingira ilichipuka.,Mazingira hayakuwa sahihi kila wakati kwa jeni tawala la Mendelian.,sw,Swahili,0
+36e7d14b23,Matumizi ya teknolojia mpya kwa kujitegemea vifaa vya kuingilia kwa ufupi na maoni inaweza kusaidia kujaza mapungufu katika mfumo wa huduma kwa wagonjwa walio na hatari na  tatizo la kunywa.,uvamuzi wa moja kwa moja wa wagonjwa unaweza kuwa na maana.,sw,Swahili,0
+d093d555c4,"Mtu hakutarajia chumba kilichojaa wasimamizi wa ushirika kupiga chata, kuzomea na kupiga kelele ya upuuzi wakiwa katika kikao cha mwandishi wa kazi wa US",Mtu angetarajia wawakilishi wa ushirika kuteta.,sw,Swahili,2
+0e3acc70ec,"Sipati kitu kinachovutia, cha burudani, au kinachofaa kuhusu yoyote yafuatayo, ambayo ni ya kawaida ya",Sioni kitu cha thamani kwa wakati wangu.,sw,Swahili,0
+4cfbff8a71,"Inavyoenda kwa mwendo wa kinyoka, juu na chini, nchi inachukua shepi ya kustaajabisha, jambo ambalo linawaacha watalii wengi wakifungua vinywa vyao.",Kuta hilyo iko kwenye nchi wazi.,sw,Swahili,2
+4ef3d134c2,Mabadiliko katika maadili ya magongo juu ya mipaka ambayo hubadilisha maeneo na kiasi cha kiungo miraba inaweza kufikiriwa kama kupoteza geometri ili iweze kupiga njia tofauti.,Jiometri ya tetrahedra si ngumu.,sw,Swahili,0
+3564a2ca28,Baadhi ya watu wanaweza amini hadithi hiyo. Alirusha gumba la dharau kwa wanaume wa kiuno ambao daraja zao zilikuwa zinaongezwa kwa kasi kufuatia kukuja kwa wengine kutoka kwa utabiri.,watu wengine wanaamini hadithi ya malkia aliliwa na joka,sw,Swahili,1
+cfd8db6aee,"ah, ha, ndio, tuna ushuru ya nguo.",Kodi ya mauzo ni ya juu sana.,sw,Swahili,1
+6da1e60abf,Hekima inayotawala Washington wiki hii ni kwamba waandishi wachanga kama Glass wanaotia bidii wanahitaji kuhurumiwa kwa sababu mfumo unawashikiza kuwa hodari kabla ya kuwa wasafiri.,Glass ni mwandishi wa Times.,sw,Swahili,1
+3f72fcaa78,Kila mtu huwa yuwapewa mvinyo lakini wengine hawanywi na kwa hivyo kinachobakia watoto hunywa. Huwa tunaenda kila mahali tukinywa mvinyo.,Sherehe yote ilikuwa kavu na hakuna pombe iliyotumika.,sw,Swahili,2
+dfb96d8b8b,Hizi zinajumlisha nafasi ambazo hazikuonekana mbeleni kuendeleza masomo ya wanafunzi na kitivo kwa kualika wageni maalum na wasomi kwenye chuo hicho wanapotembelea eneo hilo.,Wanafunzi wanaweza faidika kutokana na matembezi ya chuoni,sw,Swahili,0
+de57f4f080,"Riwaya wastani ya maneno 200,000 kwa $ 25 inamaanisha kufanya kazi kwa maneno 8,000 kwa dola.","Riwaya ya maneno 200, 000 kuuzwa kwa $25 ni bei nzuri.",sw,Swahili,1
+81348c07b3,Dadangu huwa anipasha kila mara kwa mimi ni kama nyanya yetu tu. Huwa nawatend a watu vibaya kwa sababu zile mbaya.,Dada yangu alisema kuwa kamwe sikumfanana nyanyangu.,sw,Swahili,2
+106d447703,"Uh-huh, ni ya kuchekesha, na ninadhani napenda maonyesho ya kuchekesha kwa sana.",Napenda kuangalia maonyesho ya kuchekesha.,sw,Swahili,0
+f542e82f42,"Wasikilizaji hawaonekani; kila mtazamaji ako katika chumba chake kidogo, kinachoitwa sebule.",Hauwezi kuwaona hadhira.,sw,Swahili,0
+13b4171861,"Hata hivyo, ikiwa nikifananisha Jengo la RCA la Hood na Ujenzi wa Pan Am (leo MetLife) ya Gropius, kuna shaka kidogo ambaye alikuwa mwumbaji zaidi wa ubunifu.",Mjengo wa Hood RCA ulikuwa na ubunifu.,sw,Swahili,1
+aba2ec9bda,"Hilo litatuliza joto la Kanali Askofu, labda.",Kanali Askofu tayari ni mwema.,sw,Swahili,2
+7040e67e80,Natumaini kusikia kutoka kwako hivi karibuni.,Natumai utanipigia kesho.,sw,Swahili,1
+93efbd3c88,"Mnamo Mei 1, tunapaswa kuhitimisha chaguzi za upya wa uanachama kwa wachangiaji wa 1991.",Wanachama wengine wanaweza kuandikisha uanachama wao upya.,sw,Swahili,0
+da37e4d702,"Mbomoko wa fleti za Faaades, mabweni, na duka za chini ya ardhi za kupatana bei za msururu wa Karl-Marx-Allee kuongoza kusini mashariki kutoka Alex.",Karl-Mark-Allee ameziona siku bora zaidi.,sw,Swahili,1
+6b1a91d237,"Na ni bora gani ya hizi? - Je! Wewe wamwogopa mjinga Barbados mpanda?  ? Nini chakusumbua wewe, Petro? Sijawahi kukujua kuwa mwoga. Bunduki ilifyatuka nyuma yao.","Nilijua siku zote kwamba wewe huhofia kwa urahisi, Peter.",sw,Swahili,2
+c31e66e14c,Kuanza kwa 1991 unafanya upya kumbukumbu za siku za uanafunzi chuo kikuu cha Indiana,Kuanza mwaka wa 1991 kulifutwa kutokana na hali mbaya ya hali ya hewa.,sw,Swahili,2
+d1db610db7,Ndio kuna kitu kuhusu kuwa na mahali pa kuishi sijui,Kuwa na mahali pa kuishi ni ndoto kuu imetimika.,sw,Swahili,1
+cdac147065,"Kwa wanyama ambao hawapatikani na wamiliki wao, Humane Society hutumia huduma mbalimbali za kusaidia wanyama hao na kuwapa fursa ya maisha ya furaha.",Jamii ya Humane husaidia wanyama kuishi maisha ya furaha.,sw,Swahili,0
+017c4fee83,"Imara, mbwa mwitu mzee! Imara! kapteni Blood alimshauri.",Kapteni Blood alimpigia kelele Old Wolf.,sw,Swahili,0
+10608ace3e,"ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.",Sikupenda sana semina iliyofanyika kwa setilaiti.,sw,Swahili,2
+9884762ec2,"Katika njia hiyo hiyo, wapigaji chapa wanategemea nguvu zote za mikono kuunda maneno, badala ya umeme ama usaidizi (elektroniki)",Wachapishaji huhitaji msaada wa umeme ili kuunda maneno.,sw,Swahili,2
+28c9c8302f,"Ulinidai --au nlidhani nlifanya, alisema.",Ana deni lako kwa ajili ya msaada ambao ulimpa kama mtu wa kuombaomba asiye na pesa.,sw,Swahili,1
+4545a54158,"Ili kuzuia sura ya ushoga kama jambo mbaya, Clinton na Birch wamewalimbikizia mashoga sifa za kiraia .",Usenge unaonekana kuwa njia.,sw,Swahili,0
+56a6a6c320,Ninaandika kukushukuru kwa zawadi ulizopatia maktaba ya chuo cha IUPUI na ninaomba ufungue upya hio uzaidizi.,Nakuuliza utoe zawadi nyingine kwa maktaba za chuo kikuu cha IUPUI .,sw,Swahili,0
+aeea2c0799,"Mwenyewe, mimi kabisa ni wa maoni ya Wolverstone.",Ninakubali kuwa nimekosa kukubaliana na Wolverstone hapo awali.,sw,Swahili,1
+4e4e2b7edf,Nina ua la tiff Bermuda hapa na linahitaji maji mengi na unafaa kuliweka likiwa fupi zaidi kama unataka lifanane na gofu kijani.,Bustani za Bermuda ni kazi nyingi.,sw,Swahili,1
+40e81b8db9,"Ninafiria, haya, ninaenda kuacha mtu mwingine aende, lakini ninafikiria, Mungu wangu!",Nilidhani nitaenda kuruhusu mtu mwingine aende badala yake.,sw,Swahili,0
+23ea23165a,Milima yenye mviringo ya Serra de Tramuntana imeshuka kwa bahari kwa kasi sana hapa kuna maeneo machache ya upatikanaji na bandari moja tu na bandari ya ukubwa wowote kando ya pwani.,Kuna bandari 27 kwenye milima,sw,Swahili,2
+ab8b0524d3,Utumuzi wa teknolojia unaweza kupunguza wakati unaohitajika kwa wenye kutoa huduma kukagua na kulenga wagonjwa wanaoweza kunufaika kutokana na jumbe fupi za mwingilio.,Teknolojia inaweza kupunguza muda inayotumiwa na wakimu na watumishi kuwaangalia watu kwa asilimia 80.,sw,Swahili,1
+c596a313d6,FBI lazima iendeleze usalama mkali na wa viwango vya ustadi kwa wafanyakazi wake wa kudumu na mkataba.,FBI huwa haifikiri kuhuse wafanyikazi wake.,sw,Swahili,2
+3dd2c5b420,"Ubora wa juu wa utaratibu wa kikatiba wa Ujerumani baada ya vita, basi, ulikuwa ni majeruhi makubwa zaidi ya utawala wa Nazi.",Utawala wa Nazi uliuuwa kila mtu aliyehusika.,sw,Swahili,1
+98a865d1cf,"Katika usindikaji hati wako, mfumo wa automatiska inaweza kulinganisha habari iliyopo katika malipo halisi yaliyosindikwa na kampuni ya malipo ya kadi na yale yaliyodaiwa kwenye hati.",Tiketi ya usafiri inapotumiwa mfumo unakwama na unakataa kufanya kazi.,sw,Swahili,2
+385c53b252,Kuna sababu mbona hakukuambia?,Kwa nini hakukueleza kuhusu hilo?,sw,Swahili,0
+4753bf26b7,Nimekuwa nikimwinda huu mwaka na uliopita.,Nimekuwa nikimfuatilia kwa karibu wiki hivi.,sw,Swahili,2
+97a87a8842,Yaonekana alikuwa amekisia kuwa umri wa babake.,Alikuwa na umri wa miaka 27 kuliko yeye.,sw,Swahili,1
+3d4b1a74a7,Wengi wanaona uhamasishaji kama sio zaidi ya ishara kubwa ya matajiri.,Watu wengine wanafikiria kufadhili kwa kujitoa ni kitu watu matajiri wanafanya.,sw,Swahili,0
+fc8b2336a2,"Oh, lakini--kwa idhini yako--kwa kweli hakuna cha kuhofia kutoka kwa askofu kanali.",Huenda Colonel Bishop hakuwa na chochote cha kujishindia.,sw,Swahili,0
+06aea2a73c,Angalia yule mnyama mdogo wa ajabu huko?,Siwezi kumuona hayawani mdogo dadisi.,sw,Swahili,2
+ea669bc0f5,"Steve Harris, mwana biolojia wa molekuli kutokaTexas alikuwa ametutembelea.",Steve alikuwa akitembelea California ili kujifunza sampuli mpya.,sw,Swahili,1
+d28c47a886,Kazi ya kwanza ni kumaliza vita na kuunganisha taifa.,Tunafaa kuhakikisha vita ilindelee kwa miaka miingi.,sw,Swahili,2
+5f47d9eebe,"Mfululizo wa mashindano ya uvuvi hufanya msimu kwa matajiri, werevu, na wazuri, ambao wanashuka kuvua samaki wakati wa mchana na kufurahia eneo la kijamii lililo hai baada ya giza.",Watu hupenda kunywa pombe nyingi kwenye baa wanapoenda uvuvi.,sw,Swahili,1
+1a13f8a4c6,Tunaweza endelea kuipa nguvu masomo ya mawakili wazuri.,Tunaweza kuwaelimisha mawakili ikiwa tutawapa kufikia maktaba ya sheria.,sw,Swahili,1
+e08c3c8047,"Sikujua Bi Faulk vizuri sana alikuwa na umri wa karibu miaka 80 na, ah, alikuwa mtu mzuri nilimwona mara chache lakini nilikuwa na wasiwasi sana kuhusu hilo.",Bi Fauk aliendesha Honda ya manjano kuelekea kazini kila siku,sw,Swahili,1
+f5b466c53c,Ila tu haikuwa jambo la kufichika kwa sababu hasira na sumu yake ilikuwa wazi kwa wote kuona,alijaribu kuficha uso wake wa mabaya na uso mzuri kidogo zaidi,sw,Swahili,0
+c28daedd2d,"Utawala, Dhuluma yaUtumiaji wa Dawa za Kulevya na Huduma za Afya na Akili za Afya, na Utawala wa rasilimali za Huduma za Afya.",Utawala wa Rasilimali na Huduma za Afya ndio muhimu zaidi.,sw,Swahili,1
+e811bb0b59,"Ni, bila shaka, badala ya kudhani kwamba kuna kutokuwa na uhakika wa kiasi katika sheria, lakini haionekani kuwa haiwezekani.",Haiwezekani kudhani kwamba kuna daghadagha la kihesabu katika sheria.,sw,Swahili,2
+237a75fed3,Masanduku haya huja na nyaya ( zinazoitwa kebo katika biashara kwa sababu inavutia zaidi) zinazoziruhusu ziunganishwe kwa nyingine na katika chanzo cha nguvu.,Kebo ni jina la kifahari zaidi kuliko waya wakati wowote katika biashara.,sw,Swahili,1
+b6898b2837,"Lenny Bruce alianzia kuomba msamaha wake hivi--na nanukuu kutokana na kumbukumbu mbaya--Kuendelea kwa uhalifu, magonjwa, kuteseka na vifo ni hivi ambavyo huniweka mimi, Albert Schweitzer, and J. Edgar Hoover katika biashara.",Bruce huomba msamaha mara mingi.,sw,Swahili,1
+7b2377ea05,"Unajua, faida nyingine niliyopata , sikuichukua kwa manufaa, angalau kabla kampuni kubwa wakati mwingine hulipia masomo.",Wakati mwingine makampuni makubwa hukusaidia kulipia elimu.,sw,Swahili,0
+94b68fcf2b,Jambo moja la matukio ya lugha kutokea katika miaka mia moja iliyopita ni kukubali dhana kwamba njia muhimu kwa kutatua shida ni kuzipa majina,baada ya tatizo kufumbuliwa suluhisho hupatikana kwa muda unaokubalika,sw,Swahili,1
+73c9800962,Magazeti ya mitaa na watangazaji wachache wa satelaiti kama vile al Jazeera-mara nyingi huimarisha mandhari ya jihadist ambayo inaonyesha Marekani kama wasiopenda muislam.,Magazeti yote ya Marekani lazima yaonekane kuegemee Waislamu.,sw,Swahili,2
+f00bac03d1,"Karibu na matukio ya awali na bado kutoa ushahidi wazi zaidi kwa siku za Klondike, boomtown ya Dawson City ilijitokeza mwaka wa 1951 kwa kituo cha usafiri na mawasiliano cha Whitehorse kama mji mkuu.","Kule Whitehorse, gari za farasi ndizo zilitumika kwa usafiri.",sw,Swahili,1
+33614dab0f,Mradi tu huna pingamizi kuonyeshwa na wataalam wakazi wenye umri wa miaka kumi.,Vijana wa miaka kumi wanajua yote kuhusu sayansi.,sw,Swahili,1
+f398ad68c9,Changamoto ninayotafuta kwa sasa ni neno ambalo linaloweza kugawanywa kwa aina mbili tofauti mfululizo.,Sijakuwa na wakati rahisi kupata neno ambalo linaweza kukatwa katika fomu mbili ndogo zinazofuatana.,sw,Swahili,0
+ae286b358b,Wajua siku iliyofuata Rais Kennedy alizuilia Cuba na meli zetu zikasimamisha meli moja ya Urusi ilikuwa ikielekea Cuba na wakapata vilipuzi ndani.,Hawakusimamisha meli yoyote kwa sababu hawakutaka mgongano.,sw,Swahili,2
+4105cd94e2,"ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.",Nilienda warsha iliofanywa na Satelite.,sw,Swahili,0
+6ba14342a2,Inashangaza kwamba kipengele hicho kinaweza kutokea katika uchumi kwa ujumla.,Haishangazi kuwa kipengele sawa haina nafasi nkwenye uchumi ndogo.,sw,Swahili,2
+16ffd9a4a0,"Mkazi aliyetoka kutoka ziara ya kuongozwa , kwa njia ya ajabu, wengine hufanya, kutokana na kukumbuka , walisema kuwa chakula kilikuwa kizuri kuliko ya hoteli nyingi za San Francisco.",Mtu mmoja alisema kuwa alipenda chakula cha jela sana.,sw,Swahili,0
+20c1430a56,"Zaidi ya Payangan, kichorochoro kidogo kinachotumika zaidi, hupitia katika njia ya kifahari yenye manthari nzuri kwenda Batur (tazama ukurasaa59).",Hii barabara inatoka Payangan hadi Batur.,sw,Swahili,0
+7e1b4d92a0,Msambazaji wa mfumo wa SCR wa kijerumani ameweka SCR juu ya sehemu kubwa ya uwezo wa Ujerumani ndani ya vipindi vya mzunguko yenye wiki ndogo chini ya nne.,Mfumo wa SCR uko Australia pekee.,sw,Swahili,2
+f9a8b86480,"Mfanyakazi wa kisheria wa Shirika la ujasusi la Marekani  kati ofisi yao Paris aliwasiliana na serikali ya Ufaransa tarehe Agosti 16 au 17, muda mfupi baada ya kuzungumza na wakala wa kesi wa Minneapolis kwenye simu.",FBI walifungua ofisi Paris mwaka wa 1925.,sw,Swahili,1
+651eb1452f,"ndio, walikuwa na kundi zima la vitu ambavyo vilivunja wakati mmoja",Hakuna vitu zao zilizovunjika.,sw,Swahili,2
+66ec78de5d,Majadiliano na wawakilishi wa jiji na mashirika mengine ya kiraia na ya kijamii kuhusu maendeleo ya IMA na amp.,IMA inafanya kazi na mashirika mengine katika eneo hilo.,sw,Swahili,0
+bbe05d3dd7,"Tunatarajia utafurahia kuzungumza nao, lakini unaweza okoa fedha za utawala wa IRT kwa kutuma zawadi yako katika bahasha ya kurudi leo.",kuna uwezekano wa kutuma zawadi yako kutumia posta.,sw,Swahili,0
+baefc5809b,"Hauna hakika, umeifanya wazi kuhusu ni upande unaounga.",Ni dhahiri ni nani unaye muunga mkono.,sw,Swahili,2
+7dd4693c7e,"Hiyo safari ilikua inafaa hiyo kiwango, vile mapatamo ya uelewano wa Jamhuri ya waaminifu wa Texas.",Safari ya Texas ilikuwa ya furaha kupata kujifunza juu ya imani ya Kikristo na motisha.,sw,Swahili,1
+b241b9f69e,"Tangazo katika gazeti la New York Gazette la Rivington mnamo Oktoba 6, 1774, lilitaka kijana ajue kuhifadhi vitabu kuzingatia njia ya Italia, na mwingine alikuwa kutoka kwa mtu ambaye anataka mahali.",The Gazette ilikuwa gazeti katika Mexico.,sw,Swahili,2
+189cc3c975,"Uanachama ulijumuisha  kati ya wanaume wazima thelathini na hamsini kwa sura (inayoitwa moradas) na waligawanyika kuwa wanachama wawili wa kawaida, wanaoitwa hermanos disciplantes (ndugu ambao wanawaadhibu), na maafisa, waliwaita hermanos de luz (ndugu wa mwanga).",Vitengo hivi vilikuwa na jukumu la kugeuza watu wa asili katika Amerika ya Kati.,sw,Swahili,1
+593e602b98,Utajuaje kama umeridhika ama hujaridhika na jinsi taarifa zinapeanwa?,Nashuku hujawahi tazama habari ya network.,sw,Swahili,2
+d94b77de1f,Sikuweza kupata ufafanuzi kama huo kamusi ya visawa,Niliangalia kwenye Thesaurus na sikupata ufafanuzi.,sw,Swahili,0
+26d1adc9ae,Hakuna tofauti kati ya wanafunzi wadogo na wazee katika alama za mtihani wa mafanikio.,"Ingawaje matokeo ya mtihani ya wanafunzi wa umrimdogo na mkubwa ni sawa, wanafunzi wa darasa moja wenye umri mdogo humaliza mtihani haraka zaidi.",sw,Swahili,1
+947a94d19e,"Hata hivyo, hivi karibuni Paris imeunda maili za njia za baiskeli ambazo zinapita katikati mwa mji mzima, na kufanya uendeshaji wa baiskeli kuwa salama sana (na kujulikana zaidi).",Ni salama zaidi kuendesha baiskeli Paris.,sw,Swahili,0
+34459472db,"Hata hivyo, ongezeko kubwa katika gharama za vitabu vya sheria, majarida, na huduma za habari zina maana kwamba tu kudumisha makusanyo yetu ya sasa huzidi bajeti yetu.",Bajeti yetu ya sasa haituruhusu kudumisha makusanyo yetu ya sasa.,sw,Swahili,0
+8d13bfa2c6,"Kutishia hakuwezi kutumika,nahodha.","Sio jambo la kukubalika kutishwa, mmoja wa nahodha hao, alisema.",sw,Swahili,0
+a417c669b8,"Um, hapana, kuwa waaminifu, sijawahi kusoma vitabu vyovyote nilivyotakiwa kusoma.",Nasoma vitabu kila siku.,sw,Swahili,2
+3c532badb4,"Ni mbaya sana kwamba kelele kuhusu Finkelstein imefuta mwandishi mwenzake, Birn.","Birn anapata takabadhi yote, tangu habari kuhusu Finkelstein.",sw,Swahili,2
+9086b9db3f,"Tofauti kubwa zilibainishwa, hata hivyo, kama",Kulikuwa na fotauti zilizoonekana wazi.,sw,Swahili,0
+660014e25d,Sijashtushwa na kile ambacho Wolverstone amesema.,Wolverstone amesema jambo ambalo halikufanya mtu kujisikia kupungua.,sw,Swahili,0
+8a15d6de04,"Kwa hiyo, nikamwita U-Haul kuuliza kuhusu sera zake za kukodisha.",Nilipigia U-Haul kuhusu sera zao za pili za maderava,sw,Swahili,1
+aff1f7c2f6,"Faaade ya Hekalu la Ramses II ni mojawapo ya picha za kudumu zaidi za Misri na ingawa unaweza kuwa umeziona katika picha, ni kweli za ajabu kwa kweli.",Faade ilikuwa hekalu ya Ramses wa Pili.,sw,Swahili,0
+b3088c823f,"Kila kitu kimeunganishwa, mungu wangu, sijui hata kwa ni muda gani.",Sijui ni kwa muda gani stori inaendelea.,sw,Swahili,1
+df0799dcd8,"Kwa mchango wako kwenye Maktaba, utakuwa mwanachama wa Marafiki wa Jiji.",ili uwe rafiki wa Citywide unahitaji kuchangia maktaba,sw,Swahili,0
+3a2354a6e8,Vipi? Alimuuliza kwa glafla na mshtuko wa hamu.,Punde tu akavutiwa kwenye gumzo.,sw,Swahili,0
+6d6f3f219e,"Baada ya karne mbili ya uzushi, kanisa ilihitaji mwamko mpya wa kiroho, na ikampata rafiki kamili katika Francis wa Assisi (1182-1226), mzingatia dini  bila ya usumbufu wa fujo.",Kanisa lilipata usaidizi mwingi wa kifedha kutoka kwa Francis wa Assisi.,sw,Swahili,1
+7f12a31fd5,"Kwa mfano, baadhi ya dondoo hutolewa kwa usahihi kutoka kwenye vifaa vinavyotumiwa au mahakama ambayo mchezo huu huchezwa.",Jambo hili hutokea mara kwa mara wakati mchezo unapoundwa kwa kutumia vifaa vya michezo mingine.,sw,Swahili,1
+22526e9ed8,Nyani aina ya Leaf monkeys na macaques wenye mikia mirefu ni baadhi ya wanyama pori.,Wana tumbili 200 huko.,sw,Swahili,1
+df393a3386,Charles Lane Jamhuri Jipya anasema kuwa Habari za Ukamataji zinapanua rekodi ya Gabriel Garcaa Marquez ya uandishi wa habari usioaminika.,Charles Lane ni mwandishi.,sw,Swahili,0
+29271a65cb,"Janga la mabomu ya ubalozi liliwapa nafasi kote serikalini ya uchunguzi kamili, ya tishio la usalama wa kitaifa ambalo Bin Ladin alifanya.",Ulipuaji katika ubalozi uliwaua watu kumi na watano.,sw,Swahili,1
+e0e885e513,"Ninakuomba kujiunga na mimi katika kuweka upya ahadi yako ya msaada kwa Maktaba ya Chuo Kikuu katika IUPUI, na kuzingatia kuongeza mchango huo.",IUPUI haikubali misaada tena.,sw,Swahili,2
+0eef6833cb,Sina habari za kutosha.,Nahitaji kupata habari zaidi kuhusu hii jambo.,sw,Swahili,0
+6361ade1e6,Lakini pia kuna ushindani mkali kati ya shule za sheria ili kuvutia wanafunzi bora zaidi na wenye makali zaidi.,Shule za sheria zinataka wanafunzi bora zaidi.,sw,Swahili,0
+842f7abca3,Na leo tunapaswa pia kuwa na misingi ya kuzingatia usawa wa mwanadamu kama haki ya msingi ya haki ya kijamii na kisiasa.,Social and political justice should foster human equality.,sw,Swahili,0
+dc1579f33e,"Yeye akawa, Usijali kuhusu hilo, unajua, chukua muda wako tu.",Aliniambia nafaa kuharakisha mara moja.,sw,Swahili,2
+ebaccf9a1e,Lakini Wolverstone hangeacha.,Wolverstone haukufika mwisho,sw,Swahili,0
+ae6dceab39,Ilikuwa raha mno na na nilikuwa nmevuma sana. Nafikiria ilikuwa ni wiki moja baada ya kujitokeza,Nilikuwa kule usiku ikifunguliwa kwa hakika.,sw,Swahili,2
+a07a9388a0,Darwin huanza na maisha tayari hapa.,Darwin alianza na maisha yaliyokuwako.,sw,Swahili,0
+ab68526ce0,"Si kawaida, mimi hupita mapishi yoyote ambayo ina zaidi ya hatua tano au sita kwa sababu najua kamwe siwezi kuchukua muda wa kufanya hivyo",Huwa sifanyi resipi ngumu.,sw,Swahili,0
+162a8dc48c,Baridi bado na mbali zaidi kuliko milele ilikua sauti ya uongozi wake.,"Mfalme aliongea na kila mtu kwa upole, kuoneshana kuwa mtu wa joto na upole.",sw,Swahili,2
+6a974171f5,"Ili Kuwa mteja wa kuunda Dhamana, Mshirika Aliyezingatia katika Matokeo ya Biashara.",Ni bora kutilia maanani faida na si wateja.,sw,Swahili,2
+94ba3c3131,Mtu anawezaje kufanya hivyo.,Itakuwaje kwamba watu wengi hawana cha kufanya?,sw,Swahili,2
+e4df4c7471,"Miramar, mkaazi mzuri aliye na makao ya kifamilia, hufaidika kutokana na nafasi yake kando na uwanja ya ndege ya Grande",Miramar mna nyumba zilizorembeka.,sw,Swahili,0
+040ad2316a,"Mwanamume huyu alizaliwa Ujerumani, ni tajiri, msomi, amezuru sehemu nyingi sana...","Mtu huyu alizaliwa huko Arkansas na alikuwa maskini, asiye na elimu na hakuwahi kusafiri.",sw,Swahili,2
+faf0ef12f0,Njia ya Lamar Alexander ya utendaji kazi  ni muhimu kuzingatia ingawa haina mantiki ya kutosha.,Mtu hafai kupoteza wakati akizingatia mbinu ya Lamar Alexander.,sw,Swahili,2
+feb799d32f,"Miezi mitatu baada ya kujiandikisha, wawakilishi wa nje wanatathmini sampuli ya madai ya kila mtoa mpya ili kuona kama kuna masuala yoyote ambayo yanayopaswa kujadiliwa.",Wawakilishi wa shamba hawajadili madai.,sw,Swahili,2
+d98396ffea,"Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.",Snake River imejaa nyoka.,sw,Swahili,0
+41bb1ee8b1,"Mnamo Agosti 25, baada ya kusanyiko la Kidemokrasia lilifungua mji wa Atlantiki, N.J., Johnson, mwenye umri wa miaka 56, alitishia katika mazungumzo matatu yaliyoandikwa kujiondoa kwenye mashindano ya urais.",Johnson hakuwai kufikiria kuhusu kujitoa.,sw,Swahili,2
+5231fa98cb,Unajua nani angeelewa.,Nafikiri unajua nani anaweza kuelewa.,sw,Swahili,0
+fc1358d63a,CIA iliufunguanisha ile sinema na kuipeleka ka Muungana wa Kimataifa(UN) siku iliyofuata.,CIA ilileta filamu kwa Umoja wa Mataifa.,sw,Swahili,0
+14732dcdb1,"Na kama ingekuwa na mwendo wa dharura na kuendelea hivyo hivyo, ingeenda 'whish,' na kana kwamba ingeng'oa kichwa chako.",Itaongezeka mara moja tu.,sw,Swahili,2
+05e03ce5ad,"Tangu mwaka wa 1996, utajiri kwa kila nyumba imeongezeka sana, hadi kufikia 6.4 mwaka wa 1999.",Kaya zimepoteza utajiri mwingi.,sw,Swahili,2
+2da1d4d98c,"Leo neno barbacoa hutumiwa tu kumaanisha kupikia nyama ndani ya shimo, pia huitwa kupikia shimo.",Neno barbacoa lilitumika kwanza huko Misri ya kale.,sw,Swahili,1
+eb72892f8a,Haiwezekani kujua kiwango au mwelekeo wa upendeleo katika mabadiliko ya jumla ya matukio kulingana na matumizi ya jumla ya kazi moja C-R kila mahali.,Ni kawaida kuna upendeleo.,sw,Swahili,2
+9dfd848472,Baadhi ya dhana zimeonyesha kufaulu kwao kwenye hatua ya majaribio na ziko tayari  kufanyiwa upanuzi.,Wengine wao wamefaulu nyakati za mitihani.,sw,Swahili,1
+5a984e3e66,Wakuu pia waliangazia Pakistan na kenye inaweza  kuwafanyia wenye Taliban na wenye Al Qaeda.,Talebani walikuwa marafiki wa karibu na Al Qaeda.,sw,Swahili,1
+cc5274bed4,"Kwa hivyo, mshahara wake ukaongezwa na marupurupu mengine kuongezwa maradufu, kutoka takriban dola 465 za Marekani hadi 3,925 katika kiwango hicho hadi Desemba 2000.",Alihitaji pesa zaidi ili asafiri.,sw,Swahili,1
+51fee2a9f2,"Sauti kama maili tatu kwa kipenyo,kaldera ilifikiriwa kuwa kubwa katika mlipuko wa volkano.","Mlio wa maili 2 waweza kuwa ulisababivhwa na vitu vingi, pamoja na mlipuko wa volkano.",sw,Swahili,1
+bd8db6f505,"jiji la Liao Beijing, hapo awali likijulikana kama Yanjing, Limekaa katika eneo la Kusini Mashariki, ambalo ni mji mkuu wa kisasa leo, ikiwa na hekalu la Fayuan,mnara pekee uliobaki.",Hekalu la Fayuan hupata wageni zaidi ya mia tano kila siku.,sw,Swahili,1
+20d8ad45c4,"Bwana, ni kama ako nafsi mbili tofauti.",Bosi wangu alikua mcheshi na thabiti.,sw,Swahili,2
+2b01f43d61,"Wanatufundisha kuwa thabiti, imara, na wenye busara.","Kuwa na uazimio, mtu asiyekubali haraka na mbunifu ni ujuzi ambao unaweza kufundishwa.",sw,Swahili,0
+10c2e07eaf,"Kizazi cha Mheshimiwa Kaplan kimekufa kwa kiasi kikubwa, na watoto wake wamekuwa wa-Amerika.",Wengi wa kizazi cha Bw. Kaplan washakufa.,sw,Swahili,0
+ed09c4ab39,"Ulinzi wa usafiri, nishati, huduma za dharura, huduma za kifedha, na mifumo ya mawasiliano inazidi kuwa muhimu kwa sababu hutegemea sana teknolojia ya habari.",Ni rahisi kwa walaghai wa tarakilishi kulenga mifumo ya usafiri na nishati.,sw,Swahili,1
+b56bf3c292,Kwa matumizi ya kawaida kwenye kundi la tatu huwa na mwanzo wa kufafanua ngono.,Hili halisisimui.,sw,Swahili,2
+e6723704a7,"Niamini, nashukuru.",Mtu huwa na shukrani kweli.,sw,Swahili,0
+02c2fa2677,00 wamewekeza katika programu ya mazoezi ya kazi kwa mtu katika ustawi anaokoa $3.,Asilimia ya wananchi wenye miaka ishirini na tano na zaidi wako kwenye masilahi.,sw,Swahili,1
+64cf530dbb,Kielelezo 3 kinaonyesha matokeo ya msingi kwa mifano miwili.,Mchoro wa 3 unaonyesha kile ambacho mifano hufanya.,sw,Swahili,0
+c9bfb47b3a,Nina zaidi ya kazi.,Sina kazi wala nilichopenda kufanya,sw,Swahili,2
+a31c6546f2,Mbinu bora katika hali iliyo chafuliwa kwa kutokuwa kamili ni kujitambulisha mwenyewe kuwa na furaha.Mkuu kwa wote kwenye kulia na akushoto.,Makosa ya mtu binafsi yanaweza leta hali mbaya.,sw,Swahili,0
+228af3bd2b,Mama yangu alijeruhiwa kuwa sio mojawapo ya mapendekezo yake mapema hivyo alikuwa amesimama kwa kufanya kazi katika mashamba ambapo baadhi ya watoto wengine hawakufanya kazi katika mashamba.,Mamangu alikua mtoto wa dhahabu kwa hivyo hakuwa na haja ya kufanya kazi.,sw,Swahili,2
+806857300b,"Rudolph Giuliani anatetea ushujaa wake wa risasi ya Amadou Diallo kwa Newsweek. [Idara ya Polisi ya New York] sio KKK, yeye hutoa.",Rudolph Giuliani alitoa taarifa kwenye Newsweek kuhusu huduma zake katika mapambano ya risasi kwa Amadou Diallo.,sw,Swahili,0
+0b6dfad320,"Ikiwa ndivyo, uteuzi wa kawaida tu ndiyo ungeliweza kuifanya hivyo.","Ikiwa ndivyo, basi iliundwa kwa njia hiyo na Mungu.",sw,Swahili,2
+a82a7c0fa2,Mimi nakubali kama njia pekee ya kutuokoa wote kutokana na uharibifu fulani ambako kitendo changu mwenyewe kinaweza kutuletea.,Hakukuwa na kusema  jinsi shida ingeweza kutatuliwa kwa urahisi.,sw,Swahili,1
+647f9fdcaf,"'E ina maana ya fonemu / e /, ambayo katika neno hili inaitamkwa kama e e ebb katika aina zote za Yiddish.",Kila lugha ya Kiyidi huita 'e' kwa neno hili tofauti.,sw,Swahili,2
+6d101fabf4,Um-hum vizuri na ningekuwa nasema kuwa kuna maeneo mengine ambayo wanaweza kukataa mimi sio lazima ila kukataa huko,Mimi nilikuwa naenda kupendekeza kupunguzwa kwingine.,sw,Swahili,0
+3651201f68,"Mali ni mfululizo usio na mwisho wa michemko katika anga, au kwenye mtandao, na watu tofauti wanaodai kuwa na maslahi mbalimbali ndani yake.",Hakuna mtu anayemiliki mali kweli.,sw,Swahili,2
+056d5cc001,"Kwa mujibu wa kikundi kikuu cha usalama cha habari, utaratibu huu huongeza uelewaji wa usalama kati ya mameneja wa biashara, hutoa msaada kwa udhibiti unaohitajika, na husaidia kuunganisha maanani ya usalama wa habari katika shughuli za biashara za shirika.",Usalama bora waweza kuboresha ufanisi wa mahali pa kazi kwa asilimia 10 au zaidi.,sw,Swahili,1
+bd5d898880,"Mimi....Siwezi kufikiria kwa nini uongee na mimi hivi, alisema pasipo na uhakikisho wake wa mwanzo.",Alitaka kujua kwa nini hakuwa amemwongelesha neno moja.,sw,Swahili,2
+d5572d7dcd,Wengine wenye thamana kutembelea ni nyumba ya Balzac (47 Rue Rayanouard) na studiRue de Furstenberg).,Nyumba ya Balza na studio ya Delacroix ndio vitu vyema vya kuona eneo hilo.,sw,Swahili,1
+89b7e4314c,"Uzuri wa ziada, ama senti thelathini kwa chupa sita, kila mtu huvuka mpaka kununua pombe nafuu.",Pakiti inayobeba vitu sita ni karibu senti 30 nafuu katika mpaka.,sw,Swahili,0
+554b787af9,Yadi zilizojaa za historia zimetapakaa na uharibifu.,Ushahidi uko kwenye uharibifu katika yadi ya uchafu ya historia.,sw,Swahili,0
+10a4e6758f,Chapisho za kujaribu zilitumika na kampuni za kifedha katika hatua za kutengeneza bidhaa na si katika kuanza kutumia bidhaa.,kampuni mingi zaitaji mifano kuonyesha teknolijia yao mpya kwa umma,sw,Swahili,1
+c1bc73586e,Uchunguzi wa mafaili kunaakilishwa ilipeanwa kwa mteja.,Mteja atapewa faili za kesi.,sw,Swahili,0
+2011340f24,"Lakini hata hivyo, wanyama wangekuwa huru wakati wote, hasa mbuzi.",",Mbuzi alitoroka alipofungiwa kila siku.",sw,Swahili,1
+0ce8c9f1d3,Milango ilifungwa wakati tuliingia.,Milango yote ilikuwa wazi.,sw,Swahili,2
+e844ed658a,Aliyekuwa kwenye nyumba na kumkodesha Hazmi na Mihdhar chumba mwaka wa 2000 ni mwananchi anayefuata sheria na liye na uwasiliano wa muda mrefu na polisi.,"Hazmi na Mihdhar walikodisha chumba kwa mwaka mzima, kwa $500 kwa siku.",sw,Swahili,1
+5e37395c5b,Walisisitiza kuwa uangalifu wa mara kwa mara unahitajika kuhakikisha kuwa uthabiti mwafaka unafuatiliwa. Kushughulikia athari za sasa na pia kuzuia kusimamishwa kwa operesheni na kuwa wenye kutumia na jukumu la kudumisha mifumo ya habari inafuatilia sera za shirika.,Walisema ilikuwa muhimu kuwa macho,sw,Swahili,0
+b7ef454c7a,"Oh, tafadhali. Kulikuwa na mshtuko halisi katika sauti yake.",Sauti yake ilionyesha unyamavu na upole.,sw,Swahili,2
+36b2e6c6ed,"Ujuzi wa IT unahitajika vikumbwa hili limefanya uajiri katika serikali kuwa ngumu, hivyo CIO hii ilitafuta njia mbadala za maendeleo ya ndani ya programu.",Watu wanahitaji wafanyakazi wa IT kusaidia kuunganisha mifumo ya kompyuta.,sw,Swahili,1
+08a2395e2b,"Engini mbili za megawati 900, kona nane, inapigwa na T ambazo zinatumia takriban asilimia 1.5 sulfur lami ya mawe ya makaa.",Vitengo hivyo havichomi makaa ya mawe ya sulfuri.,sw,Swahili,2
+658651c784,Hongera kwa mungwana! alicheka.,mheshimiwa alikejeliwa kwa ukosefu wa nguzo sambamba za tukio hilo,sw,Swahili,1
+b5aa619e72,Lamar Alexander aliangusha jitihada yake ya urais.,Lamar Alexander alikataa kutoa kampeni yake ya urais.,sw,Swahili,2
+8cbec8f75a,"Cala Mondrage kivitendo haijaendelea( kwa viwango vya fuo za Mallorca), na inaweza kuendelea hivo kwa masharti ya serikali ya eneo hilo, ambayo imekuwa na shauku kutokana na tukio la ujenzi usiopangwa katika ufuo hio.",Eneo ya Cala Mondrage haina maendeleo.,sw,Swahili,0
+652cd41f15,Mimi nilikuwa nimeridhika nayo.,"Nilisema La, ikaendelea na kuendelea.",sw,Swahili,2
+98dab43a24,Kukua kwa mwili wa ushahidi kunaonyesha kwamba hatua katika idara ya dharura zina ufanisi na kwamba rufaa ya matibabu yaweza fanya kazi.,hamna chochote idara ya dharura yaweza kufanya katika kesi hii,sw,Swahili,2
+917fe7941b,"Ni waz kwambai, jitihada za kukuza thamani na AICPA za biashara zinazidi kujaza ajenda yake katika miaka ya hivi karibuni.",AICPA imekuwa ikiendelea kwa zaidi ya mwaka.,sw,Swahili,0
+e2d8770096,Nitakutafuta mnamo Desemba tarehe 11!,Ninatarajia uwe huko Desemba 11 saa moja kabla ya tukio kuanza.,sw,Swahili,1
+3556ef0195,"Bila shaka, azimio lako lilikuwa la thamani, Shukrani kwake kwa kukuokoa kutoka kwa wa Spaniards",Unamchukia kwa kukutoa kutoka kwa Wahispania.,sw,Swahili,2
+fdfd62b6bb,"Huko Tokyo, muhariri wa nakala ya The Economist alishuhudia tangazo la maziwa ya Bourgeoisie kwa shati ya kijana wa kiume.",mwandishi wa 'The Economist' alikua Tokyo na akaona shati fulani,sw,Swahili,0
+695fefb480,"Kuanzia Mei hadi katikati ya Oktoba, Boston Harbor Cruise Company (Nambari ya Simu.",Kuna safari za baharini ndefu sana karibu na Bandari ya Boston.,sw,Swahili,1
+d68d4668b1,"22 Licha ya viwango hivi madhubuti vilivyotungwa sheria 'na viwango vya mshahara vilivyosasishwa mara kwa mara,' ukiukwaji mkubwa katika maeneo ya kazi ya nguo umekuwa kawaida katika miaka ya 1990.",Viwanda vyote vya nguo na maduka yalifungwa kwa kudumu mwaka 1980.,sw,Swahili,2
+49336b18d8,Kila mtihani ulijumuisha kifaa cha kupima ili waliofanya huo mtihani watambue kiwango chao cha ujuzi wa mila za Chicano.,Mtihani huo ulitumiwa kutathmini ujuzi wa mgombea wa utamaduni wa Chicano.,sw,Swahili,0
+28bf9cb578,Kwa televisheni yako una hisi kuwa na adhabu ya wezi wa televisheni.,Unafikiri kwamba adhabu sahihi kwa mtu anayeiba runinga ni kifo.,sw,Swahili,0
+321cabaa6b,hivyo nataka kuendelea kwa sababu ninajua kwamba kama huna kuna matatizo mengi ambayo unaweza kuwa nayo.,Afya yako inaweza kudhohofika ikiwa hutaendelea kufanya kazi ili uendelee kuwa na afya nzuri.,sw,Swahili,1
+398dd64584,"Inaweza kuendelea kwa miaka ishirini, ninadhani hii ni ujinga.",Nafikiri ni ya kushangaza sana yakuamba inaweza kaa muda mrefu hivyo.,sw,Swahili,0
+93a37fb6f7,"Kulingana na tathmini hii ya hatari, Centrelink ilianzisha mikakati maalum ya kuzuia lengo la kuelimisha walengwa na waajiri juu ya mahitaji ya kuripoti mapato.",Centrelink hakujua jinsi ya kushughulikia tatizo hilo.,sw,Swahili,2
+6ada1ec0d4,"Kama Ross, Mehta anajitahidi kutoa sifa za William Shawn zisizoweza kutamkwa.",Ross na Mehta hawana shida kuelezea kanuni za William Shawn.,sw,Swahili,2
+9d7d0d2973,Masharti za FDA hayafanyi iwe ngumu zaidi kwa watu wazima kununua sigara.,Si vigumu kwa watu wazima kununua sigara hata kwa kanuni za FDA.,sw,Swahili,0
+9d1381a38d,"Kulingana na riwaya za Kifaransa za uzoefu wa jeshi, unaeza pata jeshi akipendekeza kwa wenzake, Allons, les gars.","Chini ya riwaya za Kifaransa, mtu anaweza kupata aina ya uzoefu wa kijeshi.",sw,Swahili,0
+a0b8fbbccc,Kusisitiza ni kama ibada.,Kuwa thabiti ni kama kufanya mila.,sw,Swahili,0
+466e391be2,Mimi nakubali kama njia pekee ya kutuokoa wote kutokana na uharibifu fulani ambako kitendo changu mwenyewe kinaweza kutuletea.,"Ninaweza kuwa nilileta shida mwanzo ,lakini nitapata suluhisho.",sw,Swahili,0
+f2d904292f,"Hata kama alikuwa acheka alijua baini kwamba, kama alivyojua Pitt kwamba kwenda kusini iyo asubuhi aliibeba maisha yake mkononi mwake.",Alijua atakuwa salama kabisa akiingia mtoni.,sw,Swahili,2
+73d4e55972,"Kwa njia hii,imla ya jina mara na nyinginezo inatakiwa kuwa katika nama moja na zingine.",Imla ya majina ilimfunga mtu aliyeanzisha.,sw,Swahili,2
+b0535fe361,"43 Tommy Franks, mkuu wa amri kuu (CENTCOM), alituambia kuwa Rais hakuwa na furaha.",Kulikuwa na mabadiliko kadhaa ya hivi karibuni Rais akamwekelea lawama Jenerali Frank.,sw,Swahili,1
+64c7874ca8,"Sauti kama maili tatu kwa kipenyo,kaldera ilifikiriwa kuwa kubwa katika mlipuko wa volkano.","Kelele ya maili mbili ilikuwa ulipukaji wa volkeno,",sw,Swahili,0
+b2fca84a8c,Ilikuwa bayana kwamba hatungeweza kukosea hata kidogo.,Hatukukumbaliwa kuendeleza chochote visivyo.,sw,Swahili,1
+0d31272fdd,Tumia mali yake kwa wale wana nafasi.,"Mpe kila mtu, bila kujali watakachofanya nayo.",sw,Swahili,2
+9a88160933,Mtoe na uwatolee ishara watume mashua. Kimya cha mshangao kilijaa kwa meli na tuhuma ya kujisalimisha kwa ghafla.,Hakuna msafiri aliyeshangaa kwenye meli.,sw,Swahili,2
+ef3ddfc20e,Culebra ilijulikana kama Kisiwa Bikira cha hispania mpaka,Culebra iko katikati ya Puerto Rico na St. Thomas katika visiwa vya Virgin vya Marekani.,sw,Swahili,0
+9da04af02b,Ni kipengele kipi cha sera zetu za nje ambacho Richard Clarke anaogopa kitaachwa--Kusimama bila kufanya kitu wakati ambapo raia wanauawa Rwanda ama kusimaa wakati ambapo raia wanauawa Kosovo.,Clarke anajua kila jambo litakuwa sawa.,sw,Swahili,2
+9d16f20e20,"Nilikulia (Kusini kwa ajili ya kulelewa na wazazi wa mtu) ambapo kituo cha treni, au depot, ilikuwa DEE-po.","Nilizaliwa huko Iceland na nilikua huko, mahali ambapo hakuna treni.",sw,Swahili,2
+2fe8f03ca4,"Weka ishara kwa, Kapteni, na uwape ishara ya kutuma mashua, na kujihakikishia kuwa Miss yuko hapa.","Kwa sababu kuwa bi hakutokelezea, hakukuwa na haja ya kuita meli.",sw,Swahili,2
+cbba5a1816,"Wahusika wa tatu walieleza meza ya polisi ya kwamba waajiriwa walikuwa wamepokea kinyume na ushauri kutoka kwa FDNY, ambao ungekuja tu kupitia 911.",FDNY na dawati la polisi hawakuwa wanapatia kila mtu ushauri sawa.,sw,Swahili,0
+6dbf7eb65f,"Unajipeleka mwenyewe katika mikono wa Askofu, Pitt alimpa onyo.",Pitt hakuwaambia chochote.,sw,Swahili,2
+df272e2a02,Kelele ya kweli huwavutia vijana na hutia hofu wazeei.,Wazee hawapendi kelele kwasababu hawawezi kudhibiti hisia zao kirahisi.,sw,Swahili,1
+59b44e9258,Paul anakaa kumuenzi Alan Greenspan kama mwanaitikadi ambaye kwa kweli ana udhibiti wa kiwango cha ukosefu wa kazi kulingana na mwelekeo wa kanuni za kiuchumi.,Paul anafikiria kuwa Alan Greenspan ndiyo mwanauchumi bora zaidi anayejua.,sw,Swahili,1
+a444144ae5,"Ukizipa wakati na teknolojia iliynawiri, simu zote zisizo na redio zitabandikwa simu za waya.",Simu za waya ni msingi zaidi kuliko simu isiyo za redio.,sw,Swahili,2
+26cb12db2c,Siku hizi uzoefu wa kukita kambi ni wakati bwanangu anapoendesha magari za kasi pekee.,Uzoefu wangu kuhusu kambi itakuwa mbio ya magari ambayo mume wangu hufanya.,sw,Swahili,0
+0af70dffc1,"Mwalimu alieleza, kwa njia aliyo tumaini itafaa kwa wasikilizaji wake.",Mwalimu alijaribu kuelezea kwa semi mwafaka kwa hadhira.,sw,Swahili,0
+22a006ea5f,Nathamini fikira zako na natumai ya kwamba utashiriki katika kampeni ya mwaka huu wa kila mwaka.,Natumaini utanipa $100 kwa kampeni,sw,Swahili,1
+fdb4d3297c,"Nataka kusema ya kwamba hakuwa na hatari yoyote ya kuingia na bomu kwa sababu haiwezi kulipuka, licha ya vile ingeanguka kwenye ardhi.",Bomu hiyo haikuwa na nafasi ya kulipuka.,sw,Swahili,0
+42873916ee,Alihamishwa kuinua sauti yake juu ya kiwango cha kawaida cha tepete.,"Aliinua sauti yake juu sana inegesikika maili kadhaa,",sw,Swahili,1
+1337e0e761,"Wolverstone amejitenga mwenyewe kwa urahisi mbele ya nahodha wake nitamwona Kanisa Askofu katika Jahannamu au nimewadanganya kwa ajili yake. Na yeye akatupa, labda kwa madhumuni ya msisitizo.",Wolverstone na Colonel Bishop walikuwa marafiki wa karibu.,sw,Swahili,2
+d01594ebea,Utakuwa na uwezo wa kucheza pamoja na wachezaji kamari wa juu katika roulette au meza ya craps au kuweka sarafu chache katika mashine zakupangwa.,Hauruhusiwi kucheza ambapo wenye pesa wanacheza.,sw,Swahili,2
+176e8f64cb,Diego alifuta maelekezo yake na kwa upeo wa mlima akapata maua mazuri ya Castile yamefunikwa na umande.,Kulikua na maua ya waridi juu ya kilima.,sw,Swahili,0
+7411fc9bf8,"Kama mimi Msikoti wa majivuno, ninahisi kuwa sababu kubwa ya hii maanzilishi ya ukosefu wa tamaa ya kilugha inapatikana kwa majimbo ya kinyumbani.",lugha ya Kiskoti inajulikana kuwa na kujitakia makuu sana.,sw,Swahili,2
+c57c203ef6,Mahitaji ya shule ya sheria yanaanzia ununuzi wa vituo vya ziada vya kompyuta ili kulipa gharama za usafiri wa timu zetu za mahakama na kutengeneza upya mapumziko ili kununua vifaa muhimu vya kurejelea kwenye maktaba.,Chuo cha mawakili una msingi wa karatasi na kompyuta na technolojia za kidijitali ni marufuku.,sw,Swahili,2
+9d97990f45,"Maelewano na wajibu wa maisha chini ya sheria hauna maana kwa watu binafsi wanaosimama peke yao, wanaotawaliwa na maadili yao wenyewe na mahitaji yao wenyewe.",Watu wanapaswa kufanya mambo magumu sana ili kufanya maisha yao yawe ya thamani kuishi.,sw,Swahili,1
+92f2651b32,Nitaondoa sababu yoyote kuweka shaka. Sauti ya Jaji mkuu haikuchochea chochote cha upungufu wake.,Ufalme wake ulikuwa bubu.,sw,Swahili,2
+1b435e21df,"McKim, kiasi cha hasira yake, sio waliopotea tu bali kuwekwa tatu nyuma ya Howard & amp; Cauldwell.",McKim alifurahi sana kwa kumaliza wa kwanza.,sw,Swahili,2
+febb8c36eb,"Pamoja na misaada ya mipango ya msaada kutoka shirika la sheria, Baraza la Wanasheria limeajiri mshauri ili kusaidia Baraza la Kuratibu kuunda mpango wa upyaji wa kuhamishwa kwa shirika la sheria  Machi hii.",LSC watatathmini mpango huu katika siku tisini zilizotengwa,sw,Swahili,1
+051fde2f65,"Mungu ametajwa kama  mungu wa mazingira tu,kwa adili kila mtu ana halali tofauti na sawa katika jumuia ya kimataifa.",Watu watakuwa tofauti lakini sawa.,sw,Swahili,0
+c10e8a32b3,Ni ngumu kupata ushahidi kuwa Bin Laden aliagiza mashambulizi.,Kulikuwa na ushahidi wazi wa Bin Laden akiendesha mashambulizi.,sw,Swahili,2
+234e02a15e,"Kwa hilo hatua, chembechembe ya kawaida haiwezi weka habari nyingi.",Fuwele mara kwa mara ni kati ya uhifadhi wa taarifa za juu sana.,sw,Swahili,2
+b704edae8a,"Kama mwanachama wa Nussbaum, umetusaidia kuokoa wanyama waliohatarishwa--na nyumba zao.",Wahiriki wa Nussbaum hawana adhara yoyote kwa kuokoa wanyama walio katika hatari ya kuangamia milele.,sw,Swahili,2
+170d9cada5,Ilinichukua takribani muda wa masaa moja mbili hivi kupata nilichohitaji.,Ilinichukua muda mrefu kwasababu kikabu kilikuwa kikubwa na cha kuchanganyisha.,sw,Swahili,1
+35c43ee4f4,"Sherehe hii inasherehekewa kati ya siku tatu hadi nne hivi, huku vita mingi zikifanyika ili kushinda tena msalaba mtakatifu.",Sheerehe iko Italy.,sw,Swahili,1
+4df3e2e64f,Yadi zilizojaa za historia zimetapakaa na uharibifu.,"Wakati mwingine, bidhaa maalum zinazoleta makumbusho ya tukio katika historia zinapatikana katika yaliyoharikibika.",sw,Swahili,1
+8e0fb286ca,"Kwa upande mwingine, ana Mark Twain kati yake na mchana.",Mark Twain anasimama kati ya mchana na yeye.,sw,Swahili,0
+c9e7fef28b,Mfano wangu wa dhati unabaki kuwa chura na nzi.,Ninapenda madai.,sw,Swahili,1
+327209fa24,"Alikuwa mtoto wa waziri, walikuwa na mali nyingi na walikuwa wanajuana na watu maarufu. Walikuwa wanaheshimika sana katika jamii.",Baba yake alikuwa mchungaji Lutheran,sw,Swahili,1
+87ddb94f16,Barabara hizo zinapinda kona kali na kupita katika maporomoko,Barabara ilikuwa sawa kabisa.,sw,Swahili,2
+d656d9e7cf,"Kulikuwemo shida nyingi za kimitambo, hususan kombora za Hellfire.",Makombora ya Hellfire yalikua na kasoro za kiufundi,sw,Swahili,0
+bc4a5a4bca,hivyo kama tuna fursa tu kwa sababu ni tulivu,"Maeneo njee ya mji, kumenyamaza kuliko ndani ya mji.",sw,Swahili,1
+4e6676dfb2,"Ndio, nitajaribu labda kwenda kuona.",kuna uwezekano nitaenda kwenye jumba la makumbusho kuona maonyesho mapya,sw,Swahili,1
+bc56d5fead,Kueleza sana kwamba Hillary Rodham Clinton anaweza kuwa na kitu chochote cha kujifunza kutoka kwa Princess Diana kulikuwa kwa kushangaza ya kutosha kunifanya kugwaya Hillary na Di. Margaret Carlson.,Hillary Clinton ni mtu mkamilifu.,sw,Swahili,2
+9a46ca92a9,"um, vizuri, mimi ni kama nina miliki kompyuta, tuna kompyuta mbili nyumbani lakini hakuna hata mmoja ambayo tunamiliki kwa hakika, um, zote mbili ni kama zinahusika kwa kazi na",Nina kompyuta ya Apple na ya HP nyumbani.,sw,Swahili,1
+e59e88cabd,"Kwa njia zingine kazi ya pamoja imeimalika, na kwa njia zingine ni imeathirika.","Kutoka siku hio, kazi ya kushirikiana imeimarika sana.",sw,Swahili,2
+f0c927b418,Na jambo la kusherekea ssiku yake ya kuzaliwa tuliamua kuifanya kisiri.,Tulitupia kuzaliwa kwa mshangao kwa ajili yake,sw,Swahili,0
+a582533c75,Ofisi ya Sensa ya Marekani imepanga takwimu ya Sensa ya Idadi ya Watu na Makazi ya 1990 kwa kutumia Msimbo wa ZIP-5.,Hakukuwa na Sensa Marekani iliyofanywa 1990,sw,Swahili,2
+25a52db5b8,80% ya washiriki wataripoti kuongezeka kwa ujuzi katika utatuzi wa migogoro.,Ni robo pekee ya washirika watakao ripoti kuongezeka kwa ujuzi wa kufumbua migogoro.,sw,Swahili,2
+dc46b292e5,"Na ni bora gani ya hizi? - Je! Wewe wamwogopa mjinga Barbados mpanda?  ? Nini chakusumbua wewe, Petro? Sijawahi kukujua kuwa mwoga. Bunduki ilifyatuka nyuma yao.",Walisikia milio ya risasi na wakajua inawaelekea.,sw,Swahili,1
+85cb148b80,"Hautaenda? alisema, kati ya swali na madai.",Thafadhali usiende! alisihi.,sw,Swahili,2
+b009917cde,sio wanasheria tu lakini maafisa wa polisi na majaji na taaluma yote ya kisheria kwa ujumla,Haimhusu mtu yeyote anayehusika na idara ya sheria.,sw,Swahili,2
+8357edd59c,"Kuzungusha kwa mkia au kuenea, na imeenda.",Inashtusha rahisi sana ni mienendo ya kasi.,sw,Swahili,1
+71aecb16a9,"Je, wastani wa takwimu unaweza kuwa chanzo cha utaratibu katika viumbe?",Viumbe hufafanuliwa na vurugu; hakuna kidokezo cha utaratibu ndani yao.,sw,Swahili,2
+96add82587,JEDWALI A.- JUMLA YA POSHO ZA ZEBAKI IMETENGWA AU KUUZIWA KWA EGUS,Hakuna kanuni kuhusu zebaki.,sw,Swahili,2
+307c313d3a,Yeye ni mnywaji wa damu.,Yeye hunywa damu.,sw,Swahili,0
+6d012abb85,"Kuhusu yeye katika kiuno, ambapo usiku wote uliopita ulikuwa na amani sana, kulikuwa wazimu wenye zogo ya watu sitini.",Usiku ulionekana kuwa wa kupumzika ingawa kulikuwa na vurugu nyingi baadaye.,sw,Swahili,0
+f206f58a2d,"Tangu lini ukaamuru katika staha kuu, Ogle? Nachukua maagizo yangu kutoka kwa Kapteni.",Hapakuwa na yeyeote kwenye meli kutoa amri.,sw,Swahili,2
+79725489c9,"Ni kwa njia yake kwamba tuko katika mtego huu, Ogle aliendelea.",Ogle  alikuwa amependekeza ya kwamba wamfutilie mbali mapema.,sw,Swahili,1
+257ff1238c,"Nyumba hiyo inaunganisha makanisa mawili yaliyofanana, Franzesischer Dom (au Kanisa la Ufaransa) kaskazini, lililojengwa kwa Huguenots wahamiaji, na Deutscher Dom (Kijerumani Cathedral) kusini.",Kanisa mbili zinafanana.,sw,Swahili,0
+8324d44540,"Tukiweka bei rahisi, tunahitaji usaidizi wenu kama washirika wa msaada kidogo ili tufikie azimio letu.",Mchango wenu unatusaidia kuhifadhi bei ya chini.,sw,Swahili,0
+3f8eb35d6e,"Madarasa madogo, matumizi ya teknolojia), na kutokana na ukosefu wa muda mrefu wa nafasi ya wanafunzi (makabati, huduma ya chakula, ofisi za mashirika ya wanafunzi).",Kuna makabati miingi sana kuliko vile wanafunzi watawahi hitaji.,sw,Swahili,2
+523390ac9f,Lakini haikupatia kituo kwa nia ya wawindaji.,Ilikuwa imefunga kabisa nia ya waliokua na bunduki kufanya chochote.,sw,Swahili,2
+6502f89b68,"Lakini uh, fikiria juu yake.",Nawaza kuihusu mara mingi.,sw,Swahili,1
+d969597470,"Prudence, mwandishi wetu wa ushauri, amestaafu, na safu yake imechukuliwa na mpwa wake, pia aitwaye Prudence.",Kuna mtu atakayechukua usukani safu ambayo Prudence aliacha.,sw,Swahili,0
+683c853cff,"Na, bila shaka, monumenti kubwa ya karne ya 18, kuelewa uhuru ni katiba na mswada wa haki",Watu katika karne ya kumi na nane walielewa uhuru.,sw,Swahili,0
+7f35d8f01a,"Tunatambua kwamba mabadiliko ya gharama kubwa katika msimamo wa utetezi wa NORAD ili kukabiliana na hatari ya wezio wa kujiua, kabla tishio kama hilo limekuwa limefanyika, ingekuwa ni ngumu kuuza.",Ni gharama zaidi ya dola milioni tano kwa siku ili kuongeza msimamo wa ulinzi wa NORAD.,sw,Swahili,1
+fb9c46eb8f,Huzuni kuu iliwagaonga California sana.,California iliumizwa na uchumi mbaya.,sw,Swahili,0
+568e18c9fb,"Utukufu wa juu huenda kwenye Riven - au kuboreshwa kwa mchezo bora wa kompyuta wakati wote, Myst - kuhusu mtu aliyepigwa kisiwa",Waliotengeneza Myst walipata pesa zaidi ya bilioni kwa kuuza mchezo huo.,sw,Swahili,1
+7a2a340173,Tunahitaji rasilimali za kuongezea hili kuendelea na majaribu ya kufanya GAO ikae na nguvu na  kuwa kielelezo cha shirikisho cha serikali na mashirika ya ukweli kote ulimwenguni.,Tunataka kufanya GAO awe na nguvu zaidi.,sw,Swahili,0
+d439d054e0,Hatua ya pili ya kushangaza ni kudai Omnes kwamba baadhi ya uchunguzi hauwezi kuzingatiwa.,Omnes alisema unaweza kuona kila kitu.,sw,Swahili,2
+2089edf725,"Ingawa inasaidia ikiwa una nia ya siasa za Marekani, maonyesho yanayokuwezesha kusikiliza mkanda wa Watergate au mahojiano ya Nixon kwenye mambo ya kigeni bado yanavutia.",Unaweza skia tepi ya Watergate mwenyewe.,sw,Swahili,0
+a761c603c0,"If you need to use the mail, it would be helpful if you sent your comments both in writing and on diskette (in Word or ASCII format).","We don't need more than one copy of your comments, either a diskette or writing will do.",en,English,2
+39bc889253,Tuppence rose.,Tuppence remained seated.,en,English,2
+68126b3c40,"The girls who wish to wear the scarf in Turkey say it represents Muslim female empowerment, and they consider themselves oppressed if it's forbidden.",No women in Turkey ever wear a scarf.,en,English,2
+897f725949,"The living is not equal to the Ritz, he observed with a sigh.","The living is nothing compared to the glamour of the Ritz, he said sadly.",en,English,0
+52bb19cc55,"But if you do, kill them.","If the situation is that, you should wait to kill them.",en,English,2
+bbf2b495b1,'I see.',It was clear,en,English,1
+522ac248a0,"By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees.",She can find new risks with the awareness campaign.,en,English,1
+b6ab82692b,"(The Ramseys buried their daughter in Atlanta, then vacationed in Sea Island, Ga.) This absence, some speculate, gave the Ramseys time to work out a story to explain their innocence.",Some speculate that the Ramseys buried their daughter before they went on vacation.,en,English,0
+9101b164ca,"He saw Stark buried under the earth, screaming for a mercy or death that would never come and crawling out of the rock decades later.",Stark ran away before he could be captured.,en,English,2
+4701bff93b,"The Fray's reputation as a home for hostile, rude, and mean-spirited exchanges suffered a severe beating at the hands of the Reading thread, which was so civilized that participants suggested taking insulin shots afterward.",The Fray is known as friendly and gentle.,en,English,2
+b8f23fffc9,"The good news, however, can be found in reports like this one.",This report has good news in it. ,en,English,0
+73798ba666,well in a way you can travel light,You have to travel heavy. ,en,English,2
+bf79210f02,"I found her leaning against the bannisters, deadly pale. ","In addition to looking pale, she also look very weak.",en,English,1
+2cda19c703,You will find a number of Mary's personal effects on display.,A number of Mary's personal effects can be found on display.,en,English,0
+b163e9fd44,"True devotees talk shop at even more specialized groups, such as one on Northeastern weather (ne.weather), whose recent conversation topics included the great blizzard of 1978 and the freak snowstorm of May 1977.",A group on Northeastern weather recently discussed the great blizzard of 1978. ,en,English,0
+ed387e7ce9,"The building will also house two smaller volunteer-based programs, the Multi-Cultural Law Center and the Senior Lawyer Volunteer Project.",A couple of groups will work from the location.,en,English,0
+b47a4f29c2,Strategic human capital management must be at the center of this transformation effort.,Human capital management will not be considered in the transformation effort,en,English,2
+684d704a59,"Even though national saving remains relatively low by U.S. historical standards, economic growth in recent years has been high because more and better investments were made.",Americans only save 1% of their income.,en,English,1
+e936c017ee,right just get you away from the everyday things that are going on we when the children were smaller we used to go to uh Delaware along the ocean ocean most every year and that was fun we stayed mostly in state parks and uh we really enjoyed that,The kids used to prefer the ocean over state parks.,en,English,1
+52a9f44ba8,"After the second course I began to feel slightly at ease, although I couldn't help being disturbed by the way they just stared at me.",I felt nervous that they were going to poison me.,en,English,1
+0397bdef44,Additional information is provided to help managers incorporate the standards into their daily operations.,This information was developed thanks to extra federal funding.,en,English,1
+feca7a61d7,What idiots girls are! ,"Girls can put emotions ahead of logical thought, giving the appearance of idiocy.",en,English,1
+ad5a79456e,"Increased saving by current generations would expand the nation's capital stock, allowing future generations to better afford the nation's retirement costs while also enjoying higher standards of living.","Current generations' increased saving would expand the nation's capital stock, allowing future generations to more easily afford the nation's retirement costs while also enjoying higher standards of living.",en,English,0
+58727e632b,Some are reported as not having been wanted at all.,Some are reported as not having been wanted at all due to breakage.,en,English,1
+55b4c869ce,There never will be.,It should happen soon.,en,English,2
+320ea85741,"On a December day in 1917, British General Allenby rode up to Jaffa Gate and dismounted from his horse because he would not ride where Jesus walked; he then accepted the surrender of the city after the Ottoman Turks had fled (the flag of surrender was a bed-sheet from the American Colony Hotel).","In 1917, the Brittish General Allenby surrendered the city using a bed-sheet before committing suicide.",en,English,2
+6e1f119466,"What you say about Lawrence is a great surprise to me, I said. ",I knew that about Lawrence all along.,en,English,2
+8e7cf0ec80,"In fact, you're going to be rewarded.","Indeed, you will get a prize.",en,English,0
+bdfd19af00,and you back in you know and or just pull into your spot and uh some you can rent by the year some you can rent daily or nightly or by the week or whatever,The only way of renting them is monthly.,en,English,2
+034d71c9bd,"Asked about abortion the other day on CNN, Republican National Committee Chairman Jim Nicholson also invoked what is apparently the party-line  inclusive party.",The Republican National Committee Chairman freelanced on the topic of abortion when asked about it on CNN instead of reiterating the party-line.,en,English,2
+2b4cb8c5c8,(j) Promotional items a member receives as a consequence of using travel or transportation services procured by the United States or accepted pursuant to 31,Frequent flyer miles are one of the promotional items a member can receive.,en,English,1
+b492d5685f,"Yes, sir.",Certainly.,en,English,0
+6d3fdd4a9e,This step of the analysis employs complex computer models that simulate the transport and transformation of emitted pollutants in the atmosphere.,This analysis uses complex computer models to simulate transport and transformation of pollutants ,en,English,0
+3c7824f1e7,Another thing those early French and Dutch settlers agreed upon was that their island should be free of levies on any imported goods.,The French and Dutch settlers preferred a tax on imports.  ,en,English,2
+9753eca974,The original wax models of the river gods are on display in the Civic Museum.,They have models made out of clay.,en,English,1
+8875114161,The percent of total cost for each function included in the model and cost elasticity (with respect to volume) are shown in Table 1.,Each function's cost can be seen in Table 1. ,en,English,0
+0527869292,"However, the other young lady was most kind. ",I was told to leave immediately by the other young lady who was rather rude to me.,en,English,2
+6dda44dcbf,i don't know no i don't,"I used to know, now I don't.",en,English,1
+945c74d8b2, He grimaced at his own doubts.,He felt bad for doubting her.,en,English,1
+fd82be8b41,"Unfortunately, following the vogue of conceptualism, Kentridge has entered a film in the show, , which uses animation of sketches much cruder than the ones he usually does interspersed with documentary footage from the apartheid era.",Kentridge created several documentaries in addition to that which covered the apartheid era.,en,English,1
+be75fccb1f,"The Kal tangled both of Adrin's arms, keeping the blades far away.","Adrin's arms were tangled, keeping his rusty blades away from Kal.",en,English,1
+479843b9ec,yes yeah yeah well it it that's right and it,that's mostly right,en,English,1
+a1032ef667,"In research designs based on statistical inference, the criterion for establishing casuality is whether the findings are likely to have occurred by chance following appropriate comparisons to eliminate alternative interpretations.",Research designs may be based on statistical inference in different organizations. ,en,English,1
+41d3abb93d,made it yeah made it all the way through four years of college playing ball but,I didn't go to college.,en,English,2
+aab0894630,"Rather, kids today are not only little bundles of joy but also are perhaps the ultimate symbols of worldly success and status.","While kids today are symbols of success and status, and their parents are too. ",en,English,1
+93265c6ff7,The WP says that the Paula Jones trial judge has had an interesting prior run-in with Bill Clinton.,It has been claimed that the judge had an altercation with the man.,en,English,0
+2b7921089d,This fellow is flying a hot air balloon and suddenly realizes he is lost.,This fellow is flying a hot air balloon and is lost.,en,English,0
+45371d3505,Each working group met several times to develop recommendations for changes to the legal services delivery system.,Each working met more than once to discuss changes to the legal services delivery system.,en,English,0
+460fd66ffe,"This tourist heartland is also home to 100,000 Jamaicans who live in the hills surrounding the town.","Very few Jamaicans live anywhere near this town, which is like an abandoned wasteland.",en,English,2
+ac3d05d46f,i can't do any jumping up and down because it makes it hurt,There is no pain from jumping.,en,English,2
+f21ca2a735,and i'll go there for you know two months straight we won't go anyplace else,I'll go there for two months straight because the attention is amazing.,en,English,1
+3b5b7fc398,"What about the hole?"" They scanned the cliff-side narrowly.","They looked all over the cliff, looking for the hole.",en,English,0
+8c500e5974,Monday's Question (No.,There was a question for the audience on Monday.,en,English,1
+c4cdf27293,yeah it's a U S territory and it's just we own it or,"I used to be great at remembering this type of thing, but now I don't.",en,English,2
+05e338798b,What idiots girls are! ,They believed girls to be the more intelligent gender.,en,English,2
+b3a46f7e35,"The main gate of the churchyard leads out to Greyfriars Place, and across the street you will find an excellent view of one of Scotland's newest museums.","The new museum was built around two years ago, and showcases Scotland's natural history. ",en,English,1
+7282b55722,"Lie back, and DON'T THINK.",Stand up and start thinking.,en,English,2
+5202c3364a,but but it is peaceful i mean it is relaxing to do once you find the time to do it,"If you have time, it is relaxing.",en,English,0
+ecc8e611ae,I hope that all key parties will take the necessary steps to address any real and perceived problems that serve to undercut public trust and confidence.,I hope that all key parties will take the necessary steps to address any real and perceived problems that serve to undercut public trust and confidence.,en,English,0
+7637a698f8,"Participants suggested the need for a new reporting model for auditing, a renewed focus on the quality of auditing, and building more effective working relationships with the audit committee.",Participants wanted the auditing model to stay the same.,en,English,2
+f1c261fbe7,for me now the address is the same you know my my office address,I am unemployed.,en,English,2
+2005fe6f45,"As a professional courtesy, GAO will inform requesters of substantive media inquiries during an ongoing assignment.",GAO will never inform requesters of substantive media inquiries during an ongoing assignment. ,en,English,2
+b3414a5509,"The Drawing Room was partially destroyed by fire in 1941, and its furnishings are faithful reproductions; the huge (repaired) Ming punch bowl is striking.",The Ming punch bowl is used at employee parties.,en,English,1
+7606c3dd30,It shows clearly enough that my poor old friend had just found out she'd been made a fool of!,I could see that my friend had been humiliated by the situation. ,en,English,0
+eaa148a188,i wonder how they kept up with them though it seemed like the buffaloes were moving so fast i guess they graze though that wouldn't have been a problem,I've never thought about how they kept up.,en,English,2
+4bf65b5564,"Despite their many similarities, Koreans and Japanese have long been mutually hostile and have pointed to the vast differences between their languages as proof that they lack a shared ancestry.","Koreans and Japanese have been mutually hostile for a long time, but are now trying to be mutually peaceful.",en,English,1
+c427f4041b,"Well, we will come in and interview the brave Dorcas."" Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap. ",Dorcas is a coward and has no hair. ,en,English,2
+cf6d03f81c,i like the Moody Blues,I do not like the music of the Moody Blues.,en,English,2
+5508b1735e,"I've thought it well over  """,I've been thinking about it for the past two weeks. ,en,English,1
+4ba4ce40a4,"The WP runs a piece inside reporting that during a church service last Sunday, Cardinal John O'Connor of New York criticized President Clinton from the pulpit for taking Catholic communion while in South Africa.",The WP runs a piece inside reporting ,en,English,0
+05f1da8f36,The bhakti movement of the Tamils brought a new warmth to the hitherto rigid Brahmanic ritual of Hinduism.,The Tamils' bhakti movement froze the previously warm ritual of Hinduism.,en,English,2
+712c13e109,"That's it. The girl looked at him, then passed her hand across her forehead.",The girl turned away from him and kept her hands still.,en,English,2
+28f098e1dd,Their rights have been the source of conflicts in the central government.,Their rights were never a part of the conflict in the government.,en,English,2
+1658f5950b,"Much of Among Giants affords an agreeable blend of the gritty and the synthetic, and the two main actors are a treat.",Much Among Giants is a movie.,en,English,1
+ed0226dd6e,"Relationship Between Quality of Life Instruments, Health State Utilities, and Willingness to Pay in Patients with Asthma.",Asthma patients have a difficult time with health. ,en,English,1
+c24bfb346c,and not only that it it opens you to phone solicitations,You don't want to be subjected to more marketing calls.,en,English,1
+25b95d17f9,Comparing our experience on the Acid Rain Program with the NOx SIP Call and the Section 126 petitions demonstrates the benefit of having certain key issues decided by Congress rather than left to Agency rulemakings.,It is beneficial to have certain key issues decided by congress rather than agency rulemakings.,en,English,0
+f5fa35c572,"She hardly needs to mention it--the media bring it up anyway--but she invokes it subtly, alluding (as she did on two Sunday talk shows) to women who drive their daughters halfway across the state to shake my hand, a woman they dare to believe in.","She hardly needs to mention it, as her friends like to do it for her",en,English,1
+8b9fdb76eb,", First-Class Mail used by households to pay their bills) and the household bill mail (i.e.",Second-Class Mail used by households to pay their bills,en,English,2
+b1ad9fb1ef,"2466, discusses the four collections, which include certification of a minimum number of installed and operating microwave links and the maintenance of a computer-readable database.",2466 discusses four collections.,en,English,0
+d2bfe256ea,"Named after the city gentleman and infamous burglar, it is one of the best-known pubs in the city.",The pub was named after a British Prime Minister.,en,English,2
+7037d44745,"Founded by Alexander the Great on the Mediterranean coast in 322 b.c. , Alexandria was capital of Egypt during the Ptolemaic era.","Alexandria, founded by Alexander the Great, originally had a different name.",en,English,1
+f6ab4e677c,"Possibly, but strychnine is a fairly rapid drug in its action. ",Strychnine  is a drug that works very quickly. ,en,English,0
+e04441c703,Both initial and supplemental proposed rule publications invited comments on the information collection requirements imposed by the rule.,There's no point in following politics or voting because your vote won't actually make a difference.,en,English,1
+9419862a0a,yeah uh yeah absolutely and the credit union has nine percent interest so yeah so that's,The credit union has one hundred percent interest so yeah.,en,English,2
+cb979d08b3,It is one of those rare cases in which I can please everyone.,It's one of those situations where I end up making everyone unhappy.,en,English,2
+02088a9b8c,well the first thing for me is i wonder i see a couple of different ways of talking about what privacy is um if privacy is something that disturbs your private state i mean an invasion of privacy is something that disturbs your private state that's one thing and if privacy is something that comes into your private state and extracts information from it in other words finds something out about you that's another and the first kind of invasion of the first type of privacy seems invaded to me in very much everyday in this country but in the second type at least overtly uh where someone comes in and uh finds out information about you that should be private uh does not seem uh um obviously everyday,"Privacy is very simple, I can explain it to you in a few words, without long and hard to understand sentences.",en,English,2
+47222157c1,well no see i'm from a town named Panhandle,I'm from a town named Toronto.,en,English,2
+0b4d778a48,"Unless the political culture changes drastically, there will always be one or more independent prosecutors investigating the administration of the day and/or past administrations, anyway.",No one questions the political system enough to make decent or noticeable changes.,en,English,1
+c33a72b908,"1 Lower and upper PMSD bounds were determined from the 10th and 90th percentile, respectively, of PMSD data from EPA's WET Interlaboratory Variability Study (USEPA, 2001a; USEPA, 2001b).",The EPA's WET Interlaboratory Variability Study served as the reference for the upper and lower PMSD numbers.,en,English,0
+1bd822f1b6,The final reason for the teen renaissance is boomer self-obsession.,There are 15 key reasons for the teen renaissance we are seeing.,en,English,1
+cfd266bac2,"He saw Stark buried under the earth, screaming for a mercy or death that would never come and crawling out of the rock decades later.",Stark got buried in a big hole.,en,English,1
+3706506df5,"Outside, set in manicured gardens, are the remains of the Abbey of Holyrood.",The Abbey of Holyrood is located outside among lovely gardens.,en,English,0
+e5b31bb212,"Like Arabs and Jews, Diamond warns, Koreans and Japanese are joined by blood yet locked in traditional enmity.",Koreans and Japanese have tension between them because of a war long ago.,en,English,1
+4a7224abd7,yeah yeah seven percent or something it depends on where you're at some places in Dallas i guess it's like closer to eight and places like in Lewisville it's a lot closer to seven,It a place like Dallas it's seven percent.,en,English,2
+9a873c1773,"In the final rule, HCFA revised certain regulations pertaining to the costs of graduate medical education programs to conform to a recently enacted statute.",HCFA never revised any regulations for any programs.,en,English,2
+d72e651054,yeah well that's the other thing you know they talk about women leaving the home and going out to work well still taking care of the children is a very important job and and someone's got to do it and be able to do it right and,It is not acceptable for anybody to refuse work in order to take care of children.,en,English,2
+9889e63f40,but uh that has been the major change that we have noticed in gardening and that's about the extent of what we've done just a little bit on the patio and uh and waiting for the the rain to subside so we can  mow we after about a month we finally got to mow this weekend,We have not done much gardening yet because of the rain.,en,English,0
+1eb1cf6d05,"But there is a cycle of confirmation; if prophecy indicates a thing will happen, it will happen--though not always as expected.","What is predicted by prophecy, though sometimes unexpected, is always enjoyable.",en,English,1
+dfea3fcab2,"If all else failed, I could always make myself an exhibit.",Making myself an exhibit is not an option. ,en,English,2
+5ded4bc060,The best place to view the spring azaleas is at the Azalea Festival in the last week of April at Tokyo's Nezu shrine.,The Azalea Festival is the largest festival in the world.  ,en,English,1
+68b393011b,"You did, didn't you?""","You didn't do it, did you?",en,English,2
+916e81c64e,IQ boosting was achieved through a fetal replacement process where the embryos from two carefully selected mothers were to be switched from one to another.,IQ boosting can be done through fetal replacement in the first trimester.,en,English,1
+e49317338d,"While headquarters staffing is to be streamlined, the staffing levels at the ports are to be maintained or increased.",Headquarters staff is increased and port staff streamlined. ,en,English,2
+42fa75cd8c,The Data Warehousing Institute provides education and training in the data warehousing and business intelligence industry.,Education and training in the data warehousing and business intelligence industry is provided by The Data Warehousing Institute.,en,English,0
+418c778b14,"It displays some superb marble sculptures of the second century a.d. , most notably a Venus and the Emperor Hadrian and his wife Sabina.",Sabina was the second wife of Emperor Hadrian.,en,English,1
+c81284faf9,"Finally, the Administration strongly opposes including reductions for CO2 in S. 556 or any multi-pollutant bill.",Any multi-pollutant bill is opposed by the Administration.,en,English,0
+620e4cffae,well do you know you have a ten limit a ten minute time limit well that's okay and then they come on and tell you and they tell you got five seconds to say good-bye,"Usually there's a 10 minute time limit, but they'll say you have a few seconds to go!",en,English,0
+bba75a4acb,LASNNY is one of the oldest and most cost-effective legal services organizations in the United States.,LASNNY is an new legal services organization.,en,English,2
+befef9e13d,The White House denies this.,This has already been repudiated by the White House.,en,English,0
+e32f2adc19,but i think let's see the teams that were there last year were see somebody from California i don't even know who won the pennant last year,I am in the dark as to who won the pennant last year,en,English,0
+42b869318b,and and so you know like every other day or or so they have like movies for a dollar Sometimes they're even free i think uh they showed uh Chima Para Diso free,Tickets to see Chima Para Diso cost money.,en,English,2
+ab906eabad,Took forever.,Was quick,en,English,2
+3ddc70c4b2,"These men had never seen rain before, Jon realized.",The rain was a novelty to the men.,en,English,0
+e33426bedc,"Thus, the net scale benefit is initially positive, whether or not we adjust for the wage premium.",Initial net scale benefits are negative when adjusted for the wage premium.,en,English,2
+25ba038eaa,it gets it,I guess it gets sunlight sometimes.,en,English,1
+6c752fd83e,yeah pay fifteen yeah yes i know yeah and when you pay fifteen dollars a month it sure takes a long time,"When you only pay $15 per month, it takes a long time.",en,English,0
+e4e2f0d791,"We're no nearer to finding Tuppence, and NEXT SUNDAY IS THE 29TH!""",Next Sunday is going to be the 28th.,en,English,2
+9d8ef27f94,"The movie doesn't come to much, though.",This movie didn't amount to much.,en,English,0
+87893dc482,Nowadays it is bordered by ancient columns and lined with expensive shops.,Now it is surrounded by old pillars and pricey stores.,en,English,0
+be8193a4bc,so i have to find a way to supplement that,I should have a couple different types of supplementation to cover all my bases.,en,English,1
+4f57f9e90e,Castlerigg near Keswick is the best example.,A good example would be Keswick near Castlerigg.,en,English,0
+54a339b05a,De Wit worked from likenesses of actual monarchs to produce his portraits.,"To create his portraits, De Wit used the likenesses of real monarchs.",en,English,0
+d19b72a7b0,"Joseph Lister pioneered the use of carbolic acid to keep wounds clean, and James Young Simpson experimented with chloroform as an anesthetic.",Lister and Simpson were the only ones to use carbolic acid and chloroform for this purpose.,en,English,1
+1a209c8be6,"But although the 60 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force.",Pacino is great in the movie.,en,English,1
+1baec6a180,i guess it's just you know and when i think about that lady this this particular lady who wrote me a check for twelve dollars and it bounced and i sent it through you know sent it through the check through the bank once and she incurred at least a fifteen dollar fee,She didn't realize when she wrote the check that she didn't have enough money in it.,en,English,1
+f640150883,"She, in turn, was worshipped by her subjects as a living god.","Uninteresting to her subjects, she was ignored by them.",en,English,2
+314d8a109b,but i've lived up here all my life and i'm fifty eight years old so i i could,I have lived in this place for fifty eight years.,en,English,0
+f194aeaaff,"Many had to leave their birthplaces, fleeing to Lesvos, Chios, and Samos, the Greek-ruled islands just offshore.",The Greek people were in danger.,en,English,1
+2c60bab2d4,You will find a number of Mary's personal effects on display.,You can not find Mary's personal effects on display.,en,English,2
+162950f71d,and take it easy now good night,"Goodnight, and take care.",en,English,0
+d713552de6,"Land of Lincoln helped Tasha Johnson of Marion get Social Security benefits to support her four children after the 29-year-old woman was diagnosed with non-Hodgkin's lymphoma, a type of cancer, she said.",She was cancer free at 29 years of age.,en,English,2
+0d1b381762,yeah that's that's always nice when you have an animal that the kids can play with like that how old are the kids,It's good to have an animal the kids can play with. ,en,English,0
+87fd77e7f2,Per week?,Every day.,en,English,2
+4cb1c8149b,Since his death it has been transformed into the Bob Marley Museum and carefully managed by the Marley family to protect the memory of his life.,The museum contains works from other members of the Marley family.,en,English,1
+f8042148d6,"They are built on the site of David's Tower, once the largest and most formidable structure in the castle.",There are columns on David's Tower.,en,English,1
+1575809c3c,He had forgotten about Adrin.,He remembered Adrin all this time.,en,English,2
+e4dd0ea2d4,The strychnine had been found in a drawer in the prisoner's room. ,The strychnine that was in the drawer was powdered. ,en,English,1
+777cb7cc61,so well i think we've taken up at least five minutes,You've taken up the last 5 minutes.,en,English,1
+fe16580430,"Although all four categories of emissions are down substantially, they only achieve 50-75% of the proposed cap by 2007 (shown as the dotted horizontal line in each of the above figures).",All of the emission categories experienced a downturn except for one.,en,English,2
+c0d4548d20,He was born Siddhartha Gautama in a grove of sal trees at Lumbini (just across the Nepalese border) around the year 566 b.c.,The birth of Siddartha Gautama took place in a house. ,en,English,2
+1a60c21999,His plan was to drive straight up to the house.,Driving directly to the house was no longer an option with the roadblock.,en,English,2
+f487415052,Arafat is also ailing and has no clear successor.,Arafat is in bad health and does not have a person chosen to take his place.,en,English,0
+c3a42cc90f,yeah well i i started uh studying mathematics basically because i was really good at that in high school,I was also a straight-A student.,en,English,1
+b7c1422f8b,He writes that it's the first time he's added such a track.,He creates tracks like this all the time.,en,English,2
+cfa65febed,TEST ORGANISMS,Test Rocks,en,English,2
+cd0ca98ca4,Agreed-upon  Auditors perform testing to issue a report of findings based on specific procedures performed on subject matter.,Some auditors perform tests to issue findings based on certain circumstances.,en,English,0
+5580853dd6,"Crosethe Rue de Rivoli to the Palais-Royal, built for Car?­di?­nal Richelieu as his Paris residence in 1639, and originally named Palais-Cardinal.",Cardinal Richelieu was a wealthy man who worked diligently for the Catholic church.,en,English,1
+d40833f082,I was deeply impressed by the power and eloquence of the counsel for the defence.,The counsel for his defence did not impress me in any way.,en,English,2
+aec5fe823d,You name it L.A.'s got it.,L.A. even has things you can't even name.,en,English,1
+d2241ed87b,Table 4.1: Selected Federal Income Tax Provisions That Influence Personal Saving,Table 4.1: Tax Provisions Related to Personal Saving,en,English,0
+eaac679324,i have been and uh some of the boy scouts have been up in there they have got some great hiking trails and camping areas up in there,The boy scouts go where there are good hiking trails and camping areas.,en,English,0
+41cf1b1e78,"Like the Japanese, Chinese, and Portuguese before them, many of the new peoples would stay on in Hawaii, adding to the ethnic and racial mix that has become a hallmark of the islands.",Hawaii became very diverse.,en,English,0
+5a04021fe7,Vrenna looked it and smiled.,Vreanna wore a pleased expression when she saw it. ,en,English,0
+749359bcf3,little too much maybe,It's just the right amount.,en,English,2
+b5fe95176b,He celebrated the fact by announcing that the capital would be moved from Calcutta to a whole new city to be built in Delhi.,Citizens were thrilled about the new capital city. ,en,English,1
+5c7195ae31,"What you say about Lawrence is a great surprise to me, I said. ",I didn't expect to hear that about Lawrence.,en,English,0
+561876c2aa,"Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent."," if pH of scrubbing liquor becomes above a range of 5.0 to 6.0, additional reagent is required",en,English,2
+23bf7b91be,because i always had to do it and so i just pay someone else to do it and they do the they do the cutting they fertilize they um edge and um i think this year i'm going to have some landscaping put in,I still do all the gardening and landscaping myself. ,en,English,2
+580e6aaf4d,it was difficult,It was challenging to fight him.,en,English,1
+b1d3e0d8fe,They managed to control much of the country for nearly a century before the Muslim leader Saladin (Salah-ad-Din) defeated them in 1187.,"They controlled the entire country, even when Saladin failed to attack them in 1187.",en,English,2
+383f752e95,Three more days went by in dreary inaction.,The next three days were packed with action.,en,English,2
+1dfe810ae2,"Through the Web site, a total of 1,634 associates donated nearly $200,000 to Legal Aid in 2002.","1,634 associates gave money to Legal Aid through their GoFundMe site.",en,English,1
+99ff52ec35,"Was it a sudden decision on his part, or had he already made up his mind when he parted from me a few hours earlier? ","He left in the spur of the moment whilst we were talking, which was quite rude. ",en,English,1
+9011e0471c,"A member of the only student-run chapter of the American Civil Liberties Union in New York state, Zelon worked to resolve disputes between students and police officers to help protect the public's right to peaceful protest.",Zelon is not run by students in New york state.,en,English,2
+02954ed5fd,"Consistent with GAO's Congressional Protocols, GAO will then offer the requester(s) a draft of the product that is with the agency for comment.",The agency received a draft of the product from the GAO.,en,English,0
+068ae6f8b5,"Chennai, known until 1996 as Madras, is easy-going, pleasant, and remarkably uncrowded.",The city's designation as sacred ground deters any typically rowdy behavior.,en,English,1
+4f1480b0d1,"This includes all testing, information review, and interviews related to data reliability.",All testing will be made before 12pm on Mondays.,en,English,1
+4a7b08266e,The anthropologist Napoleon Chagnon has shown that Yanomamo men who have killed other men have more wives and more offspring than average guys.,Yanomamo men who kill other men have better chances at getting more wives.,en,English,0
+2ab2b41559,We always knew it was an outside chance.,We felt it was definitely going to happen.,en,English,2
+3c1d80cc81,uh we've gotten a little Atari computer uh husband describes it as a a computer with training wheels,"Erm, we have acquired a small Atari computer. ",en,English,0
+9d7a2c3acd,but i've lived up here all my life and i'm fifty eight years old so i i could,I have my family here living with me.,en,English,1
+16413cf84d,So it was traumatic.,It was something that was traumatic. ,en,English,0
+fe60febee5,"To the south, the former fishing villages of Sorrento and Positano spill down the craggy cliffs of the serpentine Amalfi coast, justifiably tauted as one of the world's most beautiful drives.",Sorrento used to be a fishing village.,en,English,0
+35e45d77e4,Justice Kennedy does not care what law librarians across the country do with all the Supreme Court Reporters from 1790 through 1998.,Justice Kennedy doesn't think the Supreme Court Reporters from 1790 to 1998 are important.,en,English,0
+7e9943d152,"But there are two kinds of  the pleasure of doing, and the pleasure of not doing; the pleasure of indulging, and the pleasure of abstinence.","But there are two kinds of the pleasure of doing, and the pleasure of not doing.",en,English,0
+70b45c4d9a,Outside the cathedral you will find a statue of John Knox with Bible in hand.,John Knox has faded into obscurity with no memorials made for him.,en,English,2
+3aa9ac0015,and the NIT semifinals are on tonight,The NIT semifinals take place tonight.,en,English,0
+3a11a372e8,"The route passes in sight of two uninhabited Es Vedr? , which hovers like an apparition on the horizon off to the west, and Espalmador, which is popular with yachtsmen for its white-sand beach.",The route pass is uninhabited.,en,English,0
+e2cf5b58ed,Look for the servant girl hurtled into hell for flirting with the devil.,The depiction of the servant girl being flung into hell is very graphic.,en,English,1
+b0ef09f434,"In 1923, Turkey broke away from the tired Ottoman rulers, and Kemal Ataturk rose to power on a wave of popular support.",Kemal Ataturk was never affiliated with the Ottoman Empire.,en,English,2
+e4a4cfa08d,"First, the horsemen brought out a teaser horse.","First, the horsemen brought out a teaser horse because the main horse has not arrived yet.",en,English,1
+9481b95a57,"It has long been influenced by their differing traits, and has assimilated their various customs and practices.",Their unique traits has created many customs and practices.,en,English,0
+109e732710,CHAPTER 6: HUMAN CAPITAL,"Capital is money, not people.",en,English,2
+6716888ec5,"17 ""Surely you are not thinking of refusing? ",Its an opportunity of a lifetime you can't be thinking of turning it down?,en,English,1
+b1ad65008a,There is.,There was.,en,English,1
+8fec838bbc,"Clearly, the press has done a lousy job with its focus on behavior such as infidelity or drug use that most people don't care about.",The press has focused on various topics that most readers aren't interested in.,en,English,0
+7f1b413525,"What's truly striking, though, is that Jobs has never really let this idea go.",Jobs never held onto an idea for long.,en,English,2
+fca3f1c884,"In Japan, Mainichi Shimbun criticized the new Liberal Democratic Party leader Keizo Obuchi for being devoid of fresh ideas for reviving the Japanese economy.","Mainichi Shimbun was critical of Keizo Obuchi, the new Liberal Democratic Party Leader.",en,English,0
+dca9321eb2,"Still, I guess that can be got over.",It won't be possible to get passed that.,en,English,2
+0d18f1c166," The tents had been burned, but there was a new building where the main tent had been.",The tents had replaced the building.,en,English,2
+fafb769cf6,oh well yeah that's all i have to say thank you,Good riddance is all I have to say.,en,English,2
+6cf833c52c,"On the west side of the square is Old King's House (built in 1762), which was the official residence of the British governor; it was here that the proclamation of emancipation was issued in 1838.",The Old King's House had an incident where the King was murdered inside of it.,en,English,1
+e29260de52,He'd gone a long way on what he'd found in one elementary book.,He learned a lot from that elementary book.,en,English,1
+19be5479c6,"Meanwhile, critics on the left argue that because the United States failed to intervene in Rwanda, its intervention in Kosovo is morally suspect and probably racist.",The US did not intervene in the Rwandan conflict.,en,English,0
+c10985619c,"To the northwest of the chateau, the Grand Trianon palace, surrounded by pleasantly unpompous gardens, was the home of Louis XIV's mistress, Madame de Maintenon, where the aging king increasingly took refuge.",Louis XIV was married to Madame de Maintenon on the chateau.,en,English,2
+64dedbd797,"To keep the colors fresh, he dabbed the carcass with blood from a pail, then grabbed his paintbrushes to capture those lurid reds on canvas.",He lightly pressed blood from a pain onto the carcass.,en,English,0
+33368cc505,"In fact, the Lions of Delos were made from Naxos marble.","There are five Lions of Delos, and also two Tigers of Delos.",en,English,1
+204feb6eb2,They post loads of newspaper articles--Yahoo!,Yahoo gets many views on their newspaper-based articles.,en,English,1
+134614750f,"Shoot only the ones that face us, Jon had told Adrin.",Jon told Adrin and the others to only shoot the ones that face us.,en,English,0
+4bb55696b7,The new rights are nice enough,"In all honesty, the rights recently put in place are nowhere near enough",en,English,2
+39b83ccf65,yeah what do you do,What don't you do?,en,English,2
+0d61bc4b1d,… I saw that I must lead two lives.,I must lead two lives. ,en,English,0
+ec0ef9e100,"agencies' operating trust, enterprise and internal service funds) are required to produce auditable financial statements.",Agencies have no operating trust and produce little to no auditable financial statements.,en,English,2
+9e38ecef7a,well that would be a help i wish they would do that here we have got so little landfill space left that we're going to run out before the end of this decade and it's really going to be,We're going to run out of land space soon.,en,English,0
+b6b4c481e2,2. Receiving Water Samples,The water samples should be received.,en,English,0
+795dec954b,A profile crowns Chris Rock The Funniest Man in America.,"A profile crowns Chris Rock the Funniest Man in America, but many disagree. ",en,English,1
+c60b3c1b78,"It is the official solution, Liq. ","This is an unofficial solution, Liq.",en,English,2
+7e901a7570,You will need-all of you will need-to be highly visible personally and professionally.,Everyone should remain as private and closed off as possible.,en,English,2
+c1cf82faba,yeah well the uh NC double A tournament's going on right now and uh i haven't watched it this year because Louisville's out of it this year,I'll watch the basketball tournament next year.,en,English,1
+76b0081a51,Larger ski resorts are 90 minutes away.,The largest resort is actually 100 minutes away.,en,English,1
+76b0ed787b,"Dan Burton, in an appearance on Good Morning, America , said he had sent a letter to Attorney General Janet Reno urging her to have the FBI seize the Kuhn paperback immediately so it can be examined by its own labs.","Dan Burton has never appeared on Good Morning, America.",en,English,2
+21c8718876,"Good  Oklahoma now has a Public Guardianship Program, albeit unfunded, that will supply lawyers to perform this rights-monitoring process","Good Oklahoma's program needs $100,000 of funding that it hasn't received.",en,English,1
+8f2f1210e4, Two more weeks with my cute TV satellite dish have increased my appreciation of it.,I've got two more weeks to decided if I wanna keep it or return it.,en,English,1
+21e60c26f1,"First, the Comptroller General sends a written request to the agency head for the record that has not been made available to GAO within a reasonable time after an initial request.",They process the written request the day it is received.,en,English,1
+26f6452d02,"Land of Lincoln helped Tasha Johnson of Marion get Social Security benefits to support her four children after the 29-year-old woman was diagnosed with non-Hodgkin's lymphoma, a type of cancer, she said.",She loves her children.,en,English,1
+62c1e641d7,"So is the salt, drying in the huge, square pans at Las Salinas in the south.",Pepper is made wet in Las Salinas.,en,English,2
+1cab4b9a4c,"Reportedly the biggest payment made in such a case, it is hardly a nick in Texaco's annual revenue of more than $30 billion.",The biggest payment they made barely hurt their profits.,en,English,0
+9965c5eeeb,and i use a one of those black soaker hoses that actually oozes water every where so i lace it up and down there a couple of times and i only have to water about two hours a week,"I takes me just about half an hour to water, and I do it once a week.",en,English,2
+8ada59b15f,"him?"" she asked.",She is shocked to know that it was him.,en,English,1
+7fdfbdc7e0,"32 Under the RSA proposal, a worker between the ages of 25 and 60 with family earnings of at least $5,000 could contribute up to $1,000 annually through either an employer-sponsored saving plan or a tax-deferred individual account.",The RSA proposes employer-sponsored savings plans.,en,English,0
+57c6b7b310,Where would he be today without American commercial know-how?,American know-how is the reason he got to where he is.,en,English,0
+51d00d43cd,"The unintended side effect is radical, direct  In what other state do voters set the tax rates?","There is a radical side effect that was not intended, said the teacher.",en,English,1
+5b82d48987,Charles Geveden has introduced legislation that will increase the Access to Justice supplement on court filing fees.,Charles Geveden insisted on keeping the supplement at the same amount.,en,English,2
+cedbbb440f,He argued that these governors shared the congressional Republican agenda enshrined in the 1994 Contract With America.,The governors were angry men,en,English,1
+fd5f21f1a9,well Jerry do you have a favorite team,"Jerry, do you support any team?",en,English,0
+a8973ca3a6,"Also, the final rule is not intended to have any retroactive effect and administrative procedures must be exhausted prior to any judicial challenge to the provisions of the rule.",The final rule is meant to have a retroactive effect.,en,English,2
+00330cdacf,"You've got the keys still, haven't you, Poirot? I asked, as we reached the door of the locked room. ",I had the keys in my pocket.,en,English,1
+51d925cd8f,4) Not enough is known about how nontransportation costs vary with distance.,There's more than enough known concerning the ways in which costs associated with nontransportation change according to the distance.,en,English,2
+37c2f51909,"At Gatehouse, in Kent.","Located in Kent, within the Gatehouse.",en,English,0
+c47c242109,"Some Kwanzaa rituals, most notably the focus on candles, seem to have been borrowed from Hanukkah.",They borrowed traditions from one holiday to incorporate into their own.,en,English,0
+a0a9ea7873,I just stopped where I was.,I stopped in my tracks,en,English,0
+af50f81a34,"You can alternate lazy days on the beach with some of the Medi?­ter?­ra?­nean's best deep-sea diving, boat excursions around pirate coves, canoeing and fishing on inland rivers, or hikes and picnics in the mountains.",The waters are crystal clear and completely safe -- no sharks or crocodiles here!,en,English,1
+d8cbec1b95,"It displays some superb marble sculptures of the second century a.d. , most notably a Venus and the Emperor Hadrian and his wife Sabina.",Only paintings of 19th century philosophers are on display.,en,English,2
+4dcf1b9bb3,The family. ,The couple.,en,English,1
+6a98a077a5,"It will be COLOSSAL!""",It will be gigantic.,en,English,0
+d3ab8a4805,uh right now we're actually having uh it's getting nice i mean it was in the high fifties today but three and a half weeks ago we had an ice storm,The weather has been getting warmer because the winter has ended.,en,English,1
+4a556f7a74,it'll be a nice little bit of money we're going to,We are going into a nice bit of money.,en,English,0
+a7061efd84,They should have him be just a disembodied voice.,"The entity should not be seen, only heard.",en,English,0
+511d94ef71,"But you would not trust me.""",It is understandable because I have broken your trust numerous times. ,en,English,1
+bb6b755d9a,The purpose of the Diwan-i-Khas is hotly disputed; it is not necessarily the hall of private audience that its name implies.,The purpose of Diwan i Khas is disputed.,en,English,0
+24678ba169,and oh okay and then went to Colorado,I had to move back to Nebraska just to survive.,en,English,2
+362b3acf9e,"They capitalized on the natural resources by using the salt to cure fish, which they exported to their home country.",They kept all of the salted fish for themselves. ,en,English,2
+c125170fe0,farmworkers conducted by the U.S.,"Trying to find out how to fuel the rocket, the US employed the brightest farmworkers in the field.",en,English,2
+bfaec77806,Sir James's presence in Manchester was not accidental.,Sir James was present in Manchester on purpose.,en,English,0
+e72367d2df,"But in all probability the girl will have entirely forgotten the intervening period, and will take up life where she left off at the sinking of the Lusitania.""",The girl will have most likely forgotten that period.,en,English,0
+aee859bf43,Jon walked back to the town to the smithy.,Jon continued on into the mountains.,en,English,2
+8d71e1d1fe,"In manual systems, attestations, verifications, and approvals are usually shown by a signature or initial of an individual on a hard copy document.",Signatures in manual systems usually show approval.,en,English,0
+58c1b8d5bc,"New Madeirans traded sugar, the era's dominant luxury item, with Britain and Flanders, and they proved skillful in the art of winemaking.",Their wine was famous even in Italy.,en,English,1
+d23fdd0f62,"Flanked with patches of forest leading up into the foothills of the Himalayas, the flat plain stretches right across to the Bay of Bengal 1,600 km (1,000 miles) away, but some areas are kept as nature reserves for the country's wildlife, notably its tigers, leopards, and elephants.",The nature reserves offer tours to see the wildlife.,en,English,1
+4ef65f1e33,"Outside, set in manicured gardens, are the remains of the Abbey of Holyrood.",The gardens containing the remains of the Abbey of Holyrood are in disarray and not well-kept.,en,English,2
+960c9dcc14,He's been mean-spirited and vicious for so long that editors and reporters are tired of hearing about it.,"Editors and reporters are tired of hearing about it since he has been vicious for long, however they are giving him a chance.",en,English,1
+7b6768c074,or they had somebody at home that was ill that they had to tend to i mean you can't make it everybody,They did not have anything to do.,en,English,2
+8324a6b4db,no not it not no it's a it's not something,It's not something,en,English,0
+e9c99820e5,'The autopilot's damaged- will the train still slow down?',The damage to the autopilot was very severe.,en,English,1
+6a735c811e,if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field,It's beed super dry.,en,English,2
+fd47d1a4de,"But when he was persuaded by divers means to help us, he gave up after one week, declaring it beyond his powers.",He decided it was too difficult because he was distracted by other topics.,en,English,1
+8790a2c69f,"However unsatisfactory and over-argued the revisionist case, it did make one serious  that the United States had clear national and economic interests and found the Cold War an unusually congenial way to pursue them.","While the revisionist case has always been held in high regard, it has never made any serious points about the United States economic interests.",en,English,2
+53a641655c,"5) The Democrats are reaping what they sowed (after torturing Robert Bork, John Tower, and Clarence Thomas).",Democrats rarely have any political relevance.,en,English,2
+b2c4d96f78,Turns out that Bill got one letter last year that just tore at his heartstrings.,Bill got more than one letter last year that made him feel loved.,en,English,1
+002161d8be,"Well, we will come in and interview the brave Dorcas."" Dorcas was standing in the boudoir, her hands folded in front of her, and her grey hair rose in stiff waves under her white cap. ",Dorcas is well known for her bravery. ,en,English,1
+22d0760b3a,"The interior of the palace is very dark, and the use of flash is forbidden, so photographers should think twice before paying the extra fee for bringing in a camera or video equipment.","Think hard about whether or not you want to bring a camera, there is an extra fee and no flash allowed.",en,English,0
+1f4efdbf55,A spark of annoyance lit Lincoln's eyes; the smallest hint of Natalia's Russian fire.,Lincoln wanted to kill Natalia with his bare hands in that precise moment.,en,English,1
+b4bd9114b8,"Around 1500 b.c. , a massive volcanic eruption at Santorini destroyed not only Akrotiri under feet of ash and pumice but the whole Minoan civilization.",The Minoans did not see this coming.,en,English,1
+4729fc742c,"At Kansas City Power and Light's Hawthorn Power Station, Unit 5 was replaced (excluding turbine) in under 22 months.",Unit 5 was the only one that was replaced.,en,English,1
+c6f476df91,"Ocho Rios is Spanish for  eight rivers,  but this name is not descriptive of the area.","Ocho Rios means pink penguins in Spanish, and this name describes the area.",en,English,2
+5243a61aa8,This is arguably starting to distort the practice of science itself.,This began to distort scientific practice. ,en,English,0
+63901c8669,exercise is not supposed to do that to you,Exercise isn't supposed to do that.,en,English,0
+66cefbae4a,"Long famous as the home of artists and bohemians, who call it La Butte ( The Mound ), Montmartre is an essential piece of Paris mythology.",Montmarte is no part of Paris mythology.,en,English,2
+c95415ed51,Expectations that the ANC would oversee land reform--returning land seized during apartheid's forced migrations--and wealth redistribution have not been met.,The ANC would be in charge of land reform in South Africa.,en,English,1
+09710d88ea,for the direct sunlight and stuff right but uh but i i haven't really found it too bad we've lived in our house about uh oh thirteen years i suppose and and really really only painted once and you know it was new when we bought it and we painted one time since then but you know it's probably going to be time to paint again in a couple of years,"I only had to paint the house once, so the siding has held up well.",en,English,1
+1ebb032469,"He unleashed a 16-day reign of terror that left 300 Madeirans dead, stocks of sugar destroyed, and the island plundered.",He unleashed a large debate over the 16-day reign that ended in a peaceful protest.,en,English,2
+64519000b2,He had to try something.,Jared had to try to fix it somehow. ,en,English,1
+85cc0bfc3d,"In the case of speech, Fiss appears to believe that the reason the American public is less enlightened than he would wish it to be concerning matters such as feminism, the rights of homosexuals, and regulation of industry is that people are denied access to the opinions and information that would enlighten them.","People in America are very well informed on controversial topics, according to Fiss.",en,English,2
+34dad32352,At the fulcrum is a coffee bar and cafe under a giant screen television flanked by CD listening stations.,Only members can use the CD listening stations at the side.,en,English,1
+7349dd5926,"Howard Berman of California, an influential Democrat on the House International Relations Committee.",Howard Berman of California has a lot to be ashamed of.,en,English,1
+b95d0ce99b,"Keep your eyes open for Renaissance details, grand doorways, and views into lovely courtyards.",The Renaissance features are very easy to notice.,en,English,1
+097391fbb2,"Do you know what this is?"" With a dramatic gesture she flung back the left side of her coat and exposed a small enamelled badge.",She wore a coat and carried a small badge.,en,English,0
+554748adc4,"Almost directly overhead, there was a rent place where the strange absence of color or feature indicated a hole in the dome over them.",The rent place was in a poor part of town.,en,English,1
+bf80bf58e1,well so okay you need to get married and have kids and then when they're big enough you can have them go do the yard  and you can do what you want to do,Children are never too young to do yardwork.,en,English,2
+263b8f7bcb,"See the idea?"" 35 ""Then you think"" Tuppence paused to grasp the supposition fully ""that it WAS as Jane Finn that they wanted me to go to Paris?"" Mr. Carter smiled more wearily than ever.",Tuppence just couldn't grasp the concept.,en,English,2
+523e70e317,The rise of the British Empire in India had begun.,It started the rise of the British Empire in India in 1910.,en,English,1
+4bff3fb11e,oh really i was um i was TDY at Bent Waters,I enjoyed my temporary duty at Bent Waters. ,en,English,1
+dce942d7d9,um-hum um-hum yeah well uh i can see you know it's it's it's it's kind of funny because we it seems like we loan money you know we money with strings attached and if the government changes and the country that we loan the money to um i can see why the might have a different attitude towards paying it back it's a lot us that  you know we don't really loan money to to countries we loan money to governments and it's the,We loan a lot of money with strings attached.,en,English,0
+77089e7f74,"A member of the only student-run chapter of the American Civil Liberties Union in New York state, Zelon worked to resolve disputes between students and police officers to help protect the public's right to peaceful protest.",Zelon is the only student-run chapter of the American Civil Liberties Union in New York state.,en,English,0
+3845735589,This one ended up being surprisingly easy!,This is an easy one. ,en,English,0
+fb11f93c8c,Two aromatic aniseed drinks are also produced locally.,The aniseed drinks have a good smell to them.,en,English,0
+f93d353b38,"It focuses on desktop, client/server, and enterprisewide computing.",Cloud computing may be a serious challenge to desktop market.,en,English,1
+5520323942,Puppet Shows.,Television shows,en,English,2
+e5c7b8ed9c,The bridge would work for a very short time but the stream isn't a clear defense.,The bridge would work indefinitely.,en,English,2
+53aaed53f5,"Carmel Man, a relation of the Neanderthal family, lived here 600,000 years ago.",Carmel Man isn't alive today.,en,English,0
+734b896a0b,"These 900 hectares (2,224 acres) of parkland on the western edge of the city constitute one of Baron Haussmann's happier achievements.",Baron Haussmann regrets implementing the 900 hectares of parkland on the western edge of the city.,en,English,2
+c5a228c2bf,The data would be presented as required supplementary stewardship information accompanying the consolidated financial statements of the Federal Government but not in individual reports of its component units.,The data is only necessary when looking at the big picture within federal government.,en,English,1
+c8d46b08fb,I don't know.,I am not sure.,en,English,0
+8f9b6fbbfb,"There is a roller coaster up there as well, but experienced riders consider it too slow and uneventful despite the altitude.",The rollercoaster is too slow for most people. ,en,English,1
+b74246ebc0,Slate continues to be available on MSN and directly on the Web at slate.com.,Slate can still be found on MSN and slate.com until the end of March.,en,English,1
+a442fe90ba,The volumes are available again but won't be returned to the stacks until the damp library itself gets renovated.,The volumes will be available to the public after renovation.,en,English,0
+ba3d39b8c0,i agree with you but did you see the map they drew up on uh on how they were gonna divide up the districts,They didn't draw anything.,en,English,2
+b706a63daa,i think that the people that are um have um a lower income which you automatically equate with lower education,I think because you have lower income you are less educated.,en,English,1
+00ffb16a45,well it's a pleasure talking with you,It's lovely speaking with you. ,en,English,0
+253441c9c4,yeah i mean this this Escort even when the head gasket went i mean it would start first time every time,"Once the head gasket went out, the Escort stopped working.",en,English,2
+d86f09745b,um-hum they have socialized socialized health care,They don't have health care over there,en,English,2
+a8a8b7f5d2,She did not reply.,She didn't respond.,en,English,0
+0f08fad1da,He had no real answer.,He didn't have an answer.,en,English,0
+4dd726abf2,"(Never mind the strictest reading, which supposes that creation took a week.)","The creation apparently took a week, supposes the reading.",en,English,0
+7b97d94d3d,"With their fluent Vietnamese and Mandarin, they help Tran understand her family's eligibility for Medi-Cal and food stamps, assist the 70-year-old woman in finding a place to live and advise abused women how they can stay in the country while staying away from their husbands.",Chan was not able to understand what they were saying. ,en,English,2
+30994231ec,Benchmarked by U.S.,The benchmark is notable.,en,English,1
+4bdf305179,um something that i i think that i've noticed that i i have a friend i think if you're going into like uh law or medicine a very particular very specific field even even engineering you can get you can meet a lot of the requirements at a public um institution,"Law,medicine or engineering students get better jobs.",en,English,1
+5ba64cd8a3,"1 Now that each unit is fully staffed, the LSC Office of Program Performance and its state planning team contain over 260 years of experience in LSC-funded programs.",The LSC has over 260 years of experience with their staff.,en,English,0
+44e1508411,"Initial demand for land in the New Town was not spectacular; in fact, incentives had to be offered to entice buyers.","At first, demand for land in the New Town was high and property sold swiftly.",en,English,2
+f5cadeac8a,"Second tier, but nearly as promising, are Morales of Texas, Scott Harshbarger of Massachusetts, and Dennis Vacco of New York.",Vacco is from Texas.,en,English,2
+05c013a076,The analyses comply with the informational requirements of the sections including the classes of small entities subject to the rule and alternatives considered to reduce the burden on the small entities.,The analyses try to follow informational requirements for relevant small entities.,en,English,0
+b9797bf7d7,"In the 19th century, when Kashmir was the most exotic hill-station of them all, the maharaja forbade the British to buy land there, so they then hit on the brilliant alternative of building luxuriously appointed houseboats moored on the lakes near Srinagar.",The British built luxury houseboats on the lakes near Srinagar in the 19th century.,en,English,0
+758a358e4c,"14 Managing for  Federal Managers' Views Show Need for Ensuring Top Leadership Skills (GAO-01-127, Oct. 20, 2000); Management  Using the Results Act and Quality Management to Improve Federal Performance (GAO/T-GGD-99-151, July 29, 1999); and Management  Elements of Successful Improvement Initiatives (GAO/T- GGD-00-26, Oct. 15, 1999).","The document  Management Using the Results Act and Quality Management to Improve Federal Performance was put in place on July 29, 1999.",en,English,0
+ccbb5ca8c3,because otherwise it's too it gets if you start them when it's cooler in the spring then it gets too hot in the summer,You should start them during Spring if you want them to be cool during the summer.,en,English,2
+f19cc5b9ee,it was really a nice compromise especially because she felt like she was still living in her own house and she still had her own couch and her own bed and it it really helped a lot and she was a lot more comfortable and she didn't,Having her own furniture in the house made it much more comfortable for her. Yet still able get assistance if she needed it.They check on them two or three times a day and give their medication also.,en,English,1
+1de161a345,um-hum they keep you entertained they sure do we have a uh my wife's uh mother is uh oh about  seventy seven i guess she really gets a thrill when we go over to see her and bring the dog i think she's more happy to see the dog than she is us,The dog cheers up my wife's mother. ,en,English,0
+539946e4ed,Model yields an estimate of the percentage change in a household's demand for postage as a result of owning a computer,People receive many more items in the post if they have a computer in the house.,en,English,1
+8c8fbf7950,"This provides insight into the important Japanese concept of katachi (form), the rough equivalent of  It isn't what you do; it's the way that you do it.  ",All Japanese people abide by the concept of katachi.,en,English,1
+486057f992,"Therefore, many leading finance organizations have calculated and compared these percentages as a general indication of how well they supported the organization's business objectives.",The data was generated based on only finance department. ,en,English,2
+c88f23a2f3,Jon drew it out and stabbed again in the man's throat.,Jon stabbed the man's throat multiple times.,en,English,0
+28e9fa584f,it depends a lot of uh a lot of things were thought that uh as you know the farmers thought okay we got chemicals we're putting chemicals on the field well the ground will naturally filter out the,There is not point in putting farming chemicals in the ground.,en,English,2
+4e18e5671d,"SSA will consider the comments received by April 14, 1997, and will issue revised regulations if necessary.",Regulations are not to be revised under any circumstances.,en,English,2
+7160a474f7,"I jumped, coat tails flapping.",I jumped while wearing a coat.,en,English,0
+fdd963daf0,The pieces paying 33.,Just 10 pieces paying.,en,English,2
+0545984ff1,"More than 100 judges, lawyers and dignitaries were present for the gathering.",152 judges and lawyers showed up,en,English,1
+0db47f79f1,… I succeeded in my false career.,I was very good at pretending to work.,en,English,1
+64b2f1a18d,"The Times says this tracking list is drawn up from information from bookstores, but publishers say they routinely call up the Times to tip them off to books selling with increasing momentum so that they can be added to the tracking list.","Publishers say one things about Times' drawing of lists from bookstores, while Times claims a different story.",en,English,0
+9d803b775f,"HCFA published a Notice of Proposed Rulemaking on March 28, 1997 (62 Fed.",HCFA decided to keep it a secret when they proposed rules.,en,English,2
+f3e354b19f,In the vaults of the Bank.,In the bank vault.,en,English,0
+d4c0c0ee2d,Treasure Beach (South Coast),Treasure Beach is on the South Coast of the island.,en,English,0
+4f5a30be72,"South Carolina has no referendum right, so the Supreme Court canceled the vote and upheld the ban.","South Carolina has a referendum right, so the Supreme Court was powerless over the state.",en,English,2
+15b1c0f787, Ibiza's seven-bulwark defences are almost completely intact.,Ibiza's walls have crumbled due to the weather.,en,English,2
+ef98cc7a44,"Its scorecard included measures for accuracy, speed and timeliness, unit cost, customer satisfaction, and employee development and satisfaction.",Accuracy and speed are the first measurements listed on the scorecard.,en,English,1
+6f230d7ea8,I'm busy now.,I am not busy right now.,en,English,2
+d0fd1aa8ae,Kyoto's kabuki troupe performs in December and Osaka's in May.,Kyoto has a kabuki troupe and so does Osaka.,en,English,0
+793efca11e,oh that might be kind of interesting is it,That sounds kinda interesting to me.,en,English,0
+896b474c9f,The purpose of this paper is to analyze rural delivery costs and compare them with city delivery costs.,Rural delivery is more expensive than city.,en,English,1
+be7078c1b3,"To help identify solutions to this problem, Senators Fred Thompson and John Glenn, Chairman and Ranking Minority Member, respectively, of the Senate Committee on Governmental Affairs, requested that we study organizations with superior security programs to identify management practices that could benefit federal agencies.",The better management practices will result in a more robust security infrastructure. ,en,English,1
+450251ac0e,"Two, most other productive operations are easier to study and understand, since few firms have 40,000 locations and a large proportion of their workforce working outdoors.",The productivity of the operations is directly related to the workforce that's based outdoors.,en,English,1
+b046355196,"France knew a good thing when she seized one, but then so did Britain.",France thought this was bad.,en,English,2
+37239809fd,Does anyone know what happened to chaos?,I know what happened to chaos.,en,English,1
+a439d18ce1,well the parts to to me i spent twenty two dollars on the parts,"I spent 22 dollars on the parts, I think i got swindled.",en,English,1
+1c028dc37e,"At the far end of David Street, Temple Mount is one of the world's most sacred spots to three major religions.",Christianity and Islam are the two religions who revere the Temple the most.,en,English,1
+bd2cea0af2,But it just might be because he's afraid he'll lose his No.,He might be afraid he'll lose his No.,en,English,0
+c7f3bc2e59,"The islands' names refer to the different force winds hitting them, not their topography.",The name of the islands are based on their topography.,en,English,2
+f4d21ee33b,yeah um gosh i think it was only like three and a half pounds and for me that's big that's why i'm saying i love to go fishing because i've never caught anything really really big um so because it's always been you know in the on a lake and uh i know they have bigger fish than that but you know three and a half pounds and that was huge for me,It was almost fifty pounds.,en,English,2
+0b6239c0ac,"Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent."," if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required",en,English,0
+8f94f385a2,The disputes among nobles were not the first concern of ordinary French citizens.,One of the first concerns of the ordinary French citizens were the disputes among nobles.,en,English,2
+387a84c0c5,Fast forward to 1994 and beyond.,Stay in 1993.,en,English,2
+250966cb9b,uh whether one might conceive  no pun intended of the possibility that there might be a kind of a deliberate uh um,You might think of the possibility.,en,English,0
+cddc931bd9,I awoke looking up at stone lit by fire.,The fire had grown to a giant size.,en,English,1
+45b56111c5,I'm confused.,Not all of it is very clear to me.,en,English,0
+b2e8cf0604,"The ITC has enlisted legal services attorneys from across the state to manage each of the 12 categories, and those volunteers will organize contributions and add them to a searchable database.",They volunteers were happy to help.,en,English,1
+a47aa6a3fc,This makes it incumbent on the government to create incentives to recruit new employees and retain older employees.,There is no need for the government to create incentives just to recruit new people. ,en,English,2
+23a7780de8,the only problem is it's not large enough it only holds about i think they squeezed when Ryan struck out his five thousandth player they they squeezed about forty thousand people in there,It doesn't hold many people so it was standing room only.,en,English,1
+f78470a892,"Some experts say there's a greater chance of a making a catch in the cooler days of spring and autumn, and in the hours after sunset.",Experts say you should never try to make a catch after sunset.,en,English,2
+0896682aa0,excessively violent i was worried it's like golly if kids start imitating that,It was so violent I worried about the kids imitating that.,en,English,0
+a0a7ea538b,"The Saver-Spender Theory of Fiscal Policy, Working Paper 7571.",The paper deals with theories of fiscal policies.,en,English,0
+767cb5e91d,With dark eyes and eyelashes she would have been a beauty. ,She would have been gorgeous if she'd not had such light colored eyes.,en,English,0
+74a05ce6ac,"In this respect, bringing Steve Jobs back to save Apple is like bringing Gen.",Steve Jobs unretired in 2002.,en,English,1
+e5d7c0f70e,"Paris and its immediate surroundings are a magnet for tourists, students, businessmen, artists, inventors ' in short, everyone except perhaps the farmer and fisherman, who may well come to the city to protest government policies.",Paris is a magnet for all sorts of different types of people.,en,English,0
+e2d5b58543,He was crying like his mother had just walloped him.,He cried like his mom hit him.,en,English,0
+c3938e17b7,"And, for the rest of the way home, I recited to them the various exploits and triumphs of Hercule Poirot. ",I recited to them the various exploits and triumphs of Hercule Poirot for approximately 2 hours.,en,English,1
+7595f33c72,oh really yeah so he he's uh he's probably going to be going to jail and and the problem with him is he's on a guaranteed salary like for three years so whether he plays or not they've got to pay him ten million dollars so if they,"He is so hardworking and has helped the team achieve so much, I don't see anything wrong with paying him a million dollar salary.",en,English,2
+831bac2b58,"Today the strait is busy with commercial shipping, ferries, and fishing boats, and its wooded shores are lined with pretty fishing villages, old Ottoman mansions, and the villas of Istanbul's wealthier citizens.",Istanbul is still considered a third world country.,en,English,1
+6ff404fd66,"4) Clinton's job rating fell from 60 to 55 points in a Washington Post poll, apparently because pollees disapproved of his use of the White House for fund raising.",Pollees down-rated Clinton by up to 5 points.,en,English,0
+a06e32bf97,"Today it is possible to buy cheap papyrus printed with gaudy Egyptian scenes in almost every souvenir shop in the country, but some of the most authentic are sold at The Pharaonic Village in Cairo where the papyrus is grown, processed, and hand-painted on site.",The Pharaonic Village in Cairo is the only place where one can buy authentic papyrus.,en,English,2
+06d421d2f6,i think Buffalo is an up an coming team they're going to they're showing some real promise for the next uh few years,The team had some good results in last seasons.,en,English,1
+092f516c86,so i don't completely agree with that either,I have different reasons for doubting each.,en,English,1
+c54e5a4eb3,[Requires free registration.,Does not require free registration. ,en,English,2
+f6c07676c2,Among the disadvantages are that the degree of innovation and product differentiation might continue to be limited.,The disadvantages of a poorly educated workforce include limited innovation. ,en,English,1
+aab8524689,okay what types of music do you like to listen to,"You hate music, don't you? ",en,English,2
+d515d9675c,Bien! he said at last. ,He had a slip of the tongue.,en,English,1
+b75f6c6c1c,These rules implement section 106 of the Federal Crop Insurance Reform Act of 1994.,The Federal Crop Insurance Reform Act gave insurance to farmers whose crops didn't succeed.,en,English,1
+f1823c7fa0,do you really romance,Do you really love him?,en,English,1
+8f31a9318e,"I saw that a faint streak of daylight was showing through the curtains of the windows, and that the clock on the mantelpiece pointed to close upon five o'clock. ","I saw that it was already morning, and the sun was coming up.",en,English,0
+51fe0e9864,"A group of guys went out for a drink after work, and sitting at the bar was a real  a 6 foot blonde with a fabulous face and figure to match.",The men didn't appreciate the figure of the blonde woman sitting at the bar. ,en,English,2
+648e8a6182,yeah because being a student i'm doing it for the money,This project pays better than most other student jobs.,en,English,1
+0859d15dc5,no no not at all it,All of them,en,English,2
+391568910c,The technical how-tos for these three strategies will be summarized later in this paper.,There are seven strategies discussed in the paper.,en,English,2
+28cb073b73,Be sure to look around and compare before buying.,There are often good deals next door from competitors.,en,English,1
+3d52b3668e,There are also a couple of small aircraft lying offshore (relics of drug runners who ran out of luck) that make fascinating artificial dive sites.,"There are a few small airplanes offshore that belonged to unlucky drug runners, and they are so interesting to see during artificial diving.",en,English,0
+bfb03a6c4b,"If not the most beautiful, the chateau is certainly the most formidable in the Loire Valley, a real defensive fortress, its black ramparts still forbidding despite having had their towers decapitated on the orders of Henri III.",The beauty of the chateau can be attributed to the hard work that the designers had placed in its design.,en,English,1
+894547d4d9,well uh what do you think about taxes do you think we're paying too much,Our taxes seem too high. ,en,English,1
+93af188a86,"In other cases, we must rely on survey approaches to estimate WTP, usually through a variant of the contingent valuation approach, which generally involves directly questioning respondents for their WTP in hypothetical market situations.",Surveys can estimate WTP by questioning respondents.,en,English,0
+fccb5ea574,Possibly no other country has had such a turbulent history.,The country's history has been turbulent.,en,English,0
+e59210c354,"If you have the energy to climb the 387 steps to the top of the south tower, you will be rewarded with a stunning view over the city.",There is a great view at the top of the steps.,en,English,0
+e2ebc63bcf,uh i don't know i i have mixed emotions about him uh sometimes i like him but at the same times i love to see somebody beat him,He is my favorite and I never want to see anyone beat him.,en,English,2
+8d7a19764b,I noticed that there was a long branch running out from the tree in the right direction.,There was a rather lengthy branch that was pointing in the right direction.  ,en,English,0
+b5b1303cc0,He celebrated the fact by announcing that the capital would be moved from Calcutta to a whole new city to be built in Delhi.,The capital moved from Calcutta to a new city. ,en,English,0
+b05536587b,"But they also don't seem to mind when the tranquillity of a Zen temple rock garden is shattered by recorded announcements blaring from loudspeakers parroting the information already contained in the leaflets provided at the ticket office; when heavy-metal pop music loudly emanates from the radio of the middle-aged owner of a corner grocery store; and when parks, gardens, and hallowed temples are ringed by garish souvenir shops whose shelves display both the tastefully understated and the hideously kitsch.",A Zen temple rock garden is a zen place.,en,English,0
+7c1b15efd3,"Clearly, people don't know how to reach lawyers.",People take longer to find a lawyer than to prepare for court.,en,English,1
+f979d320c6,Benchmarked by U.S.,Benchmark in America.,en,English,0
+155391ba63,I just stopped where I was.,I continued on my way,en,English,2
+5409d53c65,"Strom Thurmond , R-S.C., celebrated his 95 th birthday by announcing that he will relinquish the chairmanship of the Senate Armed Services Committee a year from now.","On his 85 Birthday, Strom Thurmond announced he will be running for president.",en,English,2
+7dade6ec59,oh yeah all all mine are uh purebreds so i keep them in,mine are all mixed breeds,en,English,2
+57dbc18f2d,"But in fact Haveman and Wolfe's statistical analysis is designed to rule out this and similar alternative theories, leaving us to conclude that the moves themselves are harmful.",We think these moves are benevolent.,en,English,2
+02ce2c3150,Hatch : Muslims treat Moses as a great prophet.,The Muslims don't speak of Moses.,en,English,2
+6f73fa4ed9,"Although, in this case the equipment did not have to be erected adjacent to an operating boiler, the erection included demolishing and erecting a complete boiler island and demolishing the existing electrostatic precipitator.",The erection process included destroying as well as building.,en,English,0
+aa51bb8385,"Most of France went enthusiastically into World War I, and came out of it victorious yet bled white.",Most of France felt patriotic and supportive of WWI.,en,English,0
+5de2aa81ed,"They capitalized on the natural resources by using the salt to cure fish, which they exported to their home country.",They used salt to cure fish and sent it back home. ,en,English,0
+f83cc21bda,yeah its too open yeah and there's uh they have got some forty to fifty foot high cliffs around Possum Kingdom and you just get up and ski uh adjacent to those and uh and it doesn't make any difference how windy it is you don't notice it,Possum Kingdom attracts lots of skiers from all over the world.,en,English,1
+47a8c580e2,Transforming Control of Public Health Programs Raises Concerns (,The health program transformation is bad. ,en,English,1
+d3f7456283,"Major journeys from one part of the country to another, say, from Milan to Rome or down to Naples, is most enjoyed by train buffs and travelers with plenty of time, patience, and curiosity.",It takes eight hours to get from Milan to Naples by train.,en,English,1
+63bf05a8d3,"The setting--wherever it might be--always seems authentic, not as if it were a Hollywood back lot.",They had trouble believing the setting was based on a real place.,en,English,2
+f04b159e4f,"The Santa Monica Pier is the coastal setting for the Twilight Dance Series, a selection of free summer concerts arranged each year.",The Santa Monica Pier hosts free summer concerts arranged each year.,en,English,0
+1c3c899a16,The Office of Information and Regulatory Affairs of OMB approved the,The motion was quickly approve because everyone thought it was amazing.,en,English,1
+542e5452e5,"What am I to do with them afterwards?""",The narrator knows what to do with them.,en,English,2
+3c7034d647,"This is my old friend, Monsieur Poirot, whom I have not seen for years.""",Monsieur Poirot is someone I used to work with back in college. ,en,English,1
+54e838b651,'I really don't feel comfortable around people who enjoy making speeches.',People who like giving speeches make me uncomfortable. ,en,English,0
+22feeace98,"I found her leaning against the bannisters, deadly pale. ",She couldn't stand on her own so she leaned against the bannisters until I found her.,en,English,0
+6f0c3aac50,"To savour the full effect of the architect's skill, enter the courtyard through the gate which opens onto the Hippodrome.",The architect lacked any notable skill.,en,English,2
+858013a88f,I am asserting my membership in the club of Old Geezers.,I am proclaiming that I am now a member of the club of Old Geezers.,en,English,0
+4514784ad1,"I guess history repeats itself, Jane.",I truly think the prior situation shows history repeats itself.,en,English,1
+c8e1f003ab,i don't understand that i thought that he was always a good player,I thought he was a better player than my brother. ,en,English,1
+c5334e62f2,"News berates computer users for picking obvious, easily cracked passwords and chastises system administrators for ignoring basic security precautions.",Users and system administrators both do not prioritize security.,en,English,1
+62e837a883,true yeah i know it isn't that ridiculous we have cable which helps a lot,"We have cable, but even that is useless.",en,English,2
+ea87264b91,"year, they gave morethan a half million dollars to Western Michigan Legal Services.",They make annual donations to legal services.,en,English,1
+840d7eb701,It's all right.,It is well.,en,English,0
+79fa20c53f,oh constantly,Rarely,en,English,2
+659edad8ce,His grandson Akbar chose Agra for his capital over Delhi.,"His grandson chose Agra for the capital, not Delhi.",en,English,0
+1a17ca29e9, Jon took Susan to the mother of the boy who had befriended her.,Jon took Susan to the village.,en,English,1

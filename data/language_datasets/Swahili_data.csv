@@ -1,0 +1,386 @@
+id,premise,hypothesis,lang_abv,language,label
+6d63ae6397,Watoto wangegonga milango ya majirani zao na,Watoto wangeweza kwenda kwa majirani zao nyumba.,sw,Swahili,0
+ca2570d90c,Mashua kama hayo yalitengenezwa kuruhusu fursa ya kufiki kwa meli zinazowasili.,Boti zilianzishwa ili iwe rahisi kupata  meli zinazokuja.,sw,Swahili,0
+fc9b9e81ec,"Sijawahi kuelewa kwanini uandishi wa kimataifa wa simu ya kitaifa haitumiwi katika kamusi ya kiingereza ya kila aina, lakini hii ni zaidi ya upeo wa maneno yetu katika ukaguzi huu.",Mapitio haya ni madogo kwa upeo kwa hiyo hayajadili kwa nini Uandishi wa Waandishi wa Kimataifa wa Simutiki hautumiwi katika kamusi za Kiingereza.,sw,Swahili,0
+61f15fd66d,"Mnamo Mei 1, tunapaswa kuhitimisha chaguzi za upya wa uanachama kwa wachangiaji wa 1991.",Kuna nafasi kwa wanachama 1500 kutengeza upya uanachama wao.,sw,Swahili,1
+6211b5072d,Alikuwa mahuttuti katika mchafuko wa Cuban na Kaiser alizipata picha na akaelekea Andrews Air Force mjini Washington.,Ni mtu mmoja tu ndiye aliyeuawa katika ajali ya mgogoro wa Cuba,sw,Swahili,1
+ba01e23d88,"Kama mimi Msikoti wa majivuno, ninahisi kuwa sababu kubwa ya hii maanzilishi ya ukosefu wa tamaa ya kilugha inapatikana kwa majimbo ya kinyumbani.",Lugha ya kikanda inawezekana kutokana na ukosefu wa tamaa ya lugha.,sw,Swahili,0
+5bb743d827,Makumbusho hayakuwa imara kwenye orodha au lebo,Makavazi hayo hayapendi kuandikwa.,sw,Swahili,1
+3129b1ebce,Aligeuka kumuomba mungu Julian.,Lord Julian hakuwa anaonekana popote.,sw,Swahili,2
+76cf5310b1,Bado alikuwa mle ndani.,Alikuwa amekwenda bila ishara.,sw,Swahili,2
+ada6630bdf,Elimu ya kisheria ya kijamii ni huduma muhimu inayotolewa na watoleaji wa LSC.,Misaada ya LSC inaelimisha jamii.,sw,Swahili,0
+c9564000f9,"um, nina mtoto mmoja msichana mdogo ambaye ana umri wa miezi kumi na nane","nina mtoto mmoja, binti wa miezi kumi na nane",sw,Swahili,0
+46ceab3ce3,"Kuchukua marupurupu na kinga ya wananchi kama thamani muhimu ya utaratibu mpya, kama vile Black inavyofanya, hujenga matatizo yake ya usawa chini ya sheria.",Wananchi wanaweza kuwa na marupurupu yao.,sw,Swahili,0
+2c7e7cbdff,"Sisi kwa kweli twaiunda dunia yetu pamoja, sisi wakosoaji",Kilakiumbe hai huathiri dunia tunayoishi.,sw,Swahili,0
+8c7f490686,Baadhi ya rekodi za lexical za kitabu zina tia shaka.,Uchaguzi wa kitabu hiki unaochanganya hufanya maudhui haya kuchanganya.,sw,Swahili,1
+7e156d04f7,"Kuchukua marupurupu na kinga ya wananchi kama thamani muhimu ya utaratibu mpya, kama vile Black inavyofanya, hujenga matatizo yake ya usawa chini ya sheria.",Wananchi hawawezi kamwe kupoteza haki zao.,sw,Swahili,2
+0f9350fb6a,"Kwa hivyo sasa, ni hivi, anaitaka leo.",Anasema angependa kuipata leo.,sw,Swahili,0
+c919dcfc31,Washington inazidi kuendelea vizuri sana kwa sababu hawajashindwa. Pia Buffalo New Orleans na Chicago kwa sababu Chicago wamepoteza mara mbili tu na mojawapo ilikuwa dhidi ya Buffalo.,Washington imepoteza kila mchezo.,sw,Swahili,2
+087a2f1635,Sababu iliyotajwa mara chache sana ni kuzingatia ubora wa ndani.,Programu ya 'Inhouse core' haina umuhimu mkubwa.,sw,Swahili,1
+e830105d5f,"Alisema, Mpenzi, huyaelewi maisha jinsi ninavyoyaelewa.",Alisema kuwa hakuwa na ufahamu wowote.,sw,Swahili,2
+32cacb4eaf,"Hatimaye aliongeza ukanda, nyumba ya sanaa, na mnara.",Aliongeza vitu vitatu.,sw,Swahili,0
+b1e534ea50,Uzalishaji wa Mercury huchangia uhifadhi wa zebaki katika maji.,utoaji wa zebaki umeleta shida kwa samaki majini.,sw,Swahili,1
+cd1f2cb2c7,walipingana kuhusa ni akina nani walikuwa vijana wa mikono na ni akina nani walikuwa vijana wa kushinda nyumbani. Ilikuwa...,Walikubaliana wote watafanya kazi kwenye viwanja,sw,Swahili,2
+e06d935bd7,"Kwa hakika, moja ya vipengele vya kuvutia vya grafu za teknolojia ni kwamba hufanya mfumo sahihi wa kufikiria mchakato na kubuni wakati huo huo.",Grafu hukuonyesha mfumo wa haki wa utafutaji wa nafasi.,sw,Swahili,1
+4ccf1a1df4,Nadhani ndiyo maana ninakumbuka hilo.,Hiyo labda ndio sababu nilikumbuka hilo.,sw,Swahili,0
+d0d87f5b0a,Kituo chako iko kwenye staha ya bunduki.,Umewekwa kwenye staha ya bunduki.,sw,Swahili,0
+24add1b738,"Hata hivyo, alimalizia kwa kuja huko na akauliza, Inakuja vipi?",Hakuzungumza nasi kabisa,sw,Swahili,2
+5c9d72aeed,"Kwa maelezo zaidi, angalia //www.healtheffects.org/Pubs/NMMAPSletter.pdf.",Kuna maelezo kwa www.healtheffects.org/Pubs/NMMAPSletter.pdf.,sw,Swahili,0
+4936c3c62e,"Regional Haze RIA na NOX SIP Call RIA), makadirio ya chini ya mwisho ya faida yalikuwa ya kizingiti katika madhara ya afya ya PM katika 15: g / m3.",Walikadiria faida.,sw,Swahili,0
+c86b232326,"Hata kama wakati nilikuwa kijana niliishi upeo wa shamba la Kimeksiko,nakumbuka nikifuga majina ziwe nyimbo za magharibi kutoka kaskazini mwa US,Cayuse kwa mfano.",Sikustajabishwa kwa maneno ya mashamba makubwa,sw,Swahili,2
+661f66a1a7,"Na, kwa kweli, Androv Gromikov hakujibu kitu chochote, lakini tulikuwa na habari zote kutoka kwa filamu za U2 zilizochukuliwa.",U2 ilichukua filamu nyingi.,sw,Swahili,0
+f1e7179245,"Meya wa Letohrad, mji ambao Josef Korbel alikua, anasema alimtumia Albright barua tatu miaka ya karibuni.",Korbel hajawahi kuwa na mayo.,sw,Swahili,2
+f663f2ab12,"Louisa May Alcott na Nathaniel Hawthrone waliishi Pinckney Street, huku Barabara ya Beacon ambayo Oliver Wendell Holmes alitaja barabara angavu iliyoshikilia mwanahistoria aliyejisifu William Prescott.",Hawthorne aliishi katika mtaa mkuu.,sw,Swahili,2
+a1a11d4e8e,Na mara moja angekumbuka maneno angekuwa ameweza.,Angekumbuka yale maneno kama angeweza kukumbuka.,sw,Swahili,0
+c768bd1632,"Pia katika Australia, Centrelink imeamua kwamba asilimia 65 ya malipo yake yasiyozuilika yanayotuhusiwa 13  utangazaji usio sahihi wa mapato kwa mteja au mfadhilika.",Centelink haijawahi kuwa na malipo yasiyo sahihi yanayosababishwa na tangazo la mapato lisilo sahihi la wateja.,sw,Swahili,2
+de291ab534,Watu wadogo wana umri gani?,Watu wadogo ni kikundi ambacho watu wengine wana shida kuainisha kwa umri.,sw,Swahili,0
+5a8a815ca4,Anglers wa maji safi lazima wawe na ruhusa kutoka ofisi ya utalii iliyo karibu na habari kuhusu jinsi ya kupata moja.,"Unaweza kukamata chochote unachotaka, wakati wowote utataka.",sw,Swahili,2
+1c9564ca34,Makumbusho ya Baharini huonyesha historia ya Bandari ya Pasifiki.,Jumba la makumbusho la Maritime ni la kuhifadhi historia.,sw,Swahili,0
+7f4974f17c,"Kipindi hiki kinaonyeshwa katika Mfano A-3 katika Kiambatisho A. Hata hivyo, kulingana na maalum ya mradi huo, muda unahitajika unaweza kutofautiana kwa miezi michache",kiambatisho cha A kinaonyesha wakati,sw,Swahili,0
+bbc569de8f,"Ununuzi wa ziada unaweza kupunguza hatari kwa kutambua matatizo mapema, ambayo inaruhusu mabadiliko rahisi au marekebisho.",Ununuzi wa ziada utaongeza hatari.,sw,Swahili,2
+a30a5263bc,"Mbilikimo ambao Anthony John Campos anawaita watu wadogo, pichilingis ni viumbe wanaofanya mzaha wa kiutundu.",Anthony John Campo watu wadogo huwa wasumbufu sana.,sw,Swahili,0
+8ea967ee63,"Uh,nilikuwa wa kwanza katika tisa kueka sindano kwa mdhibiti.",Niliweka sindano Jumanne.,sw,Swahili,1
+36e1460380,".., lakini mara ya pili wa tukio, anapatikana kati ya marafiki wawili.","Ana mkutano mmoja tu, inayoshirikisha rafiki yake.",sw,Swahili,2
+febb74a5f6,Aliashiria kwenye kiraka cha usawa inatia hofu lakini kuna nafasi.,Alijitokeza kuelekea kichaka ambacho kilikuwa kinahuzunisha.,sw,Swahili,1
+bd45b6d2ac,"Ukweli ni kwamba majadiliano ya msalaba yanaweza wakati mwingine kufanana na mambo yote matatu, kulingana na madhumuni, wasikilizaji, na athari.",Majadiliano huwa hayapo.,sw,Swahili,2
+c7c1aaf9c6,"Wakati huo huo, jeshi la hewa lilinunua ndege SR71, ambayo sasa ni A-12, ambayo ilikuwa yafanya kazi na shirika la akili la kati",Jeshi la Angani lilibadilisha ndege.,sw,Swahili,0
+92ccacf542,Mamia ya wanajeshi shujaa wachache chini ya Leonidas wa Sparta yalichelewesha jeshi kubwa la Uajemi katika njia ya Thermopylae kwa muda wa kutosha kuwaondoa Waathene kuwapeleka kisiwa cha Salamis,Waparteni walishinda Waajemi katika Thermopylae.,sw,Swahili,2
+cae72ed01b,Kubadilika huko kwa hisia kulikuwa kwa ajabu.,Hisia ilibadilika sana.,sw,Swahili,0
+a42e093494,"Sipati kitu kinachovutia, cha burudani, au kinachofaa kuhusu yoyote yafuatayo, ambayo ni ya kawaida ya",Ninaona baadhi ya mambo yakiwa na thamani kwangu,sw,Swahili,2
+002e1d0c9d,"OH, kumbe yako ni ya milango minne.","Gari lako na kubwa kuliko langu, na lina milango minne.",sw,Swahili,1
+69458998b4,"McCoy inakaribisha msaada wa __ Company Foundation kwa kiasi cha $ 10,000.","McCoy anaitisha $250,000.",sw,Swahili,2
+27df997f77,Wakala wanahitaji kua na uwezo wa kupima mafanikio.,Wakala wanaweza kujua kama wamefanikiwa kwa kiasi cha fedha wanachokuza.,sw,Swahili,1
+63e20bcc02,Ingeweza kuchukua angalau mara nyingi maisha ya sasa ya ulimwengu kwa ulimwengu wa kusimamia kufanya kila protini iwezekanavyo wa urefu angalau mara moja.,Itachukua miaka michache tu kutengeneza protini zote.,sw,Swahili,2
+3dcc6ea50f,"Vile haya yalitendeka Disemba iliyopita,alipata kura mia moja.",Ilipita na kiwango cha asilimia 99.,sw,Swahili,2
+17e657c65e,"Pieata imefungiliwa mtini, na kamba ndefu inayotumiwa na mtu mzima, ambaye anaweza kuhamisha pieata juu na chini, hivyo haitapasuka haraka sana.",Mmemetuko unarangi nyingi.,sw,Swahili,1
+9bfd4dfd39,"Ina maana kila kitu kwa Becky, Stephanie, Marcus na Emily, na wanafunzi kama wao.",Becky ni mwanafunzi,sw,Swahili,0
+32c4e38b48,Tutaenda huko ndani.,Hatutawahi ingia ndani.,sw,Swahili,2
+53e11f463b,"Brendan Gill, aliyekuwa mkurugenzi mtendaji wa kundi la Kata ya Bexar, alisema kuwa amekuja kuona ushirikiano kama hatua nzuri kwa Texas Kusini.",Brendan Gill alipata pesa baada ya kuunganishwa kwa kampuni.,sw,Swahili,1
+81aa1d39cc,"OH, kumbe yako ni ya milango minne.",Una mlango mmoja tu.,sw,Swahili,2
+3b4ac89614,Lamar Alexander aliangusha jitihada yake ya urais.,Angalau mtu mmoja alikata tamaa kwa lengo lake la kuwa rais.,sw,Swahili,0
+8ae6eb46bf,KSM anaweza kuwa ameagiza Binalishibh atume pesa kwa Moussaoui ili asaidie kutayarisha Moussaoui kama rubani mbadala  mwenye uwezo wa Jarrah.,KSM aliiambia Binalshibh cha kufanya kwa sababu alikuwa mkuu wa shirika zima.,sw,Swahili,1
+7812d86604,"Ukumbi wa raia na jumba la tafrija,namba ya simu ni 01-7282333 linalkojulikana kama Megaron katika Vas.",Megaron ni ukumbi mkubwa zaidi wa tamasha nchini.,sw,Swahili,1
+55e5081770,Walinieleza ya kwamba mwishowe ningeitiwa jamaa fulani ambaye tungepatana naye.,Sikuambiwa chochote kuhusu kukutana na mtu yeyote.,sw,Swahili,2
+73e2b04d82,"Katika kitabu kinachohusiana na suala la aina hii mtu lazima awe mwangalifu sana kuunganisha na ufafanuzi thabiti wa maneno muhimu (euphemism, dysphemism,  mwiko nk) na usiondoke kutoka kwaoke.",Kitabu kinaongea jinsi maneno yanavyo tumika katika tiba.,sw,Swahili,1
+abfd894f53,"Mifano ya vyombo vyote vinavyoundwa  nchini zinaweza kupatikana kwa wingi hapa, na utaweza kununua bei nafuu zaidi kuliko vituo vya matembezi, hasa ikiwa unafanya ujuzi wako wa kuuza kabla.",Ni rahisi kununua vitu hapa kwa sababu hakuna kodi.,sw,Swahili,1
+8eff511cba,Na alikuwa pale daima kwa ajili yetu.,Alikuwa tegemeo nzuri.,sw,Swahili,0
+e5ef8de7ee,"Mavazi na Brigitte Doth, Jade Stice, na Penny Laimana.",Watu watatu walichangia kutengeneza nguo.,sw,Swahili,0
+e593fb6d91,Ofisi ya jumla ya uhasibu ilichunguza habari za hio bunduki na haikuweza kuafikiana nazo.,Ofisi ya Uhasibu Mkuu haikuweza kuthibitisha hadithi ya bunduki,sw,Swahili,0
+f57d5bb50f,"Katika njia hii, YMCA inatazamia kutimiza kanuni za kikristo kwa kuwiweka katika mazoezi kupitia programu inayohimiza ukuaji wa kibinafsi na kujenga afya ya roho, akili na mwili kwa wote.",YMCA ina mipango zaidi ya 100 ambayo inaunga mkono kanuni za Kikristo.,sw,Swahili,1
+a8d9337bba,Hata sasa Blood hana na macho kwa hiyo.,"Kutoka September, Blood amekuwa na nia sana.",sw,Swahili,2
+3511f97057,Kwa kuangalia nyuma ya jicho lake alitazama umbo dhaifu la kijivu likipanda mwenzake.,Ana macho matatu.,sw,Swahili,2
+b54a83f317,Sioni vile alitarajia mimi niifanye.,Najua alijua sitaweza maliza hii leo usiku.,sw,Swahili,2
+ac40a66920,Angalia Wallis na Varjabedian kwa picha za kisasa za moradas ya kale zilipatikana kaskazini mwa New Mexico.,Hakuna picha zilizopo zinazojulikana za zamani za moradas huko New Mexico.,sw,Swahili,2
+67af221283,Rejeo pekee niliyo nayol inayoelezea mstari huo(Kitabu cha The Penguin Book of Comics) inamaelezo machache dhaifu.,Kumbukumbu niliyo nayo ina utatanishi.,sw,Swahili,0
+c05877f106,"Kwa kuchukua fursa kwao wote, hatuhitaji kutegemea upande mmoja ule kwa mfumo ili kufanya kazi.",Tunawezapata shida kupata makali katika mambo fulani lakini haipaswi kuwa ngumu vile kwa jumla.,sw,Swahili,1
+41ce3f8a0b,49 Bima ya mshahara inawezesha viparara wa siagi kupata ufanisi/faida ya gharama tu kwa kulipa mshahara uliopo.,wadanganyifu hufanya mambo yasiyokubalika na hawashikwi,sw,Swahili,1
+ec9fabfd64,"Kanda ya kusini-magharibi iliyokuwa na uchunguzi na kumbukumbu zaidi ya kuhusiana na taratibu za harusi huko New Mexico, kwa sababu wazazi wa Hispania ya awali wamekuwa na ufahamu wa kuelezea na kuandika mila zao.",Kuna ushahidi kwamba wazao wa Hispania wa kwanza wangeweza kuandika.,sw,Swahili,0
+45280f46e8,"Bila shaka, azimio lako lilikuwa la thamani, Shukrani kwake kwa kukuokoa kutoka kwa wa Spaniards",Waspania walipanga kukutupa majini wakati wa usiku.,sw,Swahili,1
+dcc4b13243,"Wao walijadili malengo katika lugha ya msimbo, wakijifanya kuwa wanafunzi wakizungumzia maeneo mbalimbali ya usanifu majengo unaojulikana kwenye Kituo cha Biashara cha Ulimwengu, sanaa ya Pentagon, sheria ya Capitol, na siasa ya White House.",Waliongea kuhusu ujenzi wa alama za njia na kuzitumia kama maneno ya siri.,sw,Swahili,0
+6cd210d6f3,TVA walieka ujenzi kutumia gesi  kuelekea FGD ilhali ESP iliharibiwa na SCR ikaekwa kule.,Barabara ya kando itatuma gesi kwa FGD.,sw,Swahili,0
+8a406720ce,"Hizo ni meli za kikundi cha meli  cha Jamaica, bwana matawala akamjibu.",Ufalme wake ulimwambia kwamba meli zilikuja kutoka kwa meli za Jamaica.,sw,Swahili,0
+743f356c53,"Mnamo mwaka wa 1868 na kupitishwa kwa Marekebisho ya Kumi na nne, tulikuwa tumezingatia kizingiti cha mapinduzi ya kikatiba.",Marekebisho ya kumi na nne yalianzishwa mwaka wa 1868.,sw,Swahili,0
+e31bbef1fa,"Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.",SS ya tatu ndio kikosi kibaya zaidi cha polisi wapanda farasi.,sw,Swahili,1
+0f211541d4,Nilikwenda na nikachukua mizigo mbeleni na nilitazama anwani niliyopaswa,Nilichukua mfuko huo hadi ulipofaa.,sw,Swahili,0
+409cc584c5,"Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.",Mimi sitaki kuwa sehemu ya tatu SS.,sw,Swahili,0
+6b62348257,Utungaji huo bila shaka ungeacha hisia kwamba sehemu ya kamba ilikuwa imepata moto.,Muono uliotolewa ni kwamba moto ulianza katika upande wa uzi.,sw,Swahili,0
+6bbee8b4a5,Mfanyakazi wa jimbo atakuwa karibu kusaidia wasaidizi na utafiti wao pia.,Hakuna atakayekuwa hapo kukusaidia na utafiti.,sw,Swahili,2
+098c5ed731,"Pia tunasisitiza michezo inayohusiana na historia, fasihi na mada ya kujifunza kijamii.",Tunajaribu kufanya michezo isiyoangalia historia au fasihi.,sw,Swahili,2
+3982e87714,"Sehemu moja ya majeshi ni kikosi cha ujenzi, ambacho kilikuwa kimefupishwa mpaka  C.B.",Maelezo ya Batallion ya Ujenzi wa majeshi ni C.B.,sw,Swahili,0
+b8d1e8e3ee,Tafadhali toa sasa ili tuweze kurudi kukupa wewe na marafiki zako na majirani.,Hatuhitaji misaada yoyote zaidi.,sw,Swahili,2
+1d852331b9,Michezo sio tu matukio ya kamari katika maeneo haya.,Maeneo haya huchukua bora zaidi kwenye shughuli kadhaa.,sw,Swahili,0
+d1f959b554,na hivyo ni mimea kubwa ya plastiki nadhani una sabini ama asilimia sabini na tano y  soko au kitu kama hicho,Nafikiri wanadhibiti zaidi ya soko.,sw,Swahili,0
+7449ec003c,"Utaratibu wa ulimwengu wa ufuatiliaji wa asili ya furaha, uliofanyika katika Azimio, hutoa njia ya kiumbe ya ufafanuzi wa taratibu za sheria.",Tamko linasema kuwa unafaa kutafuta utajiri.,sw,Swahili,2
+93ba2a3601,Fedha zinahitajika hapa kwa ajili ya matumizi kama fedha za mbegu tunapojitahidi kuanzisha miradi ambazo zinapaswa kuifanya shule ijitegemee.,"Hatuhitaji pesa zaidi, wakati wenu tu.",sw,Swahili,2
+919c615618,Mawakili wanaopokea malipo kutoka kwa shirika la sheria wanatakikana kufwatilia maisha ya wateja wao na kujiondoa katika kesi iwapo wateja wao wageni wanaondoka Marekani,Wanasheria hulipwa na LSC kama wanafanya kazi katika ugaidi.,sw,Swahili,1
+016f65a89c,"Kwa hiyo, wakati kuna protini nyingi tofauti, idadi ya maumbo ya ufanisi yanaweza kuwa tu kwa utaratibu wa milioni mia moja.",Kuna zaidi ya proteni milioni moja tofauti ambazo zina maumbile tofauti.,sw,Swahili,0
+dfb3bd1687,"Na kuna, nadhani, kidokezo cha molekuli ambacho hifadhi cha maumbile kinaendelea kujishughulisha na utawala unaoweza kuendeleza kwa seti inayoenea ya mstari.",Bayongahewa yenyewe hubadilika sana.,sw,Swahili,0
+10dd1e1008,"Kuanzia Mei hadi katikati ya Oktoba, Boston Harbor Cruise Company (Nambari ya Simu.",Kuna safari za babdarini katika bandari ya Boston.,sw,Swahili,0
+f88f913326,Kuona wachungaji wowote kule Broadway hivi karibuni au hata kutajwa katika The New York Times?,Kuna wachungaji wachache sana Broadway.,sw,Swahili,0
+edab59a3cb,"Cete de Charlevoix ni sehemu ya urefu wa Laurentian, kufikia Mto Saguenay ambapo coureurs de bois hugeuka kutafuta furs.",Mto Saguenay ulikuwa sehemu ya soko la makaa.,sw,Swahili,2
+0bdfcdef10,Jambo moja ambalo najivunia sana ni kuwa IRT ni kiongozi nchini kote katika kutoa uzoefu wa sinema kwa wanafunzi.,IRT inahusika katika soka,sw,Swahili,2
+7be5303fe8,"Katika krusedi la Sita (1228- 1229), Mfalme Mtakatifu wa Roma Frederick II aliweza kusitawisha Yerusalemu kwa ajili ya wakristo kwa mazungumzo.",Kaisari alifanya biashara na Uajemi.,sw,Swahili,2
+11edfd2462,Kushughulikiwa hivi kwa wale wanaotoa mchango kubwa ni kawaida.,Hakuna kitu kipya katika aina hii ya matibabu kwa washiriki wakubwa.,sw,Swahili,0
+22daade5c5,"Zaidi ya sifa ya Las Vegas ya kuwakaribisha watalii, hatujaona ushahidi wowote wa kuaminika unaoelezea kwa nini, katika tukio hili na mengine, washirika walikwenda au kukutana huko Las Vegas.",Hao wapelelezi walienda Las Vegas mara nyingi kwa muds mfupi.,sw,Swahili,1
+695990d33a,"Katika utaratibu wa kisheria wa postbellum, matokeo sawa yanatokana na kanuni za shirikisho za taifa.",Uamuzi wa kisheria wa Postbellum uliisha na majibu yale yale kwa sababu ya shirirkisho la katiba ya Barbados.,sw,Swahili,1
+d29cd6a717,Chini ya daraja ndani mwa bandari ni kisiwa kidogo kinachoitwa Kisiwa cha Potter.,potter cay ni maili tatu tu,sw,Swahili,1
+13b508cfee,"Mara nyingi, mazungumzo haya ya mapema yalijulikana kama sanaa ya watu.",Sanaa za kale zilikuwa zinajulikana kama sanaa ya miungu.,sw,Swahili,2
+1f59a7dbea,buscarle la quinta pata al gato 'kutafuta mguu wa tano wa paka' ni kawaida sana na maana 'ya kutafuta taabu',Msemo ni kuhusu paka aliye na miguu mitatu.,sw,Swahili,2
+a9ba016364,"Kwa mfano, katika GGD, utafiti wa kubuni ulifanywa kama kazi tofauti, mwisho",masomo yalifanyika katika kutengwa,sw,Swahili,0
+3a212457b3,"Deborah Cameron na Deborah Hills ( ' Nikiskiza': kushauriana mahusiano kati ya wasikilizaji na watangazaji katika programu za redio na simu ) wamefanya utafiti wa wa utoaji wa redio ya LBC, kituo cha majadiliano yote cha London, ambacho nmesikiliza kwa hamu.",Sinao redio na sina nia ya kusikiliza programu za redio.,sw,Swahili,2
+b20c96d26b,Wanaweza pia kuwa wazuri baada ya kufunzwa.,Wanapopata mafunzo wanaweza kuwa wazuri kabisa,sw,Swahili,0
+6de173f79e,Na leo tunapaswa pia kuwa na misingi ya kuzingatia usawa wa mwanadamu kama haki ya msingi ya haki ya kijamii na kisiasa.,Hatupaswi kufikiria usawa wa binadamu wakati tunapozingatia haki ya kijamii na kisiasa.,sw,Swahili,2
+a3df3672a2,Kugandishwa kwa mali kwote duniani hakujatekelezwa kikamilivu na imekuwa rahisi kuzunguka sana sana ndani ya wiki kadhaa kwa njia rahisi.,Wakati mwingine watu wanaweza kuepuka kufungia mali kama wanalipa fedha nyingi kwa msaada.,sw,Swahili,1
+edf1e74cc3,Hauna heshima bwana kama vile nishaona.,Mtu huyo ni mtulivu na mwenye busara,sw,Swahili,2
+e02d2aaf45,"Utukufu wa juu huenda kwenye Riven - au kuboreshwa kwa mchezo bora wa kompyuta wakati wote, Myst - kuhusu mtu aliyepigwa kisiwa","Chakusikitisha, mchezo wa kompyuta unaoitwa Myst haukutolewa kwa umati.",sw,Swahili,2
+69de640a88,"Ni kama faili moja yenye tab nzima, tofauti, unajua, kila tab ina kama lahajedwali tofauti juu yake.",Ukurasa huo ni orodha moja tu ya nambari.,sw,Swahili,2
+5a7e210f5a,"Lawrence Singleton,mwenye sifa mbaya ya ubakaji alivamia mwathiriwa mikono na alizuia miaka nane zelani,alizuiliwa tena kwa kumuuua mwanamke mwingine Florida.",Ilikuwa dhahiri kwa kila mtu kuwa wakati wake gerezani ulikuwa umemrekebisha kabisa.,sw,Swahili,2
+167a1ec5d6,si...si..sikuota.,Sikuota ijumaa iliyopita.,sw,Swahili,1
+af86cb50c0,Kulaani na kuapa kwa Kihispania ni uvumbuzi-- echar sapos y culebras maana halisi 'kutupa nje vyura na nyoka.,Uchukizo wa Hispania ni wa kufikiri; Echar sapos y culebras ina maana ya kutupa nje vyura na nyoka.,sw,Swahili,0
+eb00024487,Kutazama msichana aliyevaa koti nyeupe la manyoya na buti.,Msichana amevaa kwa kuteleza.,sw,Swahili,1
+6406cb8e01,Hivi ndivyo jinsi julivyo tu. Angalia sasa yu matatani.,Uko katika hatari.,sw,Swahili,0
+3289458157,"Na maandiko ya fahari, vitambaa hivyo vilivyopewa majina yadhihaka katika elimu ya kienyeji hutumia majina ya kubandikwa katika maazungumzo yao kibinafsi , maongezi ya saluni na mtaala usio rasmi",Gazeti hizo hazina sifa nzuri.,sw,Swahili,0
+0e886f2c2c,Bahari ya joto hutofautiana kati ya 18e na 24e C (64-75e F).,"Angalia temprecha ni kubwa wakati wa mchana, wakati ni joto.",sw,Swahili,1
+5c1b056362,"Kama watu 100,000 kwa siku huja kushangaa kwa usanifu na kuchunguza vivutio kwa mji huu unao zidi kubadilika.",Karibu watu elfu 100 huja kuangalia jiji kila siku.,sw,Swahili,0
+3337dbdc23,Kwa hivyo ilikuwa ya kuvutia sana,Sikukuwa nia yoyote.,sw,Swahili,2
+14404f231e,"Mchezo unapofanyika kwa hoteli na malipo mengine, uthibitishaji wa tripu halisi utafanywa.",Hakuna njia ya kuthibitisha ikiwa safari ya kweli ilitokea au la.,sw,Swahili,2
+98a7a7dca7,"Meya wa Letohrad, mji ambao Josef Korbel alikua, anasema alimtumia Albright barua tatu miaka ya karibuni.","Korbel iliongoza wakazi 5,000 wa Letohrad.",sw,Swahili,1
+9508d50f92,Vyombo vya habari vya chuo kikuu kongwe na kubwa zaidi duniani - Oxford - imetangaza tu kuwa inafuta orodha yake ya mashairi.,chuo hicho cha kifahari hakina fedha za kuendeleza orodha ya kishairi,sw,Swahili,1
+33e4fe7416,"Wasemaji ambao wanataka kuwavutia wasikilizaji wao wanahitaji kuwa na pointi muhimu za telegraph na ukweli, kisha wawatangaze, kisha kurudia, kuigiza, kuelezea, na kupamba.",Kurudia ni sehemu moja ya mbinu za kuvutia za hotuba.,sw,Swahili,0
+0010d02d52,"Malum kamili, ukumbi kamili uliotengenezwa umefanya tofauti kwa watoto kama Becky, Stephanie, Marcus, Emily, na wanafunzi wenzao katika Indiana.",Ukumbi wetu wa matoleo umewasaidia watoto wa shule ya msingi kujifunza jinsi ya kupa rangi.,sw,Swahili,1
+d0d6d69ebd,"11 Hata hivyo, katika uongezaji mgumu zaidi, muda unaopotezwa unaweza kuathiriwa kwa njia kubwa.",Vifaa vilivyo karabatiwa havina athari halisi wakati wa chini.,sw,Swahili,2
+67dc7991cc,Huyu msichana anaweza kukusaidia kuenda popote utakapo mjini.,Msichana ninayehitaji msaada kutoka kwake anaishi mbali.,sw,Swahili,0
+26b05fe508,Nathamini fikira zako na natumai ya kwamba utashiriki katika kampeni ya mwaka huu wa kila mwaka.,Sitaki pesa zako!,sw,Swahili,2
+56b7f0867e,Mtoe na uwatolee ishara watume mashua. Kimya cha mshangao kilijaa kwa meli na tuhuma ya kujisalimisha kwa ghafla.,Wafanyakazi wote katika meli badala yake walishtuka kwa yale mavuno.,sw,Swahili,0
+b7ff13fb47,"Na, ni tofauti, kama kwa kila mteja, ni faili zao zote.",Huwa wanaweka faili zote.,sw,Swahili,0
+3261a3f6ab,"Vyakula vilivyonururishwa sana ninakaa salama, vya manufaa na vya bei nafuu.",Kila mtu anapaswa kupsha moto chakula chake maanake ni hatari kukula chakula bila kufanya hivyo.,sw,Swahili,1
+25f743dd41,Tena nyanyangu akaamka na akaanza kutembea chini ya ngazi za ukumbi akielekea barabarani. Alafu akasimama hapo bila kutembea.,Nyanya alikaa kwenye ukumbi.,sw,Swahili,2
+031ca7a552,Ni wajibu wa 'CIO' kusimamia matarajio na kusaidia kuhakikisha kuwa wanachama wote wa shirika la 'CIO' wana ufahamu wazi wa majukumu yao.,"CIO ana kazi mingi, ikiwemo kuchunga matarajio na kuhakikisha wanachama wanaelewa wajibu wao.",sw,Swahili,0
+1be231f93b,Unaona mbegu ya ndani ya Dominant Mendelian ilichaguliwa kwa urahisi wakati hali ya mazingira ilichipuka.,Mazingira hayakuwa sahihi kila wakati kwa jeni tawala la Mendelian.,sw,Swahili,0
+36e7d14b23,Matumizi ya teknolojia mpya kwa kujitegemea vifaa vya kuingilia kwa ufupi na maoni inaweza kusaidia kujaza mapungufu katika mfumo wa huduma kwa wagonjwa walio na hatari na  tatizo la kunywa.,uvamuzi wa moja kwa moja wa wagonjwa unaweza kuwa na maana.,sw,Swahili,0
+d093d555c4,"Mtu hakutarajia chumba kilichojaa wasimamizi wa ushirika kupiga chata, kuzomea na kupiga kelele ya upuuzi wakiwa katika kikao cha mwandishi wa kazi wa US",Mtu angetarajia wawakilishi wa ushirika kuteta.,sw,Swahili,2
+0e3acc70ec,"Sipati kitu kinachovutia, cha burudani, au kinachofaa kuhusu yoyote yafuatayo, ambayo ni ya kawaida ya",Sioni kitu cha thamani kwa wakati wangu.,sw,Swahili,0
+4cfbff8a71,"Inavyoenda kwa mwendo wa kinyoka, juu na chini, nchi inachukua shepi ya kustaajabisha, jambo ambalo linawaacha watalii wengi wakifungua vinywa vyao.",Kuta hilyo iko kwenye nchi wazi.,sw,Swahili,2
+4ef3d134c2,Mabadiliko katika maadili ya magongo juu ya mipaka ambayo hubadilisha maeneo na kiasi cha kiungo miraba inaweza kufikiriwa kama kupoteza geometri ili iweze kupiga njia tofauti.,Jiometri ya tetrahedra si ngumu.,sw,Swahili,0
+3564a2ca28,Baadhi ya watu wanaweza amini hadithi hiyo. Alirusha gumba la dharau kwa wanaume wa kiuno ambao daraja zao zilikuwa zinaongezwa kwa kasi kufuatia kukuja kwa wengine kutoka kwa utabiri.,watu wengine wanaamini hadithi ya malkia aliliwa na joka,sw,Swahili,1
+cfd8db6aee,"ah, ha, ndio, tuna ushuru ya nguo.",Kodi ya mauzo ni ya juu sana.,sw,Swahili,1
+6da1e60abf,Hekima inayotawala Washington wiki hii ni kwamba waandishi wachanga kama Glass wanaotia bidii wanahitaji kuhurumiwa kwa sababu mfumo unawashikiza kuwa hodari kabla ya kuwa wasafiri.,Glass ni mwandishi wa Times.,sw,Swahili,1
+3f72fcaa78,Kila mtu huwa yuwapewa mvinyo lakini wengine hawanywi na kwa hivyo kinachobakia watoto hunywa. Huwa tunaenda kila mahali tukinywa mvinyo.,Sherehe yote ilikuwa kavu na hakuna pombe iliyotumika.,sw,Swahili,2
+dfb96d8b8b,Hizi zinajumlisha nafasi ambazo hazikuonekana mbeleni kuendeleza masomo ya wanafunzi na kitivo kwa kualika wageni maalum na wasomi kwenye chuo hicho wanapotembelea eneo hilo.,Wanafunzi wanaweza faidika kutokana na matembezi ya chuoni,sw,Swahili,0
+de57f4f080,"Riwaya wastani ya maneno 200,000 kwa $ 25 inamaanisha kufanya kazi kwa maneno 8,000 kwa dola.","Riwaya ya maneno 200, 000 kuuzwa kwa $25 ni bei nzuri.",sw,Swahili,1
+81348c07b3,Dadangu huwa anipasha kila mara kwa mimi ni kama nyanya yetu tu. Huwa nawatend a watu vibaya kwa sababu zile mbaya.,Dada yangu alisema kuwa kamwe sikumfanana nyanyangu.,sw,Swahili,2
+106d447703,"Uh-huh, ni ya kuchekesha, na ninadhani napenda maonyesho ya kuchekesha kwa sana.",Napenda kuangalia maonyesho ya kuchekesha.,sw,Swahili,0
+f542e82f42,"Wasikilizaji hawaonekani; kila mtazamaji ako katika chumba chake kidogo, kinachoitwa sebule.",Hauwezi kuwaona hadhira.,sw,Swahili,0
+13b4171861,"Hata hivyo, ikiwa nikifananisha Jengo la RCA la Hood na Ujenzi wa Pan Am (leo MetLife) ya Gropius, kuna shaka kidogo ambaye alikuwa mwumbaji zaidi wa ubunifu.",Mjengo wa Hood RCA ulikuwa na ubunifu.,sw,Swahili,1
+aba2ec9bda,"Hilo litatuliza joto la Kanali Askofu, labda.",Kanali Askofu tayari ni mwema.,sw,Swahili,2
+7040e67e80,Natumaini kusikia kutoka kwako hivi karibuni.,Natumai utanipigia kesho.,sw,Swahili,1
+93efbd3c88,"Mnamo Mei 1, tunapaswa kuhitimisha chaguzi za upya wa uanachama kwa wachangiaji wa 1991.",Wanachama wengine wanaweza kuandikisha uanachama wao upya.,sw,Swahili,0
+da37e4d702,"Mbomoko wa fleti za Faaades, mabweni, na duka za chini ya ardhi za kupatana bei za msururu wa Karl-Marx-Allee kuongoza kusini mashariki kutoka Alex.",Karl-Mark-Allee ameziona siku bora zaidi.,sw,Swahili,1
+6b1a91d237,"Na ni bora gani ya hizi? - Je! Wewe wamwogopa mjinga Barbados mpanda?  ? Nini chakusumbua wewe, Petro? Sijawahi kukujua kuwa mwoga. Bunduki ilifyatuka nyuma yao.","Nilijua siku zote kwamba wewe huhofia kwa urahisi, Peter.",sw,Swahili,2
+c31e66e14c,Kuanza kwa 1991 unafanya upya kumbukumbu za siku za uanafunzi chuo kikuu cha Indiana,Kuanza mwaka wa 1991 kulifutwa kutokana na hali mbaya ya hali ya hewa.,sw,Swahili,2
+d1db610db7,Ndio kuna kitu kuhusu kuwa na mahali pa kuishi sijui,Kuwa na mahali pa kuishi ni ndoto kuu imetimika.,sw,Swahili,1
+cdac147065,"Kwa wanyama ambao hawapatikani na wamiliki wao, Humane Society hutumia huduma mbalimbali za kusaidia wanyama hao na kuwapa fursa ya maisha ya furaha.",Jamii ya Humane husaidia wanyama kuishi maisha ya furaha.,sw,Swahili,0
+017c4fee83,"Imara, mbwa mwitu mzee! Imara! kapteni Blood alimshauri.",Kapteni Blood alimpigia kelele Old Wolf.,sw,Swahili,0
+10608ace3e,"ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.",Sikupenda sana semina iliyofanyika kwa setilaiti.,sw,Swahili,2
+9884762ec2,"Katika njia hiyo hiyo, wapigaji chapa wanategemea nguvu zote za mikono kuunda maneno, badala ya umeme ama usaidizi (elektroniki)",Wachapishaji huhitaji msaada wa umeme ili kuunda maneno.,sw,Swahili,2
+28c9c8302f,"Ulinidai --au nlidhani nlifanya, alisema.",Ana deni lako kwa ajili ya msaada ambao ulimpa kama mtu wa kuombaomba asiye na pesa.,sw,Swahili,1
+4545a54158,"Ili kuzuia sura ya ushoga kama jambo mbaya, Clinton na Birch wamewalimbikizia mashoga sifa za kiraia .",Usenge unaonekana kuwa njia.,sw,Swahili,0
+56a6a6c320,Ninaandika kukushukuru kwa zawadi ulizopatia maktaba ya chuo cha IUPUI na ninaomba ufungue upya hio uzaidizi.,Nakuuliza utoe zawadi nyingine kwa maktaba za chuo kikuu cha IUPUI .,sw,Swahili,0
+aeea2c0799,"Mwenyewe, mimi kabisa ni wa maoni ya Wolverstone.",Ninakubali kuwa nimekosa kukubaliana na Wolverstone hapo awali.,sw,Swahili,1
+4e4e2b7edf,Nina ua la tiff Bermuda hapa na linahitaji maji mengi na unafaa kuliweka likiwa fupi zaidi kama unataka lifanane na gofu kijani.,Bustani za Bermuda ni kazi nyingi.,sw,Swahili,1
+40e81b8db9,"Ninafiria, haya, ninaenda kuacha mtu mwingine aende, lakini ninafikiria, Mungu wangu!",Nilidhani nitaenda kuruhusu mtu mwingine aende badala yake.,sw,Swahili,0
+23ea23165a,Milima yenye mviringo ya Serra de Tramuntana imeshuka kwa bahari kwa kasi sana hapa kuna maeneo machache ya upatikanaji na bandari moja tu na bandari ya ukubwa wowote kando ya pwani.,Kuna bandari 27 kwenye milima,sw,Swahili,2
+ab8b0524d3,Utumuzi wa teknolojia unaweza kupunguza wakati unaohitajika kwa wenye kutoa huduma kukagua na kulenga wagonjwa wanaoweza kunufaika kutokana na jumbe fupi za mwingilio.,Teknolojia inaweza kupunguza muda inayotumiwa na wakimu na watumishi kuwaangalia watu kwa asilimia 80.,sw,Swahili,1
+c596a313d6,FBI lazima iendeleze usalama mkali na wa viwango vya ustadi kwa wafanyakazi wake wa kudumu na mkataba.,FBI huwa haifikiri kuhuse wafanyikazi wake.,sw,Swahili,2
+3dd2c5b420,"Ubora wa juu wa utaratibu wa kikatiba wa Ujerumani baada ya vita, basi, ulikuwa ni majeruhi makubwa zaidi ya utawala wa Nazi.",Utawala wa Nazi uliuuwa kila mtu aliyehusika.,sw,Swahili,1
+98a865d1cf,"Katika usindikaji hati wako, mfumo wa automatiska inaweza kulinganisha habari iliyopo katika malipo halisi yaliyosindikwa na kampuni ya malipo ya kadi na yale yaliyodaiwa kwenye hati.",Tiketi ya usafiri inapotumiwa mfumo unakwama na unakataa kufanya kazi.,sw,Swahili,2
+385c53b252,Kuna sababu mbona hakukuambia?,Kwa nini hakukueleza kuhusu hilo?,sw,Swahili,0
+4753bf26b7,Nimekuwa nikimwinda huu mwaka na uliopita.,Nimekuwa nikimfuatilia kwa karibu wiki hivi.,sw,Swahili,2
+97a87a8842,Yaonekana alikuwa amekisia kuwa umri wa babake.,Alikuwa na umri wa miaka 27 kuliko yeye.,sw,Swahili,1
+3d4b1a74a7,Wengi wanaona uhamasishaji kama sio zaidi ya ishara kubwa ya matajiri.,Watu wengine wanafikiria kufadhili kwa kujitoa ni kitu watu matajiri wanafanya.,sw,Swahili,0
+fc8b2336a2,"Oh, lakini--kwa idhini yako--kwa kweli hakuna cha kuhofia kutoka kwa askofu kanali.",Huenda Colonel Bishop hakuwa na chochote cha kujishindia.,sw,Swahili,0
+06aea2a73c,Angalia yule mnyama mdogo wa ajabu huko?,Siwezi kumuona hayawani mdogo dadisi.,sw,Swahili,2
+ea669bc0f5,"Steve Harris, mwana biolojia wa molekuli kutokaTexas alikuwa ametutembelea.",Steve alikuwa akitembelea California ili kujifunza sampuli mpya.,sw,Swahili,1
+d28c47a886,Kazi ya kwanza ni kumaliza vita na kuunganisha taifa.,Tunafaa kuhakikisha vita ilindelee kwa miaka miingi.,sw,Swahili,2
+5f47d9eebe,"Mfululizo wa mashindano ya uvuvi hufanya msimu kwa matajiri, werevu, na wazuri, ambao wanashuka kuvua samaki wakati wa mchana na kufurahia eneo la kijamii lililo hai baada ya giza.",Watu hupenda kunywa pombe nyingi kwenye baa wanapoenda uvuvi.,sw,Swahili,1
+1a13f8a4c6,Tunaweza endelea kuipa nguvu masomo ya mawakili wazuri.,Tunaweza kuwaelimisha mawakili ikiwa tutawapa kufikia maktaba ya sheria.,sw,Swahili,1
+e08c3c8047,"Sikujua Bi Faulk vizuri sana alikuwa na umri wa karibu miaka 80 na, ah, alikuwa mtu mzuri nilimwona mara chache lakini nilikuwa na wasiwasi sana kuhusu hilo.",Bi Fauk aliendesha Honda ya manjano kuelekea kazini kila siku,sw,Swahili,1
+f5b466c53c,Ila tu haikuwa jambo la kufichika kwa sababu hasira na sumu yake ilikuwa wazi kwa wote kuona,alijaribu kuficha uso wake wa mabaya na uso mzuri kidogo zaidi,sw,Swahili,0
+c28daedd2d,"Utawala, Dhuluma yaUtumiaji wa Dawa za Kulevya na Huduma za Afya na Akili za Afya, na Utawala wa rasilimali za Huduma za Afya.",Utawala wa Rasilimali na Huduma za Afya ndio muhimu zaidi.,sw,Swahili,1
+e811bb0b59,"Ni, bila shaka, badala ya kudhani kwamba kuna kutokuwa na uhakika wa kiasi katika sheria, lakini haionekani kuwa haiwezekani.",Haiwezekani kudhani kwamba kuna daghadagha la kihesabu katika sheria.,sw,Swahili,2
+237a75fed3,Masanduku haya huja na nyaya ( zinazoitwa kebo katika biashara kwa sababu inavutia zaidi) zinazoziruhusu ziunganishwe kwa nyingine na katika chanzo cha nguvu.,Kebo ni jina la kifahari zaidi kuliko waya wakati wowote katika biashara.,sw,Swahili,1
+b6898b2837,"Lenny Bruce alianzia kuomba msamaha wake hivi--na nanukuu kutokana na kumbukumbu mbaya--Kuendelea kwa uhalifu, magonjwa, kuteseka na vifo ni hivi ambavyo huniweka mimi, Albert Schweitzer, and J. Edgar Hoover katika biashara.",Bruce huomba msamaha mara mingi.,sw,Swahili,1
+7b2377ea05,"Unajua, faida nyingine niliyopata , sikuichukua kwa manufaa, angalau kabla kampuni kubwa wakati mwingine hulipia masomo.",Wakati mwingine makampuni makubwa hukusaidia kulipia elimu.,sw,Swahili,0
+94b68fcf2b,Jambo moja la matukio ya lugha kutokea katika miaka mia moja iliyopita ni kukubali dhana kwamba njia muhimu kwa kutatua shida ni kuzipa majina,baada ya tatizo kufumbuliwa suluhisho hupatikana kwa muda unaokubalika,sw,Swahili,1
+73c9800962,Magazeti ya mitaa na watangazaji wachache wa satelaiti kama vile al Jazeera-mara nyingi huimarisha mandhari ya jihadist ambayo inaonyesha Marekani kama wasiopenda muislam.,Magazeti yote ya Marekani lazima yaonekane kuegemee Waislamu.,sw,Swahili,2
+f00bac03d1,"Karibu na matukio ya awali na bado kutoa ushahidi wazi zaidi kwa siku za Klondike, boomtown ya Dawson City ilijitokeza mwaka wa 1951 kwa kituo cha usafiri na mawasiliano cha Whitehorse kama mji mkuu.","Kule Whitehorse, gari za farasi ndizo zilitumika kwa usafiri.",sw,Swahili,1
+33614dab0f,Mradi tu huna pingamizi kuonyeshwa na wataalam wakazi wenye umri wa miaka kumi.,Vijana wa miaka kumi wanajua yote kuhusu sayansi.,sw,Swahili,1
+f398ad68c9,Changamoto ninayotafuta kwa sasa ni neno ambalo linaloweza kugawanywa kwa aina mbili tofauti mfululizo.,Sijakuwa na wakati rahisi kupata neno ambalo linaweza kukatwa katika fomu mbili ndogo zinazofuatana.,sw,Swahili,0
+ae286b358b,Wajua siku iliyofuata Rais Kennedy alizuilia Cuba na meli zetu zikasimamisha meli moja ya Urusi ilikuwa ikielekea Cuba na wakapata vilipuzi ndani.,Hawakusimamisha meli yoyote kwa sababu hawakutaka mgongano.,sw,Swahili,2
+4105cd94e2,"ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.",Nilienda warsha iliofanywa na Satelite.,sw,Swahili,0
+6ba14342a2,Inashangaza kwamba kipengele hicho kinaweza kutokea katika uchumi kwa ujumla.,Haishangazi kuwa kipengele sawa haina nafasi nkwenye uchumi ndogo.,sw,Swahili,2
+16ffd9a4a0,"Mkazi aliyetoka kutoka ziara ya kuongozwa , kwa njia ya ajabu, wengine hufanya, kutokana na kukumbuka , walisema kuwa chakula kilikuwa kizuri kuliko ya hoteli nyingi za San Francisco.",Mtu mmoja alisema kuwa alipenda chakula cha jela sana.,sw,Swahili,0
+20c1430a56,"Zaidi ya Payangan, kichorochoro kidogo kinachotumika zaidi, hupitia katika njia ya kifahari yenye manthari nzuri kwenda Batur (tazama ukurasaa59).",Hii barabara inatoka Payangan hadi Batur.,sw,Swahili,0
+7e1b4d92a0,Msambazaji wa mfumo wa SCR wa kijerumani ameweka SCR juu ya sehemu kubwa ya uwezo wa Ujerumani ndani ya vipindi vya mzunguko yenye wiki ndogo chini ya nne.,Mfumo wa SCR uko Australia pekee.,sw,Swahili,2
+f9a8b86480,"Mfanyakazi wa kisheria wa Shirika la ujasusi la Marekani  kati ofisi yao Paris aliwasiliana na serikali ya Ufaransa tarehe Agosti 16 au 17, muda mfupi baada ya kuzungumza na wakala wa kesi wa Minneapolis kwenye simu.",FBI walifungua ofisi Paris mwaka wa 1925.,sw,Swahili,1
+651eb1452f,"ndio, walikuwa na kundi zima la vitu ambavyo vilivunja wakati mmoja",Hakuna vitu zao zilizovunjika.,sw,Swahili,2
+66ec78de5d,Majadiliano na wawakilishi wa jiji na mashirika mengine ya kiraia na ya kijamii kuhusu maendeleo ya IMA na amp.,IMA inafanya kazi na mashirika mengine katika eneo hilo.,sw,Swahili,0
+bbe05d3dd7,"Tunatarajia utafurahia kuzungumza nao, lakini unaweza okoa fedha za utawala wa IRT kwa kutuma zawadi yako katika bahasha ya kurudi leo.",kuna uwezekano wa kutuma zawadi yako kutumia posta.,sw,Swahili,0
+baefc5809b,"Hauna hakika, umeifanya wazi kuhusu ni upande unaounga.",Ni dhahiri ni nani unaye muunga mkono.,sw,Swahili,2
+7dd4693c7e,"Hiyo safari ilikua inafaa hiyo kiwango, vile mapatamo ya uelewano wa Jamhuri ya waaminifu wa Texas.",Safari ya Texas ilikuwa ya furaha kupata kujifunza juu ya imani ya Kikristo na motisha.,sw,Swahili,1
+b241b9f69e,"Tangazo katika gazeti la New York Gazette la Rivington mnamo Oktoba 6, 1774, lilitaka kijana ajue kuhifadhi vitabu kuzingatia njia ya Italia, na mwingine alikuwa kutoka kwa mtu ambaye anataka mahali.",The Gazette ilikuwa gazeti katika Mexico.,sw,Swahili,2
+189cc3c975,"Uanachama ulijumuisha  kati ya wanaume wazima thelathini na hamsini kwa sura (inayoitwa moradas) na waligawanyika kuwa wanachama wawili wa kawaida, wanaoitwa hermanos disciplantes (ndugu ambao wanawaadhibu), na maafisa, waliwaita hermanos de luz (ndugu wa mwanga).",Vitengo hivi vilikuwa na jukumu la kugeuza watu wa asili katika Amerika ya Kati.,sw,Swahili,1
+593e602b98,Utajuaje kama umeridhika ama hujaridhika na jinsi taarifa zinapeanwa?,Nashuku hujawahi tazama habari ya network.,sw,Swahili,2
+d94b77de1f,Sikuweza kupata ufafanuzi kama huo kamusi ya visawa,Niliangalia kwenye Thesaurus na sikupata ufafanuzi.,sw,Swahili,0
+26d1adc9ae,Hakuna tofauti kati ya wanafunzi wadogo na wazee katika alama za mtihani wa mafanikio.,"Ingawaje matokeo ya mtihani ya wanafunzi wa umrimdogo na mkubwa ni sawa, wanafunzi wa darasa moja wenye umri mdogo humaliza mtihani haraka zaidi.",sw,Swahili,1
+947a94d19e,"Hata hivyo, hivi karibuni Paris imeunda maili za njia za baiskeli ambazo zinapita katikati mwa mji mzima, na kufanya uendeshaji wa baiskeli kuwa salama sana (na kujulikana zaidi).",Ni salama zaidi kuendesha baiskeli Paris.,sw,Swahili,0
+34459472db,"Hata hivyo, ongezeko kubwa katika gharama za vitabu vya sheria, majarida, na huduma za habari zina maana kwamba tu kudumisha makusanyo yetu ya sasa huzidi bajeti yetu.",Bajeti yetu ya sasa haituruhusu kudumisha makusanyo yetu ya sasa.,sw,Swahili,0
+8d13bfa2c6,"Kutishia hakuwezi kutumika,nahodha.","Sio jambo la kukubalika kutishwa, mmoja wa nahodha hao, alisema.",sw,Swahili,0
+a417c669b8,"Um, hapana, kuwa waaminifu, sijawahi kusoma vitabu vyovyote nilivyotakiwa kusoma.",Nasoma vitabu kila siku.,sw,Swahili,2
+3c532badb4,"Ni mbaya sana kwamba kelele kuhusu Finkelstein imefuta mwandishi mwenzake, Birn.","Birn anapata takabadhi yote, tangu habari kuhusu Finkelstein.",sw,Swahili,2
+9086b9db3f,"Tofauti kubwa zilibainishwa, hata hivyo, kama",Kulikuwa na fotauti zilizoonekana wazi.,sw,Swahili,0
+660014e25d,Sijashtushwa na kile ambacho Wolverstone amesema.,Wolverstone amesema jambo ambalo halikufanya mtu kujisikia kupungua.,sw,Swahili,0
+8a15d6de04,"Kwa hiyo, nikamwita U-Haul kuuliza kuhusu sera zake za kukodisha.",Nilipigia U-Haul kuhusu sera zao za pili za maderava,sw,Swahili,1
+aff1f7c2f6,"Faaade ya Hekalu la Ramses II ni mojawapo ya picha za kudumu zaidi za Misri na ingawa unaweza kuwa umeziona katika picha, ni kweli za ajabu kwa kweli.",Faade ilikuwa hekalu ya Ramses wa Pili.,sw,Swahili,0
+b3088c823f,"Kila kitu kimeunganishwa, mungu wangu, sijui hata kwa ni muda gani.",Sijui ni kwa muda gani stori inaendelea.,sw,Swahili,1
+df0799dcd8,"Kwa mchango wako kwenye Maktaba, utakuwa mwanachama wa Marafiki wa Jiji.",ili uwe rafiki wa Citywide unahitaji kuchangia maktaba,sw,Swahili,0
+3a2354a6e8,Vipi? Alimuuliza kwa glafla na mshtuko wa hamu.,Punde tu akavutiwa kwenye gumzo.,sw,Swahili,0
+6d6f3f219e,"Baada ya karne mbili ya uzushi, kanisa ilihitaji mwamko mpya wa kiroho, na ikampata rafiki kamili katika Francis wa Assisi (1182-1226), mzingatia dini  bila ya usumbufu wa fujo.",Kanisa lilipata usaidizi mwingi wa kifedha kutoka kwa Francis wa Assisi.,sw,Swahili,1
+7f12a31fd5,"Kwa mfano, baadhi ya dondoo hutolewa kwa usahihi kutoka kwenye vifaa vinavyotumiwa au mahakama ambayo mchezo huu huchezwa.",Jambo hili hutokea mara kwa mara wakati mchezo unapoundwa kwa kutumia vifaa vya michezo mingine.,sw,Swahili,1
+22526e9ed8,Nyani aina ya Leaf monkeys na macaques wenye mikia mirefu ni baadhi ya wanyama pori.,Wana tumbili 200 huko.,sw,Swahili,1
+df393a3386,Charles Lane Jamhuri Jipya anasema kuwa Habari za Ukamataji zinapanua rekodi ya Gabriel Garcaa Marquez ya uandishi wa habari usioaminika.,Charles Lane ni mwandishi.,sw,Swahili,0
+29271a65cb,"Janga la mabomu ya ubalozi liliwapa nafasi kote serikalini ya uchunguzi kamili, ya tishio la usalama wa kitaifa ambalo Bin Ladin alifanya.",Ulipuaji katika ubalozi uliwaua watu kumi na watano.,sw,Swahili,1
+e0e885e513,"Ninakuomba kujiunga na mimi katika kuweka upya ahadi yako ya msaada kwa Maktaba ya Chuo Kikuu katika IUPUI, na kuzingatia kuongeza mchango huo.",IUPUI haikubali misaada tena.,sw,Swahili,2
+0eef6833cb,Sina habari za kutosha.,Nahitaji kupata habari zaidi kuhusu hii jambo.,sw,Swahili,0
+6361ade1e6,Lakini pia kuna ushindani mkali kati ya shule za sheria ili kuvutia wanafunzi bora zaidi na wenye makali zaidi.,Shule za sheria zinataka wanafunzi bora zaidi.,sw,Swahili,0
+842f7abca3,Na leo tunapaswa pia kuwa na misingi ya kuzingatia usawa wa mwanadamu kama haki ya msingi ya haki ya kijamii na kisiasa.,Social and political justice should foster human equality.,sw,Swahili,0
+dc1579f33e,"Yeye akawa, Usijali kuhusu hilo, unajua, chukua muda wako tu.",Aliniambia nafaa kuharakisha mara moja.,sw,Swahili,2
+ebaccf9a1e,Lakini Wolverstone hangeacha.,Wolverstone haukufika mwisho,sw,Swahili,0
+ae6dceab39,Ilikuwa raha mno na na nilikuwa nmevuma sana. Nafikiria ilikuwa ni wiki moja baada ya kujitokeza,Nilikuwa kule usiku ikifunguliwa kwa hakika.,sw,Swahili,2
+a07a9388a0,Darwin huanza na maisha tayari hapa.,Darwin alianza na maisha yaliyokuwako.,sw,Swahili,0
+ab68526ce0,"Si kawaida, mimi hupita mapishi yoyote ambayo ina zaidi ya hatua tano au sita kwa sababu najua kamwe siwezi kuchukua muda wa kufanya hivyo",Huwa sifanyi resipi ngumu.,sw,Swahili,0
+162a8dc48c,Baridi bado na mbali zaidi kuliko milele ilikua sauti ya uongozi wake.,"Mfalme aliongea na kila mtu kwa upole, kuoneshana kuwa mtu wa joto na upole.",sw,Swahili,2
+6a974171f5,"Ili Kuwa mteja wa kuunda Dhamana, Mshirika Aliyezingatia katika Matokeo ya Biashara.",Ni bora kutilia maanani faida na si wateja.,sw,Swahili,2
+94ba3c3131,Mtu anawezaje kufanya hivyo.,Itakuwaje kwamba watu wengi hawana cha kufanya?,sw,Swahili,2
+e4df4c7471,"Miramar, mkaazi mzuri aliye na makao ya kifamilia, hufaidika kutokana na nafasi yake kando na uwanja ya ndege ya Grande",Miramar mna nyumba zilizorembeka.,sw,Swahili,0
+040ad2316a,"Mwanamume huyu alizaliwa Ujerumani, ni tajiri, msomi, amezuru sehemu nyingi sana...","Mtu huyu alizaliwa huko Arkansas na alikuwa maskini, asiye na elimu na hakuwahi kusafiri.",sw,Swahili,2
+faf0ef12f0,Njia ya Lamar Alexander ya utendaji kazi  ni muhimu kuzingatia ingawa haina mantiki ya kutosha.,Mtu hafai kupoteza wakati akizingatia mbinu ya Lamar Alexander.,sw,Swahili,2
+feb799d32f,"Miezi mitatu baada ya kujiandikisha, wawakilishi wa nje wanatathmini sampuli ya madai ya kila mtoa mpya ili kuona kama kuna masuala yoyote ambayo yanayopaswa kujadiliwa.",Wawakilishi wa shamba hawajadili madai.,sw,Swahili,2
+d98396ffea,"Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.",Snake River imejaa nyoka.,sw,Swahili,0
+41bb1ee8b1,"Mnamo Agosti 25, baada ya kusanyiko la Kidemokrasia lilifungua mji wa Atlantiki, N.J., Johnson, mwenye umri wa miaka 56, alitishia katika mazungumzo matatu yaliyoandikwa kujiondoa kwenye mashindano ya urais.",Johnson hakuwai kufikiria kuhusu kujitoa.,sw,Swahili,2
+5231fa98cb,Unajua nani angeelewa.,Nafikiri unajua nani anaweza kuelewa.,sw,Swahili,0
+fc1358d63a,CIA iliufunguanisha ile sinema na kuipeleka ka Muungana wa Kimataifa(UN) siku iliyofuata.,CIA ilileta filamu kwa Umoja wa Mataifa.,sw,Swahili,0
+14732dcdb1,"Na kama ingekuwa na mwendo wa dharura na kuendelea hivyo hivyo, ingeenda 'whish,' na kana kwamba ingeng'oa kichwa chako.",Itaongezeka mara moja tu.,sw,Swahili,2
+05e03ce5ad,"Tangu mwaka wa 1996, utajiri kwa kila nyumba imeongezeka sana, hadi kufikia 6.4 mwaka wa 1999.",Kaya zimepoteza utajiri mwingi.,sw,Swahili,2
+2da1d4d98c,"Leo neno barbacoa hutumiwa tu kumaanisha kupikia nyama ndani ya shimo, pia huitwa kupikia shimo.",Neno barbacoa lilitumika kwanza huko Misri ya kale.,sw,Swahili,1
+eb72892f8a,Haiwezekani kujua kiwango au mwelekeo wa upendeleo katika mabadiliko ya jumla ya matukio kulingana na matumizi ya jumla ya kazi moja C-R kila mahali.,Ni kawaida kuna upendeleo.,sw,Swahili,2
+9dfd848472,Baadhi ya dhana zimeonyesha kufaulu kwao kwenye hatua ya majaribio na ziko tayari  kufanyiwa upanuzi.,Wengine wao wamefaulu nyakati za mitihani.,sw,Swahili,1
+5a984e3e66,Wakuu pia waliangazia Pakistan na kenye inaweza  kuwafanyia wenye Taliban na wenye Al Qaeda.,Talebani walikuwa marafiki wa karibu na Al Qaeda.,sw,Swahili,1
+cc5274bed4,"Kwa hivyo, mshahara wake ukaongezwa na marupurupu mengine kuongezwa maradufu, kutoka takriban dola 465 za Marekani hadi 3,925 katika kiwango hicho hadi Desemba 2000.",Alihitaji pesa zaidi ili asafiri.,sw,Swahili,1
+51fee2a9f2,"Sauti kama maili tatu kwa kipenyo,kaldera ilifikiriwa kuwa kubwa katika mlipuko wa volkano.","Mlio wa maili 2 waweza kuwa ulisababivhwa na vitu vingi, pamoja na mlipuko wa volkano.",sw,Swahili,1
+bd8db6f505,"jiji la Liao Beijing, hapo awali likijulikana kama Yanjing, Limekaa katika eneo la Kusini Mashariki, ambalo ni mji mkuu wa kisasa leo, ikiwa na hekalu la Fayuan,mnara pekee uliobaki.",Hekalu la Fayuan hupata wageni zaidi ya mia tano kila siku.,sw,Swahili,1
+20d8ad45c4,"Bwana, ni kama ako nafsi mbili tofauti.",Bosi wangu alikua mcheshi na thabiti.,sw,Swahili,2
+2b01f43d61,"Wanatufundisha kuwa thabiti, imara, na wenye busara.","Kuwa na uazimio, mtu asiyekubali haraka na mbunifu ni ujuzi ambao unaweza kufundishwa.",sw,Swahili,0
+10c2e07eaf,"Kizazi cha Mheshimiwa Kaplan kimekufa kwa kiasi kikubwa, na watoto wake wamekuwa wa-Amerika.",Wengi wa kizazi cha Bw. Kaplan washakufa.,sw,Swahili,0
+ed09c4ab39,"Ulinzi wa usafiri, nishati, huduma za dharura, huduma za kifedha, na mifumo ya mawasiliano inazidi kuwa muhimu kwa sababu hutegemea sana teknolojia ya habari.",Ni rahisi kwa walaghai wa tarakilishi kulenga mifumo ya usafiri na nishati.,sw,Swahili,1
+b56bf3c292,Kwa matumizi ya kawaida kwenye kundi la tatu huwa na mwanzo wa kufafanua ngono.,Hili halisisimui.,sw,Swahili,2
+e6723704a7,"Niamini, nashukuru.",Mtu huwa na shukrani kweli.,sw,Swahili,0
+02c2fa2677,00 wamewekeza katika programu ya mazoezi ya kazi kwa mtu katika ustawi anaokoa $3.,Asilimia ya wananchi wenye miaka ishirini na tano na zaidi wako kwenye masilahi.,sw,Swahili,1
+64cf530dbb,Kielelezo 3 kinaonyesha matokeo ya msingi kwa mifano miwili.,Mchoro wa 3 unaonyesha kile ambacho mifano hufanya.,sw,Swahili,0
+c9bfb47b3a,Nina zaidi ya kazi.,Sina kazi wala nilichopenda kufanya,sw,Swahili,2
+a31c6546f2,Mbinu bora katika hali iliyo chafuliwa kwa kutokuwa kamili ni kujitambulisha mwenyewe kuwa na furaha.Mkuu kwa wote kwenye kulia na akushoto.,Makosa ya mtu binafsi yanaweza leta hali mbaya.,sw,Swahili,0
+228af3bd2b,Mama yangu alijeruhiwa kuwa sio mojawapo ya mapendekezo yake mapema hivyo alikuwa amesimama kwa kufanya kazi katika mashamba ambapo baadhi ya watoto wengine hawakufanya kazi katika mashamba.,Mamangu alikua mtoto wa dhahabu kwa hivyo hakuwa na haja ya kufanya kazi.,sw,Swahili,2
+806857300b,"Rudolph Giuliani anatetea ushujaa wake wa risasi ya Amadou Diallo kwa Newsweek. [Idara ya Polisi ya New York] sio KKK, yeye hutoa.",Rudolph Giuliani alitoa taarifa kwenye Newsweek kuhusu huduma zake katika mapambano ya risasi kwa Amadou Diallo.,sw,Swahili,0
+0b6dfad320,"Ikiwa ndivyo, uteuzi wa kawaida tu ndiyo ungeliweza kuifanya hivyo.","Ikiwa ndivyo, basi iliundwa kwa njia hiyo na Mungu.",sw,Swahili,2
+a82a7c0fa2,Mimi nakubali kama njia pekee ya kutuokoa wote kutokana na uharibifu fulani ambako kitendo changu mwenyewe kinaweza kutuletea.,Hakukuwa na kusema  jinsi shida ingeweza kutatuliwa kwa urahisi.,sw,Swahili,1
+647f9fdcaf,"'E ina maana ya fonemu / e /, ambayo katika neno hili inaitamkwa kama e e ebb katika aina zote za Yiddish.",Kila lugha ya Kiyidi huita 'e' kwa neno hili tofauti.,sw,Swahili,2
+6d101fabf4,Um-hum vizuri na ningekuwa nasema kuwa kuna maeneo mengine ambayo wanaweza kukataa mimi sio lazima ila kukataa huko,Mimi nilikuwa naenda kupendekeza kupunguzwa kwingine.,sw,Swahili,0
+3651201f68,"Mali ni mfululizo usio na mwisho wa michemko katika anga, au kwenye mtandao, na watu tofauti wanaodai kuwa na maslahi mbalimbali ndani yake.",Hakuna mtu anayemiliki mali kweli.,sw,Swahili,2
+056d5cc001,"Kwa mujibu wa kikundi kikuu cha usalama cha habari, utaratibu huu huongeza uelewaji wa usalama kati ya mameneja wa biashara, hutoa msaada kwa udhibiti unaohitajika, na husaidia kuunganisha maanani ya usalama wa habari katika shughuli za biashara za shirika.",Usalama bora waweza kuboresha ufanisi wa mahali pa kazi kwa asilimia 10 au zaidi.,sw,Swahili,1
+bd5d898880,"Mimi....Siwezi kufikiria kwa nini uongee na mimi hivi, alisema pasipo na uhakikisho wake wa mwanzo.",Alitaka kujua kwa nini hakuwa amemwongelesha neno moja.,sw,Swahili,2
+d5572d7dcd,Wengine wenye thamana kutembelea ni nyumba ya Balzac (47 Rue Rayanouard) na studiRue de Furstenberg).,Nyumba ya Balza na studio ya Delacroix ndio vitu vyema vya kuona eneo hilo.,sw,Swahili,1
+89b7e4314c,"Uzuri wa ziada, ama senti thelathini kwa chupa sita, kila mtu huvuka mpaka kununua pombe nafuu.",Pakiti inayobeba vitu sita ni karibu senti 30 nafuu katika mpaka.,sw,Swahili,0
+554b787af9,Yadi zilizojaa za historia zimetapakaa na uharibifu.,Ushahidi uko kwenye uharibifu katika yadi ya uchafu ya historia.,sw,Swahili,0
+10a4e6758f,Chapisho za kujaribu zilitumika na kampuni za kifedha katika hatua za kutengeneza bidhaa na si katika kuanza kutumia bidhaa.,kampuni mingi zaitaji mifano kuonyesha teknolijia yao mpya kwa umma,sw,Swahili,1
+c1bc73586e,Uchunguzi wa mafaili kunaakilishwa ilipeanwa kwa mteja.,Mteja atapewa faili za kesi.,sw,Swahili,0
+2011340f24,"Lakini hata hivyo, wanyama wangekuwa huru wakati wote, hasa mbuzi.",",Mbuzi alitoroka alipofungiwa kila siku.",sw,Swahili,1
+0ce8c9f1d3,Milango ilifungwa wakati tuliingia.,Milango yote ilikuwa wazi.,sw,Swahili,2
+e844ed658a,Aliyekuwa kwenye nyumba na kumkodesha Hazmi na Mihdhar chumba mwaka wa 2000 ni mwananchi anayefuata sheria na liye na uwasiliano wa muda mrefu na polisi.,"Hazmi na Mihdhar walikodisha chumba kwa mwaka mzima, kwa $500 kwa siku.",sw,Swahili,1
+5e37395c5b,Walisisitiza kuwa uangalifu wa mara kwa mara unahitajika kuhakikisha kuwa uthabiti mwafaka unafuatiliwa. Kushughulikia athari za sasa na pia kuzuia kusimamishwa kwa operesheni na kuwa wenye kutumia na jukumu la kudumisha mifumo ya habari inafuatilia sera za shirika.,Walisema ilikuwa muhimu kuwa macho,sw,Swahili,0
+b7ef454c7a,"Oh, tafadhali. Kulikuwa na mshtuko halisi katika sauti yake.",Sauti yake ilionyesha unyamavu na upole.,sw,Swahili,2
+36b2e6c6ed,"Ujuzi wa IT unahitajika vikumbwa hili limefanya uajiri katika serikali kuwa ngumu, hivyo CIO hii ilitafuta njia mbadala za maendeleo ya ndani ya programu.",Watu wanahitaji wafanyakazi wa IT kusaidia kuunganisha mifumo ya kompyuta.,sw,Swahili,1
+08a2395e2b,"Engini mbili za megawati 900, kona nane, inapigwa na T ambazo zinatumia takriban asilimia 1.5 sulfur lami ya mawe ya makaa.",Vitengo hivyo havichomi makaa ya mawe ya sulfuri.,sw,Swahili,2
+658651c784,Hongera kwa mungwana! alicheka.,mheshimiwa alikejeliwa kwa ukosefu wa nguzo sambamba za tukio hilo,sw,Swahili,1
+b5aa619e72,Lamar Alexander aliangusha jitihada yake ya urais.,Lamar Alexander alikataa kutoa kampeni yake ya urais.,sw,Swahili,2
+8cbec8f75a,"Cala Mondrage kivitendo haijaendelea( kwa viwango vya fuo za Mallorca), na inaweza kuendelea hivo kwa masharti ya serikali ya eneo hilo, ambayo imekuwa na shauku kutokana na tukio la ujenzi usiopangwa katika ufuo hio.",Eneo ya Cala Mondrage haina maendeleo.,sw,Swahili,0
+652cd41f15,Mimi nilikuwa nimeridhika nayo.,"Nilisema La, ikaendelea na kuendelea.",sw,Swahili,2
+98dab43a24,Kukua kwa mwili wa ushahidi kunaonyesha kwamba hatua katika idara ya dharura zina ufanisi na kwamba rufaa ya matibabu yaweza fanya kazi.,hamna chochote idara ya dharura yaweza kufanya katika kesi hii,sw,Swahili,2
+917fe7941b,"Ni waz kwambai, jitihada za kukuza thamani na AICPA za biashara zinazidi kujaza ajenda yake katika miaka ya hivi karibuni.",AICPA imekuwa ikiendelea kwa zaidi ya mwaka.,sw,Swahili,0
+e2d8770096,Nitakutafuta mnamo Desemba tarehe 11!,Ninatarajia uwe huko Desemba 11 saa moja kabla ya tukio kuanza.,sw,Swahili,1
+3556ef0195,"Bila shaka, azimio lako lilikuwa la thamani, Shukrani kwake kwa kukuokoa kutoka kwa wa Spaniards",Unamchukia kwa kukutoa kutoka kwa Wahispania.,sw,Swahili,2
+fdfd62b6bb,"Huko Tokyo, muhariri wa nakala ya The Economist alishuhudia tangazo la maziwa ya Bourgeoisie kwa shati ya kijana wa kiume.",mwandishi wa 'The Economist' alikua Tokyo na akaona shati fulani,sw,Swahili,0
+695fefb480,"Kuanzia Mei hadi katikati ya Oktoba, Boston Harbor Cruise Company (Nambari ya Simu.",Kuna safari za baharini ndefu sana karibu na Bandari ya Boston.,sw,Swahili,1
+d68d4668b1,"22 Licha ya viwango hivi madhubuti vilivyotungwa sheria 'na viwango vya mshahara vilivyosasishwa mara kwa mara,' ukiukwaji mkubwa katika maeneo ya kazi ya nguo umekuwa kawaida katika miaka ya 1990.",Viwanda vyote vya nguo na maduka yalifungwa kwa kudumu mwaka 1980.,sw,Swahili,2
+49336b18d8,Kila mtihani ulijumuisha kifaa cha kupima ili waliofanya huo mtihani watambue kiwango chao cha ujuzi wa mila za Chicano.,Mtihani huo ulitumiwa kutathmini ujuzi wa mgombea wa utamaduni wa Chicano.,sw,Swahili,0
+28bf9cb578,Kwa televisheni yako una hisi kuwa na adhabu ya wezi wa televisheni.,Unafikiri kwamba adhabu sahihi kwa mtu anayeiba runinga ni kifo.,sw,Swahili,0
+321cabaa6b,hivyo nataka kuendelea kwa sababu ninajua kwamba kama huna kuna matatizo mengi ambayo unaweza kuwa nayo.,Afya yako inaweza kudhohofika ikiwa hutaendelea kufanya kazi ili uendelee kuwa na afya nzuri.,sw,Swahili,1
+398dd64584,"Inaweza kuendelea kwa miaka ishirini, ninadhani hii ni ujinga.",Nafikiri ni ya kushangaza sana yakuamba inaweza kaa muda mrefu hivyo.,sw,Swahili,0
+93a37fb6f7,"Kulingana na tathmini hii ya hatari, Centrelink ilianzisha mikakati maalum ya kuzuia lengo la kuelimisha walengwa na waajiri juu ya mahitaji ya kuripoti mapato.",Centrelink hakujua jinsi ya kushughulikia tatizo hilo.,sw,Swahili,2
+6ada1ec0d4,"Kama Ross, Mehta anajitahidi kutoa sifa za William Shawn zisizoweza kutamkwa.",Ross na Mehta hawana shida kuelezea kanuni za William Shawn.,sw,Swahili,2
+9d7d0d2973,Masharti za FDA hayafanyi iwe ngumu zaidi kwa watu wazima kununua sigara.,Si vigumu kwa watu wazima kununua sigara hata kwa kanuni za FDA.,sw,Swahili,0
+9d1381a38d,"Kulingana na riwaya za Kifaransa za uzoefu wa jeshi, unaeza pata jeshi akipendekeza kwa wenzake, Allons, les gars.","Chini ya riwaya za Kifaransa, mtu anaweza kupata aina ya uzoefu wa kijeshi.",sw,Swahili,0
+a0b8fbbccc,Kusisitiza ni kama ibada.,Kuwa thabiti ni kama kufanya mila.,sw,Swahili,0
+466e391be2,Mimi nakubali kama njia pekee ya kutuokoa wote kutokana na uharibifu fulani ambako kitendo changu mwenyewe kinaweza kutuletea.,"Ninaweza kuwa nilileta shida mwanzo ,lakini nitapata suluhisho.",sw,Swahili,0
+f2d904292f,"Hata kama alikuwa acheka alijua baini kwamba, kama alivyojua Pitt kwamba kwenda kusini iyo asubuhi aliibeba maisha yake mkononi mwake.",Alijua atakuwa salama kabisa akiingia mtoni.,sw,Swahili,2
+73d4e55972,"Kwa njia hii,imla ya jina mara na nyinginezo inatakiwa kuwa katika nama moja na zingine.",Imla ya majina ilimfunga mtu aliyeanzisha.,sw,Swahili,2
+b0535fe361,"43 Tommy Franks, mkuu wa amri kuu (CENTCOM), alituambia kuwa Rais hakuwa na furaha.",Kulikuwa na mabadiliko kadhaa ya hivi karibuni Rais akamwekelea lawama Jenerali Frank.,sw,Swahili,1
+64c7874ca8,"Sauti kama maili tatu kwa kipenyo,kaldera ilifikiriwa kuwa kubwa katika mlipuko wa volkano.","Kelele ya maili mbili ilikuwa ulipukaji wa volkeno,",sw,Swahili,0
+b2fca84a8c,Ilikuwa bayana kwamba hatungeweza kukosea hata kidogo.,Hatukukumbaliwa kuendeleza chochote visivyo.,sw,Swahili,1
+0d31272fdd,Tumia mali yake kwa wale wana nafasi.,"Mpe kila mtu, bila kujali watakachofanya nayo.",sw,Swahili,2
+9a88160933,Mtoe na uwatolee ishara watume mashua. Kimya cha mshangao kilijaa kwa meli na tuhuma ya kujisalimisha kwa ghafla.,Hakuna msafiri aliyeshangaa kwenye meli.,sw,Swahili,2
+ef3ddfc20e,Culebra ilijulikana kama Kisiwa Bikira cha hispania mpaka,Culebra iko katikati ya Puerto Rico na St. Thomas katika visiwa vya Virgin vya Marekani.,sw,Swahili,0
+9da04af02b,Ni kipengele kipi cha sera zetu za nje ambacho Richard Clarke anaogopa kitaachwa--Kusimama bila kufanya kitu wakati ambapo raia wanauawa Rwanda ama kusimaa wakati ambapo raia wanauawa Kosovo.,Clarke anajua kila jambo litakuwa sawa.,sw,Swahili,2
+9d16f20e20,"Nilikulia (Kusini kwa ajili ya kulelewa na wazazi wa mtu) ambapo kituo cha treni, au depot, ilikuwa DEE-po.","Nilizaliwa huko Iceland na nilikua huko, mahali ambapo hakuna treni.",sw,Swahili,2
+2fe8f03ca4,"Weka ishara kwa, Kapteni, na uwape ishara ya kutuma mashua, na kujihakikishia kuwa Miss yuko hapa.","Kwa sababu kuwa bi hakutokelezea, hakukuwa na haja ya kuita meli.",sw,Swahili,2
+cbba5a1816,"Wahusika wa tatu walieleza meza ya polisi ya kwamba waajiriwa walikuwa wamepokea kinyume na ushauri kutoka kwa FDNY, ambao ungekuja tu kupitia 911.",FDNY na dawati la polisi hawakuwa wanapatia kila mtu ushauri sawa.,sw,Swahili,0
+6dbf7eb65f,"Unajipeleka mwenyewe katika mikono wa Askofu, Pitt alimpa onyo.",Pitt hakuwaambia chochote.,sw,Swahili,2
+df272e2a02,Kelele ya kweli huwavutia vijana na hutia hofu wazeei.,Wazee hawapendi kelele kwasababu hawawezi kudhibiti hisia zao kirahisi.,sw,Swahili,1
+59b44e9258,Paul anakaa kumuenzi Alan Greenspan kama mwanaitikadi ambaye kwa kweli ana udhibiti wa kiwango cha ukosefu wa kazi kulingana na mwelekeo wa kanuni za kiuchumi.,Paul anafikiria kuwa Alan Greenspan ndiyo mwanauchumi bora zaidi anayejua.,sw,Swahili,1
+a444144ae5,"Ukizipa wakati na teknolojia iliynawiri, simu zote zisizo na redio zitabandikwa simu za waya.",Simu za waya ni msingi zaidi kuliko simu isiyo za redio.,sw,Swahili,2
+26cb12db2c,Siku hizi uzoefu wa kukita kambi ni wakati bwanangu anapoendesha magari za kasi pekee.,Uzoefu wangu kuhusu kambi itakuwa mbio ya magari ambayo mume wangu hufanya.,sw,Swahili,0
+0af70dffc1,"Mwalimu alieleza, kwa njia aliyo tumaini itafaa kwa wasikilizaji wake.",Mwalimu alijaribu kuelezea kwa semi mwafaka kwa hadhira.,sw,Swahili,0
+22a006ea5f,Nathamini fikira zako na natumai ya kwamba utashiriki katika kampeni ya mwaka huu wa kila mwaka.,Natumaini utanipa $100 kwa kampeni,sw,Swahili,1
+fdb4d3297c,"Nataka kusema ya kwamba hakuwa na hatari yoyote ya kuingia na bomu kwa sababu haiwezi kulipuka, licha ya vile ingeanguka kwenye ardhi.",Bomu hiyo haikuwa na nafasi ya kulipuka.,sw,Swahili,0
+42873916ee,Alihamishwa kuinua sauti yake juu ya kiwango cha kawaida cha tepete.,"Aliinua sauti yake juu sana inegesikika maili kadhaa,",sw,Swahili,1
+1337e0e761,"Wolverstone amejitenga mwenyewe kwa urahisi mbele ya nahodha wake nitamwona Kanisa Askofu katika Jahannamu au nimewadanganya kwa ajili yake. Na yeye akatupa, labda kwa madhumuni ya msisitizo.",Wolverstone na Colonel Bishop walikuwa marafiki wa karibu.,sw,Swahili,2
+d01594ebea,Utakuwa na uwezo wa kucheza pamoja na wachezaji kamari wa juu katika roulette au meza ya craps au kuweka sarafu chache katika mashine zakupangwa.,Hauruhusiwi kucheza ambapo wenye pesa wanacheza.,sw,Swahili,2
+176e8f64cb,Diego alifuta maelekezo yake na kwa upeo wa mlima akapata maua mazuri ya Castile yamefunikwa na umande.,Kulikua na maua ya waridi juu ya kilima.,sw,Swahili,0
+7411fc9bf8,"Kama mimi Msikoti wa majivuno, ninahisi kuwa sababu kubwa ya hii maanzilishi ya ukosefu wa tamaa ya kilugha inapatikana kwa majimbo ya kinyumbani.",lugha ya Kiskoti inajulikana kuwa na kujitakia makuu sana.,sw,Swahili,2
+c57c203ef6,Mahitaji ya shule ya sheria yanaanzia ununuzi wa vituo vya ziada vya kompyuta ili kulipa gharama za usafiri wa timu zetu za mahakama na kutengeneza upya mapumziko ili kununua vifaa muhimu vya kurejelea kwenye maktaba.,Chuo cha mawakili una msingi wa karatasi na kompyuta na technolojia za kidijitali ni marufuku.,sw,Swahili,2
+9d97990f45,"Maelewano na wajibu wa maisha chini ya sheria hauna maana kwa watu binafsi wanaosimama peke yao, wanaotawaliwa na maadili yao wenyewe na mahitaji yao wenyewe.",Watu wanapaswa kufanya mambo magumu sana ili kufanya maisha yao yawe ya thamani kuishi.,sw,Swahili,1
+92f2651b32,Nitaondoa sababu yoyote kuweka shaka. Sauti ya Jaji mkuu haikuchochea chochote cha upungufu wake.,Ufalme wake ulikuwa bubu.,sw,Swahili,2
+1b435e21df,"McKim, kiasi cha hasira yake, sio waliopotea tu bali kuwekwa tatu nyuma ya Howard & amp; Cauldwell.",McKim alifurahi sana kwa kumaliza wa kwanza.,sw,Swahili,2
+febb8c36eb,"Pamoja na misaada ya mipango ya msaada kutoka shirika la sheria, Baraza la Wanasheria limeajiri mshauri ili kusaidia Baraza la Kuratibu kuunda mpango wa upyaji wa kuhamishwa kwa shirika la sheria  Machi hii.",LSC watatathmini mpango huu katika siku tisini zilizotengwa,sw,Swahili,1
+051fde2f65,"Mungu ametajwa kama  mungu wa mazingira tu,kwa adili kila mtu ana halali tofauti na sawa katika jumuia ya kimataifa.",Watu watakuwa tofauti lakini sawa.,sw,Swahili,0
+c10e8a32b3,Ni ngumu kupata ushahidi kuwa Bin Laden aliagiza mashambulizi.,Kulikuwa na ushahidi wazi wa Bin Laden akiendesha mashambulizi.,sw,Swahili,2
+234e02a15e,"Kwa hilo hatua, chembechembe ya kawaida haiwezi weka habari nyingi.",Fuwele mara kwa mara ni kati ya uhifadhi wa taarifa za juu sana.,sw,Swahili,2
+b704edae8a,"Kama mwanachama wa Nussbaum, umetusaidia kuokoa wanyama waliohatarishwa--na nyumba zao.",Wahiriki wa Nussbaum hawana adhara yoyote kwa kuokoa wanyama walio katika hatari ya kuangamia milele.,sw,Swahili,2
+170d9cada5,Ilinichukua takribani muda wa masaa moja mbili hivi kupata nilichohitaji.,Ilinichukua muda mrefu kwasababu kikabu kilikuwa kikubwa na cha kuchanganyisha.,sw,Swahili,1
+35c43ee4f4,"Sherehe hii inasherehekewa kati ya siku tatu hadi nne hivi, huku vita mingi zikifanyika ili kushinda tena msalaba mtakatifu.",Sheerehe iko Italy.,sw,Swahili,1
+4df3e2e64f,Yadi zilizojaa za historia zimetapakaa na uharibifu.,"Wakati mwingine, bidhaa maalum zinazoleta makumbusho ya tukio katika historia zinapatikana katika yaliyoharikibika.",sw,Swahili,1
+8e0fb286ca,"Kwa upande mwingine, ana Mark Twain kati yake na mchana.",Mark Twain anasimama kati ya mchana na yeye.,sw,Swahili,0
+c9e7fef28b,Mfano wangu wa dhati unabaki kuwa chura na nzi.,Ninapenda madai.,sw,Swahili,1
+327209fa24,"Alikuwa mtoto wa waziri, walikuwa na mali nyingi na walikuwa wanajuana na watu maarufu. Walikuwa wanaheshimika sana katika jamii.",Baba yake alikuwa mchungaji Lutheran,sw,Swahili,1
+87ddb94f16,Barabara hizo zinapinda kona kali na kupita katika maporomoko,Barabara ilikuwa sawa kabisa.,sw,Swahili,2
+d656d9e7cf,"Kulikuwemo shida nyingi za kimitambo, hususan kombora za Hellfire.",Makombora ya Hellfire yalikua na kasoro za kiufundi,sw,Swahili,0
+bc4a5a4bca,hivyo kama tuna fursa tu kwa sababu ni tulivu,"Maeneo njee ya mji, kumenyamaza kuliko ndani ya mji.",sw,Swahili,1
+4e6676dfb2,"Ndio, nitajaribu labda kwenda kuona.",kuna uwezekano nitaenda kwenye jumba la makumbusho kuona maonyesho mapya,sw,Swahili,1
+bc56d5fead,Kueleza sana kwamba Hillary Rodham Clinton anaweza kuwa na kitu chochote cha kujifunza kutoka kwa Princess Diana kulikuwa kwa kushangaza ya kutosha kunifanya kugwaya Hillary na Di. Margaret Carlson.,Hillary Clinton ni mtu mkamilifu.,sw,Swahili,2
+9a46ca92a9,"um, vizuri, mimi ni kama nina miliki kompyuta, tuna kompyuta mbili nyumbani lakini hakuna hata mmoja ambayo tunamiliki kwa hakika, um, zote mbili ni kama zinahusika kwa kazi na",Nina kompyuta ya Apple na ya HP nyumbani.,sw,Swahili,1
+e59e88cabd,"Kwa njia zingine kazi ya pamoja imeimalika, na kwa njia zingine ni imeathirika.","Kutoka siku hio, kazi ya kushirikiana imeimarika sana.",sw,Swahili,2
+f0c927b418,Na jambo la kusherekea ssiku yake ya kuzaliwa tuliamua kuifanya kisiri.,Tulitupia kuzaliwa kwa mshangao kwa ajili yake,sw,Swahili,0
+a582533c75,Ofisi ya Sensa ya Marekani imepanga takwimu ya Sensa ya Idadi ya Watu na Makazi ya 1990 kwa kutumia Msimbo wa ZIP-5.,Hakukuwa na Sensa Marekani iliyofanywa 1990,sw,Swahili,2
+25a52db5b8,80% ya washiriki wataripoti kuongezeka kwa ujuzi katika utatuzi wa migogoro.,Ni robo pekee ya washirika watakao ripoti kuongezeka kwa ujuzi wa kufumbua migogoro.,sw,Swahili,2
+dc46b292e5,"Na ni bora gani ya hizi? - Je! Wewe wamwogopa mjinga Barbados mpanda?  ? Nini chakusumbua wewe, Petro? Sijawahi kukujua kuwa mwoga. Bunduki ilifyatuka nyuma yao.",Walisikia milio ya risasi na wakajua inawaelekea.,sw,Swahili,1
+85cb148b80,"Hautaenda? alisema, kati ya swali na madai.",Thafadhali usiende! alisihi.,sw,Swahili,2
+b009917cde,sio wanasheria tu lakini maafisa wa polisi na majaji na taaluma yote ya kisheria kwa ujumla,Haimhusu mtu yeyote anayehusika na idara ya sheria.,sw,Swahili,2
+8357edd59c,"Kuzungusha kwa mkia au kuenea, na imeenda.",Inashtusha rahisi sana ni mienendo ya kasi.,sw,Swahili,1
+71aecb16a9,"Je, wastani wa takwimu unaweza kuwa chanzo cha utaratibu katika viumbe?",Viumbe hufafanuliwa na vurugu; hakuna kidokezo cha utaratibu ndani yao.,sw,Swahili,2
+96add82587,JEDWALI A.- JUMLA YA POSHO ZA ZEBAKI IMETENGWA AU KUUZIWA KWA EGUS,Hakuna kanuni kuhusu zebaki.,sw,Swahili,2
+307c313d3a,Yeye ni mnywaji wa damu.,Yeye hunywa damu.,sw,Swahili,0
+6d012abb85,"Kuhusu yeye katika kiuno, ambapo usiku wote uliopita ulikuwa na amani sana, kulikuwa wazimu wenye zogo ya watu sitini.",Usiku ulionekana kuwa wa kupumzika ingawa kulikuwa na vurugu nyingi baadaye.,sw,Swahili,0
+f206f58a2d,"Tangu lini ukaamuru katika staha kuu, Ogle? Nachukua maagizo yangu kutoka kwa Kapteni.",Hapakuwa na yeyeote kwenye meli kutoa amri.,sw,Swahili,2
+79725489c9,"Ni kwa njia yake kwamba tuko katika mtego huu, Ogle aliendelea.",Ogle  alikuwa amependekeza ya kwamba wamfutilie mbali mapema.,sw,Swahili,1
+257ff1238c,"Nyumba hiyo inaunganisha makanisa mawili yaliyofanana, Franzesischer Dom (au Kanisa la Ufaransa) kaskazini, lililojengwa kwa Huguenots wahamiaji, na Deutscher Dom (Kijerumani Cathedral) kusini.",Kanisa mbili zinafanana.,sw,Swahili,0
+8324d44540,"Tukiweka bei rahisi, tunahitaji usaidizi wenu kama washirika wa msaada kidogo ili tufikie azimio letu.",Mchango wenu unatusaidia kuhifadhi bei ya chini.,sw,Swahili,0
+3f8eb35d6e,"Madarasa madogo, matumizi ya teknolojia), na kutokana na ukosefu wa muda mrefu wa nafasi ya wanafunzi (makabati, huduma ya chakula, ofisi za mashirika ya wanafunzi).",Kuna makabati miingi sana kuliko vile wanafunzi watawahi hitaji.,sw,Swahili,2
+523390ac9f,Lakini haikupatia kituo kwa nia ya wawindaji.,Ilikuwa imefunga kabisa nia ya waliokua na bunduki kufanya chochote.,sw,Swahili,2
+6502f89b68,"Lakini uh, fikiria juu yake.",Nawaza kuihusu mara mingi.,sw,Swahili,1
+d969597470,"Prudence, mwandishi wetu wa ushauri, amestaafu, na safu yake imechukuliwa na mpwa wake, pia aitwaye Prudence.",Kuna mtu atakayechukua usukani safu ambayo Prudence aliacha.,sw,Swahili,0
+683c853cff,"Na, bila shaka, monumenti kubwa ya karne ya 18, kuelewa uhuru ni katiba na mswada wa haki",Watu katika karne ya kumi na nane walielewa uhuru.,sw,Swahili,0
+7f35d8f01a,"Tunatambua kwamba mabadiliko ya gharama kubwa katika msimamo wa utetezi wa NORAD ili kukabiliana na hatari ya wezio wa kujiua, kabla tishio kama hilo limekuwa limefanyika, ingekuwa ni ngumu kuuza.",Ni gharama zaidi ya dola milioni tano kwa siku ili kuongeza msimamo wa ulinzi wa NORAD.,sw,Swahili,1
+fb9c46eb8f,Huzuni kuu iliwagaonga California sana.,California iliumizwa na uchumi mbaya.,sw,Swahili,0
+568e18c9fb,"Utukufu wa juu huenda kwenye Riven - au kuboreshwa kwa mchezo bora wa kompyuta wakati wote, Myst - kuhusu mtu aliyepigwa kisiwa",Waliotengeneza Myst walipata pesa zaidi ya bilioni kwa kuuza mchezo huo.,sw,Swahili,1
+7a2a340173,Tunahitaji rasilimali za kuongezea hili kuendelea na majaribu ya kufanya GAO ikae na nguvu na  kuwa kielelezo cha shirikisho cha serikali na mashirika ya ukweli kote ulimwenguni.,Tunataka kufanya GAO awe na nguvu zaidi.,sw,Swahili,0
+d439d054e0,Hatua ya pili ya kushangaza ni kudai Omnes kwamba baadhi ya uchunguzi hauwezi kuzingatiwa.,Omnes alisema unaweza kuona kila kitu.,sw,Swahili,2
+2089edf725,"Ingawa inasaidia ikiwa una nia ya siasa za Marekani, maonyesho yanayokuwezesha kusikiliza mkanda wa Watergate au mahojiano ya Nixon kwenye mambo ya kigeni bado yanavutia.",Unaweza skia tepi ya Watergate mwenyewe.,sw,Swahili,0

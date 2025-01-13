@@ -1,0 +1,6 @@
+id,premise,hypothesis,lang_abv,language,label
+be4b83e513,evet evet evet evet doğru ve bu doğru değil,,tr,Turkish,2
+e69f9f6569,"Söylesene dostum, ölüme terk edildiğini bilmiyor musun? Çölde üç hafta boyunca seni kaybettikten sonra ölüme terk edildin",,tr,Turkish,1
+83ef1d5815,Öğle yemeğinde ne yiyeceğiz? Akşam yemeğinde ne yiyeceğiz?,,tr,Turkish,2
+0e9efd4eca,"görünüşe göre görünüşe göre Ekspertizciler bundan hoşlanıyor çünkü vergilerimiz gerçekten yüksek, öyle değil mi? Ekspertizci bundan hiç hoşlanmadı",,tr,Turkish,2
+be4a343e63,"orada ve onlar uh onlar aslında onlar bunu uh yirmili yılların sonlarında yaptılar ve aslında kalan ekipmanların bir kısmını kullandılar ve uh onları reddetti, çoğu insanın kanalın ne kadar küçük olduğunu fark etmemesi ilginçtir, hiç orada bulundunuz mu? Kanal insanların beklediğinden daha küçük",,tr,Turkish,0
